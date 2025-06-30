@@ -1,0 +1,414 @@
+TITLE X—Committee on Transportation and Infrastructure
+
+SEC. 100001. Coast Guard assets necessary to secure the maritime border and
+interdict migrants and drugs.
+
+(a) In general.—For the purpose of the acquisition, sustainment, improvement,
+and operation of United States Coast Guard assets, in addition to amounts
+otherwise made available, there is appropriated to the Commandant of the Coast
+Guard for fiscal year 2025, out of any money in the Treasury not otherwise
+appropriated, to remain available until September 30, 2029—
+
+(1) $571,500,000 for fixed wing aircraft and spare parts, training simulators,
+support equipment, and program management for such aircraft;
+
+(2) $1,283,000,000 for rotary wing aircraft and spare parts, training
+simulators, support equipment, and program management for such aircraft;
+
+(3) $140,000,000 for long-range unmanned aircraft systems and base stations,
+support equipment, and program management for such systems;
+
+(4) $4,300,000,000 for Offshore Patrol Cutters and spare parts and program
+management for such Cutters;
+
+(5) $1,000,000,000 for Fast Response Cutters and spare parts and program
+management for such Cutters;
+
+(6) $4,300,000,000 for Polar Security Cutters and spare parts and program
+management for such Cutters;
+
+(7) $4,978,000,000 for Arctic Security Cutters and domestic icebreakers and
+spare parts and program management for such Cutters and icebreakers;
+
+(8) $3,154,500,000 for design, planning, engineering, construction of, and
+program management for shoreside infrastructure, of which—
+
+(A) $400,000,000 is provided for hangers and maintenance and crew facilities
+for the fixed wing aircraft for which funds are appropriated under paragraph
+(1) and rotary wing aircraft for which funds are appropriated under paragraph
+(2);
+
+(B) $2,329,500,000 is provided for homeports for the Cutters for which funds
+are appropriated under paragraphs (4), (5), (6), and (7), National Security
+Cutters, and other Fast Response Cutters; and
+
+(C) $425,000,000 is provided for design, planning, engineering, construction
+of, and program management for enlisted boot camp barracks, multi-use training
+centers, and other related facilities;
+
+(9) $1,300,000,000 for aviation, cutter, shoreside facility depot maintenance,
+and C5I service maintenance, of which $500,000,000 is provided to acquire,
+procure, or construct a floating dry dock under subsection (b) and conduct
+channel dredging necessary to allow Cutters for which funds are appropriated
+under paragraph (4) and National Security Cutters to be maintained and
+repaired in such dry dock; and
+
+(10) $180,000,000 for equipment and services for maritime domain awareness, of
+which $75,000,000 is provided to contract the services of, acquire, or procure
+autonomous maritime systems.
+
+(b) Requirements.—
+
+(1) IN GENERAL.—Except as provided in paragraph (2), the Commandant may not
+acquire, procure, or construct a floating dry dock for the Coast Guard Yard
+with amounts appropriated under subsection (a).
+
+(2) PERMISSIBLE ACQUISITION, PROCUREMENT, OR CONSTRUCTION
+METHODS.—Notwithstanding paragraph (1) of this subsection and section 1105(a)
+of title 14, United States Code, the Commandant may, through September 30,
+2030—
+
+(A) provide for an entity other than the Coast Guard to contract for the
+acquisition, procurement, or construction of a floating dry dock by contract,
+purchase, or other agreement;
+
+(B) construct a floating dry dock at the Coast Guard Yard; or
+
+(C) acquire or procure a commercially available floating dry dock.
+
+(3) FLOATING DRY DOCK DEFINED.—In this section, the term “floating dry dock”
+means equipment that is—
+
+(A) documented under [chapter
+121](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-
+title46-chapter121-front&num=0&edition=prelim) of title 46, United States
+Code; and
+
+(B) capable of meeting the lifting and maintenance requirements of an Offshore
+Patrol Cutter or a National Security Cutter.
+
+(c) Limitation.—Not more than 15 percent of the amounts provided in paragraph
+(9) of subsection (a) shall be available for design, planning, and engineering
+of the facilities described in such paragraph.
+
+(d) Application.—In carrying out acquisitions or procurements for which funds
+are appropriated under subsection (a), sections 1131, 1132, and 1133 of title
+14, United States Code, shall not apply.
+
+(e) Entity other than the Coast Guard.—Notwithstanding section 1105(a) of
+title 14, United States Code, in carrying out acquisition, procurement, or
+construction of Arctic Security Cutters or domestic icebreakers for which
+funds are appropriated under subsection (a)(7), the Commandant may provide for
+an entity other than the Coast Guard to contract for such acquisition,
+procurement, or construction.
+
+(f) Compliance with applicable reporting requirements.—None of the amounts
+provided in—
+
+(1) this section may be obligated or expended during any fiscal year in which
+the Commandant is not compliant with sections 5102 and 5103 (excluding section
+5103(e)) of title 14, United States Code; and
+
+(2) paragraphs (1) and (2) of subsection (a) may be obligated or expended
+until the Commandant provides the report required under section 11217 of the
+James M. Inhofe National Defense Authorization Act for Fiscal Year 2023
+([Public Law
+117–263](https://www.gpo.gov/fdsys/pkg/PLAW-117publ263/pdf/PLAW-117publ263.pdf))
+to the Committee on Transportation and Infrastructure of the House of
+Representatives and the Committee on Commerce, Science, and Transportation of
+the Senate.
+
+(g) Notification requirement.—The Commandant shall notify the Committee on
+Transportation and Infrastructure of the House of Representatives and the
+Committee on Commerce, Science, and Transportation of the Senate not less than
+1 week prior to taking any procurement actions impacting estimated costs or
+timelines for acquisitions or procurements funded with amounts appropriated
+under this section.
+
+(h) Expenditure plan.—Not later than 90 days after the date of enactment of
+this Act, the Commandant shall submit to the Committee on Transportation and
+Infrastructure of the House of Representatives and the Committee on Commerce,
+Science, and Transportation of the Senate a detailed expenditure plan,
+including projected project timelines for each acquisition and procurement
+funded under this section and a list of project locations to be funded under
+paragraphs (8) and (9) of subsection (a).
+
+(i) Exception.—If the President authorizes an exception under section 1151(b)
+of title 14, United States Code, for any Coast Guard vessel, or the hull or
+superstructure of such vessel for which funds are appropriated under
+paragraphs (4) through (7) of subsection (a), no such funds shall be obligated
+until the President submits to the Committee on Transportation and
+Infrastructure of the House of Representatives and the Committee on Commerce,
+Science, and Transportation of the Senate a written explanation of the
+circumstances requiring such an exception in the national security interest,
+including—
+
+(1) a confirmation that there are insufficient qualified United States
+shipyards to meet the national security interest without such exception; and
+
+(2) actions taken by the President to enable qualified United States shipyards
+to meet national security requirements prior to the issuance of such an
+exception.
+
+SEC. 100002. Vessel tonnage duties.
+
+Section 60301 of title 46, United States Code, is amended—
+
+(1) in subsection (a) by striking “, for fiscal years 2006 through 2010, and 2
+cents per ton, not to exceed a total of 10 cents per ton per year, for each
+fiscal year thereafter,”; and
+
+(2) in subsection (b) by striking “, for fiscal years 2006 through 2010, and 6
+cents per ton, not to exceed a total of 30 cents per ton per year, for each
+fiscal year thereafter,”.
+
+SEC. 100003. Registration fee on motor vehicles.
+
+(a) In general.—[Chapter
+1](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-
+title23-chapter1-front&num=0&edition=prelim) of title 23, United States Code,
+is amended by adding at the end the following:
+
+** “§ 180. Registration fee on motor vehicles.
+
+**
+
+“(a) In general.—The Administrator of the Federal Highway Administration shall
+impose for each year the following registration fee amounts on the owner of a
+vehicle registered for operation by a State motor vehicle department:
+
+“(1) $250 for a covered electric vehicle.
+
+“(2) $100 for a covered hybrid vehicle.
+
+“(b) Withholding of funds for noncompliance.—The Administrator shall withhold,
+from amounts required to be apportioned to any State under section 104(b), an
+amount equal to 125 percent to the amount required to be remitted under
+subsection (c)(2). The Administrator shall withhold the amount on the first
+day of each fiscal year beginning after September 30, 2026, in which the State
+does not meet the requirements of subsection (c).
+
+“(c) Collection and remittance of fee.—
+
+“(1) COLLECTION OF FEE.—A State motor vehicle department shall—
+
+“(A) incorporate the collection of the fees established under subsection (a)
+into the vehicle registration and renewal processes administered by such
+department, so long as such fees are imposed for each year in which the fees
+are required; or
+
+“(B) obtain approval from the Administrator to establish an alternate means of
+compliance for the collection of such fees that is acceptable to the
+Administrator.
+
+“(2) REMITTANCE OF FEE.—Not later than 30 days after the last day of each
+month, a State motor vehicle department shall remit to the Administrator the
+balance of the total fee amounts collected under this section in the preceding
+month less the portion reserved for administrative expenses under subsection
+(e).
+
+“(d) Fee assessment.—The amounts specified in subsection (a) shall be
+increased on an annual basis to account for the rate of inflation each fiscal
+year in accordance with the Consumer Price Index for All Urban Consumers of
+the Bureau of Labor Statistics.
+
+“(e) Administrative expenses.—In any fiscal year in which a State is in
+compliance with this section, such State may retain an amount not to exceed 1
+percent of the total fees collected under this section for administrative
+expenses.
+
+“(f) Applicability of fees.—The fees imposed under paragraphs (1) and (2) of
+subsection (a) shall terminate on October 1, 2035.
+
+“(g) Definitions.—In this section:
+
+“(1) COVERED ELECTRIC VEHICLE.—The term ‘covered electric vehicle’ means a
+covered motor vehicle with an electric motor as the sole means of propulsion
+of such vehicle.
+
+“(2) COVERED MOTOR VEHICLE.—The term ‘covered motor vehicle’ has the meaning
+given the term ‘motor vehicle’ under section 154(a) but excludes a motor
+vehicle that is a covered farm vehicle or commercial motor vehicle (as such
+terms are defined in section 390.5 of title 49, Code of Federal Regulations).
+
+“(3) COVERED HYBRID VEHICLE.—The term ‘covered hybrid vehicle’ means a covered
+motor vehicle propelled by a combination of an electric motor and an internal
+combustion engine or other power source and components thereof.”.
+
+(b) Implementation of certain processes.—
+
+(1) IMPLEMENTATION.—The Administrator of the Federal Highway Administration
+shall provide grants to State motor vehicle departments to implement a process
+to carry out section 180 of title 23, United States Code.
+
+(2) FUNDING.—Out of any money in the Treasury not otherwise appropriated,
+$104,000,000 is to remain available until September 30, 2029, beginning in the
+first fiscal year following the date of enactment of this Act, for grants
+under paragraph (1).
+
+(3) ELIGIBLE AMOUNTS.—Each State motor vehicle department may receive not more
+than $2,000,000 under this subsection.
+
+(c) Regulations.—The Administrator shall issue such regulations and guidance
+as are necessary to—
+
+(1) carry out section 180 of title 23, United States Code (as added by this
+Act); and
+
+(2) establish a process for the timely and accurate remittance of fees
+collected under such section through an electronic method.
+
+(d) Report.—Not later than 2 years after the date of enactment of this Act,
+the Administrator shall submit to the Committee on Transportation and
+Infrastructure of the House of Representatives and the Committee on
+Environment and Public Works of the Senate a report on the status of the
+implementation of section 180 of title 23, United States Code (as added by
+this Act).
+
+(e) Clerical amendment.—The analysis for [chapter
+1](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-
+title23-chapter1-front&num=0&edition=prelim) of title 23, United States Code,
+is amended by adding at the end the following:
+
+  
+“180. Registration fee on motor vehicles.”.
+
+SEC. 100004.  Deposit of registration fee on motor vehicles.
+
+Any amounts accrued pursuant to section 180 of title 23, United States Code
+(as added by this Act), shall be deposited into the Highway Trust Fund.
+
+SEC. 100005. Motor carrier data.
+
+(a) Public confirmation of authorized motor carriers.—There is appropriated
+$5,000,000 to the Administrator of the Federal Motor Carrier Safety
+Administration to establish a public website to present data on motor
+carriers, as such term is defined in section 13102 of title 49, United States
+Code, in a manner that indicates whether each motor carrier meets or does not
+meet all Administration operating requirements, including by displaying 1 of
+the following statements for each motor carrier:
+
+(1) “This motor carrier meets Federal Motor Carrier Safety Administration
+operating requirements and is authorized to operate on the nation’s
+roadways.”.
+
+(2) “This motor carrier does not meet Federal Motor Carrier Safety
+Administration operating requirements and is not authorized to operate on the
+nation’s roadways.”.
+
+(b) Usage fee.—The Administrator shall assess an annual fee of $100 on each
+person seeking access to the website established under subsection (a). In each
+fiscal year through fiscal year 2033, monies collected under this subsection
+shall be—
+
+(1) credited to the account in the Treasury from which the Administrator
+incurs expenses for establishing, maintaining, and updating the website
+required to be established under subsection (a); and
+
+(2) available for establishing, maintaining, and updating such website without
+further appropriation.
+
+(c) Determination.—A broker, freight forwarder, or household goods freight
+forwarder, as such terms are defined in section 13102 of title 49, United
+States Code, that uses the website established under subsection (a) to ensure
+that a motor carrier engaged by such broker, freight forwarder, or household
+goods freight forwarder meets Federal Motor Carrier Safety Administration
+operating requirements shall be considered to have taken reasonable and
+prudent determinations in engaging such motor carrier.
+
+SEC. 100006.  IRA rescissions.
+
+(a) Repeal of funding for alternative fuel and low-emission aviation
+technology program.—The unobligated balances of amounts made available to
+carry out section 40007 of [Public Law
+117–169](https://www.gpo.gov/fdsys/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf)
+([49 U.S.C.
+44504](http://uscode.house.gov/quicksearch/get.plx?title=49&section=44504)
+note) (as in effect on the day before the date of enactment of this Act) are
+permanently rescinded.
+
+(b) Repeal of funding for neighborhood access and equity grant program.—The
+unobligated balances of amounts made available to carry out section 177 of
+title 23, United States Code, (as in effect on the day before the date of
+enactment of this Act) are permanently rescinded.
+
+(c) Repeal of funding for Federal building assistance.—The unobligated
+balances of amounts made available to carry out section 60502 of [Public Law
+117–169](https://www.gpo.gov/fdsys/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf)
+(136 Stat. 2083) (as in effect on the day before the date of enactment of this
+Act) are permanently rescinded.
+
+(d) Repeal of funding for use of low-carbon materials for Federal building
+assistance.— The unobligated balances of amounts made available to carry out
+section 60503 of [Public Law
+117–169](https://www.gpo.gov/fdsys/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf)
+(136 Stat. 2083) (as in effect on the day before the date of enactment of this
+Act) are permanently rescinded.
+
+(e) Repeal of funding for General Services Administration emerging
+technologies.—The unobligated balances of amounts made available to carry out
+section 60504 of [Public Law
+117–169](https://www.gpo.gov/fdsys/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf)
+(136 Stat. 2083) (as in effect on the day before the date of enactment of this
+Act) are permanently rescinded.
+
+(f) Repeal of environmental review implementation funds.—The unobligated
+balances of amounts made available to carry out section 178 of title 23,
+United States Code, (as in effect on the day before the date of enactment of
+this Act) are permanently rescinded.
+
+(g) Repeal of funding for low-carbon transportation materials grants.— The
+unobligated balances of amounts made available to carry out section 179 of
+title 23, United States Code, (as in effect on the day before the date of
+enactment of this Act) are permanently rescinded.
+
+SEC. 100007. Air traffic control staffing and modernization.
+
+(a) In general.—For the purpose of the acquisition, construction, sustainment,
+improvement, and operation of facilities and equipment necessary to improve or
+maintain aviation safety, and for personnel expenses related to such
+facilities and equipment, in addition to amounts otherwise made available,
+there is appropriated to the Administrator of the Federal Aviation
+Administration for fiscal year 2025, out of any money in the Treasury not
+otherwise appropriated, to remain available until September 30, 2029—
+
+(1) $2,160,000,000 for air traffic control tower and terminal radar approach
+control facility replacement, of which not less than $240,000,000 shall be
+available for Contract Tower Program air traffic control tower replacement and
+airport sponsor-owned air traffic control tower replacement;
+
+(2) $3,000,000,000 for radar systems replacement;
+
+(3) $4,750,000,000 for telecommunications infrastructure and systems
+replacement;
+
+(4) $500,000,000 for runway safety projects, airport surface surveillance
+projects, and to carry out section 347 of the FAA Reauthorization Act of 2024;
+
+(5) $550,000,000 for unstaffed infrastructure sustainment and replacement;
+
+(6) $300,000,000 to carry out section 619 of the FAA Reauthorization Act of
+2024;
+
+(7) $260,000,000 to carry out section 44745 of title 49, United States Code;
+and
+
+(8) $1,000,000,000 for air traffic controller recruitment, retention,
+training, and advanced training technologies.
+
+(b) Quarterly reporting.—Not later than 180 days after the date of enactment
+of this Act, and every 90 days thereafter, the Administrator shall submit to
+Congress a report that describes any expenditures under this section.
+
+SEC. 100008.  John F. Kennedy Center for the Performing Arts.
+
+(a) In general.—In addition to amounts otherwise available, there is
+appropriated for fiscal year 2025, out of any money in the Treasury not
+otherwise appropriated, $256,657,000, to remain available until September 30,
+2029, for necessary expenses for capital repair, restoration, maintenance
+backlog, and security structures of the building and site of the John F.
+Kennedy Center for the Performing Arts.
+
+(b) Administrative costs.—Of the amounts made available under subsection (a),
+not more than 3 percent may be used for administrative costs necessary to
+carry out this section.

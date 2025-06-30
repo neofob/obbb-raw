@@ -1,0 +1,144 @@
+TITLE V—Committee on Financial Services
+
+SEC. 50001. Green and resilient retrofit program for multifamily family
+housing.
+
+The unobligated balance of amounts made available under section 30002(a) of
+[Public Law
+117–169](https://www.gpo.gov/fdsys/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf)
+(commonly referred to as the “Inflation Reduction Act”; 136 Stat. 2027) are
+rescinded.
+
+SEC. 50002.  Public Company Accounting Oversight Board.
+
+(a) During the period beginning on the date of enactment of this Act and
+ending on the transfer date—
+
+(1) all intellectual property retained by the Public Company Accounting
+Oversight Board (“Board”) in support of its programs for registration,
+standard-setting, and inspection shall be shared with the Securities and
+Exchange Commission (“Commission”); and
+
+(2) pending enforcement and disciplinary actions of the Board shall be
+referred to the Commission or another Federal functional regulator (as defined
+in section 509 of the Gramm-Leach-Bliley Act ([15 U.S.C.
+6809](http://uscode.house.gov/quicksearch/get.plx?title=15&section=6809))) in
+accordance with section 105 of the Sarbanes-Oxley Act of 2002 ([15 U.S.C.
+7215](http://uscode.house.gov/quicksearch/get.plx?title=15&section=7215)).
+
+(b) Effective on the transfer date—
+
+(1) all unobligated fees collected under section 109(d) of the Sarbanes-Oxley
+Act of 2002 shall be transferred to the general fund of the Treasury, and the
+Commission may not collect fees under such section 109(d);
+
+(2) the duties and powers of the Board in effect as of the day before the
+transfer date, other than those described in section 107 of the Sarbanes-Oxley
+Act of 2002 ([15 U.S.C.
+7217](http://uscode.house.gov/quicksearch/get.plx?title=15&section=7217)),
+shall be transferred to the Commission;
+
+(3) the Commission may not use funds to carry out section 107 of the Sarbanes-
+Oxley Act of 2002 ([15 U.S.C.
+7217](http://uscode.house.gov/quicksearch/get.plx?title=15&section=7217)) for
+activities related to overseeing the Board;
+
+(4) the Board shall transfer all intellectual property described in subsection
+(a)(1) to the Commission;
+
+(5) existing processes and regulations of the Board, including existing Board
+auditing standards, shall continue in effect unless modified through rule
+making by the Commission; and
+
+(6) in connection with the duties and powers transferred under paragraph (2),
+any reference to the Board in any law implemented by a Federal functional
+regulator (as defined in section 509 of the Gramm-Leach-Bliley Act ([15 U.S.C.
+6809](http://uscode.house.gov/quicksearch/get.plx?title=15&section=6809))), in
+any rule or guidance issued by a Federal functional regulator (as defined in
+section 509 of the Gramm-Leach-Bliley Act ([15 U.S.C.
+6809](http://uscode.house.gov/quicksearch/get.plx?title=15&section=6809))), or
+in any records or other documents in the possession of a Federal functional
+regulator (as defined in section 509 of the Gramm-Leach-Bliley Act ([15 U.S.C.
+6809](http://uscode.house.gov/quicksearch/get.plx?title=15&section=6809))),
+shall be deemed a reference to the Commission.
+
+(c) Any employee of the Board as of the date of enactment of this Act may—
+
+(1) be offered equivalent positions on the Commission staff, as determined by
+the Commission, and submit to the Commission’s standard employment policies;
+and
+
+(2) receive pay that is not higher than the highest paid employee of similarly
+situated employees of the Commission.
+
+(d) In this section, the term “transfer date” means the date established by
+the Commission for purposes of this section, except that such date may not be
+later than the date that is 1 year after the date of enactment of this Act.
+
+SEC. 50003. Bureau of Consumer Financial Protection.
+
+Section 1017(a)(2) of the Consumer Financial Protection Act of 2010 ([12
+U.S.C.
+5497(a)(2)](http://uscode.house.gov/quicksearch/get.plx?title=12&section=5497))
+is amended—
+
+(1) in subparagraph (A)(iii)—
+
+(A) by striking “12 percent” and inserting “5 percent”; and
+
+(B) by striking “2013” and inserting “2025”; and
+
+(2) by striking subparagraph (C) and inserting the following:
+
+“(C) LIMITATION ON UNOBLIGATED BALANCES.—With respect to a fiscal year, the
+amount of unobligated balances of the Bureau may not exceed 5 percent of the
+dollar amount referred to in subparagraph (A)(iii), as adjusted under
+subparagraph (B). The Director shall transfer any excess amount of such
+unobligated balances to the general fund of the Treasury.”.
+
+SEC. 50004. Consumer Financial Civil Penalty Fund.
+
+Section 1017(d) of the Consumer Financial Protection Act of 2010 ([12 U.S.C.
+5497(d)](http://uscode.house.gov/quicksearch/get.plx?title=12&section=5497))
+is amended—
+
+(1) in paragraph (2)—
+
+(A) in the first sentence, by inserting “direct” before “victims”; and
+
+(B) by striking the second sentence; and
+
+(2) by adding at the end the following:
+
+“(3) TREATMENT OF EXCESS AMOUNTS.—With respect to a civil penalty described
+under paragraph (1), if the Bureau makes payments to all of the direct victims
+of activities for which that civil penalty was imposed, the Bureau shall
+transfer all amounts that remain in the Civil Penalty Fund with respect to
+that civil penalty to the general fund of the Treasury.”.
+
+SEC. 50005. Financial Research Fund.
+
+Section 155 of the Financial Stability Act of 2010 ([12 U.S.C.
+5345](http://uscode.house.gov/quicksearch/get.plx?title=12&section=5345)) is
+amended by adding at the end the following:
+
+“(e) Limitation on assessments and the Financial Research Fund.—
+
+“(1) LIMITATION ON ASSESSMENTS.—Assessments may not be collected under
+subsection (d) if the assessments would result in—
+
+“(A) the Financial Research Fund exceeding the average annual budget amount;
+or
+
+“(B) the total assessments collected during a single fiscal year exceeding the
+average annual budget amount.
+
+“(2) TRANSFER OF EXCESS FUNDS.—Any amounts in the Financial Research Fund
+exceeding the average annual budget amount shall be deposited into the general
+fund of the Treasury.
+
+“(3) AVERAGE ANNUAL BUDGET AMOUNT DEFINED.—In this subsection the term
+‘average annual budget amount’ means the annual average, over the 3 most
+recently completed fiscal years, of the expenses of the Council in carrying
+out the duties and responsibilities of the Council that were paid by the
+Office using amounts obtained through assessments under subsection (d).”.

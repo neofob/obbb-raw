@@ -1,0 +1,2248 @@
+TITLE III—Committee on Education and Workforce
+
+subtitle A—Student Eligibility
+
+SEC. 30001. Student eligibility.
+
+(a) In general.—Section 484(a)(5) of the Higher Education Act of 1965 ([20
+U.S.C.
+1091(a)(5)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1091))
+is amended to read as follows:
+
+“(5) be—
+
+“(A) a citizen or national of the United States;
+
+“(B) an alien who is lawfully admitted for permanent residence under the
+Immigration and Nationality Act ([8 U.S.C. 1101 et
+seq.](http://uscode.house.gov/quicksearch/get.plx?title=8&section=1101));
+
+“(C) an alien who—
+
+“(i) is a citizen or national of the Republic of Cuba;
+
+“(ii) is the beneficiary of an approved petition under section 203(a) of the
+Immigration and Nationality Act ([8 U.S.C.
+1153(a)](http://uscode.house.gov/quicksearch/get.plx?title=8&section=1153));
+
+“(iii) meets all eligibility requirements for an immigrant visa but for whom
+such a visa is not immediately available;
+
+“(iv) is not otherwise inadmissible under section 212(a) of such Act ([8
+U.S.C.
+1182(a)](http://uscode.house.gov/quicksearch/get.plx?title=8&section=1182));
+and
+
+“(v) is physically present in the United States pursuant to a grant of parole
+in furtherance of the commitment of the United States to the minimum level of
+annual legal migration of Cuban nationals to the United States specified in
+the U.S.-Cuba Joint Communiqué on Migration, done at New York September 9,
+1994, and reaffirmed in the Cuba-United States: Joint Statement on
+Normalization of Migration, Building on the Agreement of September 9, 1994,
+done at New York May 2, 1995; or
+
+“(D) an individual who lawfully resides in the United States in accordance
+with a Compact of Free Association referred to in section 402(b)(2)(G) of the
+Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ([8
+U.S.C.
+1612(b)(2)(G)](http://uscode.house.gov/quicksearch/get.plx?title=8&section=1612));
+and”.
+
+(b) Effective date and application.—The amendment made by subsection (a) shall
+take effect on July 1, 2025, and shall apply with respect to award year
+2025–2026 and each subsequent award year, as determined under the Higher
+Education Act of 1965 ([20 U.S.C. 1001 et
+seq.](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1001)).
+
+SEC. 30002.  Amount of need; cost of attendance; median cost of college.
+
+(a) Amount of need.—Section 471 of the Higher Education Act of 1965 ([20
+U.S.C.
+1087kk](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087kk))
+is amended by amending paragraph (1) to read as follows:
+
+“(1) (A) for award year 2025–2026, the cost of attendance of such student; or
+
+“(B) for award year 2026–2027, and each subsequent award year, the median cost
+of college of the program of study of such student, minus”.
+
+(b) Cost of attendance of a program of study.—
+
+(1) DETERMINATION OF COST OF ATTENDANCE OF A PROGRAM OF STUDY.—
+
+(A) IN GENERAL.—Section 472(a) of the Higher Education Act of 1965 ([20 U.S.C.
+1087ll(a)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087ll))
+is amended—
+
+(i) in paragraph (1), by striking “carrying the same academic workload” and
+inserting “enrolled in the same program of study”;
+
+(ii) in paragraph (2), by striking “same course of study” and inserting “same
+program of study”; and
+
+(iii) in paragraph (14), by striking “program” and inserting “program of
+study”.
+
+(B) EFFECTIVE DATE.—The amendments made by subparagraph (A) shall take effect
+on July 1, 2026, and shall apply with respect to award year 2026–2027 and each
+subsequent award year, as determined under the Higher Education Act of 1965.
+
+(2) DISCLOSURE.—Section 472(c) of the Higher Education Act of 1965 ([20 U.S.C.
+1087ll(c)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087ll))
+is amended—
+
+(A) by inserting “of each program of study at the institution” after “cost of
+attendance”; and
+
+(B) by striking “of the institution” and inserting “of such programs of study
+at the institution”.
+
+(c) Determination of median cost of college.—Part F of title IV of the Higher
+Education Act of 1965 ([20 U.S.C.
+1087kk](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087kk))
+is amended by inserting after section 472 (as so amended), the following:
+
+“SEC. 472A.  Determination of median cost of college.
+
+“(a) In general.—For the purpose of this title, the term ‘median cost of
+college’, when used with respect to a program of study, offered by one or more
+institutions of higher education for an award year, means the median of the
+cost of attendance of the program of study (as determined under section 472)
+across all institutions of higher education offering such a program of study
+for the preceding award year.
+
+“(b) Program of study defined.—In this section and section 472, and part D:
+
+“(1) IN GENERAL.—The term ‘program of study’—
+
+“(A) means an eligible program at an institution of higher education that is
+classified by a combination of—
+
+“(i) one or more CIP codes; and
+
+“(ii) one credential level, determined by the credential awarded upon
+completion of the program; and
+
+“(B) does not include a program of study abroad.
+
+“(2) CIP CODE.—The term ‘CIP code’ means the six-digit taxonomic
+identification code assigned by an institution of higher education to a
+specific program of study at the institution, determined by the institution of
+higher education in accordance with the Classification of Instructional
+Programs published by the National Center for Education Statistics.
+
+“(3) CREDENTIAL LEVEL.—
+
+“(A) IN GENERAL.—The term ‘credential level’ means the level of the degree or
+other credential awarded by an institution of higher education to students who
+complete a program of study of the institution. Each degree or other
+credential awarded by an institution shall be categorized by the institution
+as either undergraduate credential level or graduate credential level.
+
+“(B) UNDERGRADUATE CREDENTIAL.—When used with respect to a credential or
+credential level, the term ‘undergraduate credential’ includes credentials
+such as an undergraduate certificate, an associate degree, a bachelor’s
+degree, and a post-baccalaureate certificate (including the coursework
+specified in paragraphs (3)(B) and (4)(B) of section 484(b)).
+
+“(C) GRADUATE CREDENTIAL.—When used with respect to a credential or credential
+level, the term ‘graduate credential’ includes credentials such as a master’s
+degree, a doctoral degree, a professional degree, and a postgraduate
+certificate.”.
+
+(d) Exemption of certain assets.—
+
+(1) IN GENERAL.—Section 480(f)(2) of the Higher Education Act of 1965 ([20
+U.S.C.
+1087vv(f)(2)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087vv))
+is amended—
+
+(A) by striking “net value of the” and inserting the following: “net value of—
+
+“(A) the”;
+
+(B) by striking the period at the end and inserting a semicolon; and
+
+(C) by adding at the end the following:
+
+“(B) a family farm on which the family resides; or
+
+“(C) a small business with not more than 100 full-time or full-time equivalent
+employees (or any part of such a small business) that is owned and controlled
+by the family.”.
+
+(2) EFFECTIVE DATE.—The amendments made by paragraph (1) shall take effect on
+July 1, 2026, and shall apply with respect to award year 2026–2027 and each
+subsequent award year, as determined under the Higher Education Act of 1965.
+
+subtitle B—Loan Limits
+
+SEC. 30011. Loan Limits.
+
+(a) Terminations of and restrictions on loan authority.—
+
+(1) TERMINATION OF AUTHORITY TO MAKE SUBSIDIZED LOANS TO UNDERGRADUATE
+STUDENTS.—Section 455(a)(3) of the Higher Education Act of 1965 ([20 U.S.C.
+1087e(a)(3)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is amended by adding at the end the following:
+
+“(C) TERMINATION OF AUTHORITY TO MAKE SUBSIDIZED LOANS TO UNDERGRADUATE
+STUDENTS.—Notwithstanding any provision of this part or part B, except as
+provided in paragraph (4), for any period of instruction beginning on or after
+July 1, 2026—
+
+“(i) an undergraduate student shall not be eligible to receive a Federal
+Direct Stafford loan under this part; and
+
+“(ii) the maximum annual amount of Federal Direct Unsubsidized Stafford loans
+such a student may borrow in any academic year (as defined in section
+481(a)(2)) or its equivalent shall be the maximum annual amount for such
+student determined under paragraph (5)).”.
+
+(2) TERMINATION OF AUTHORITY TO MAKE FEDERAL DIRECT PLUS LOANS TO ANY STUDENT
+BORROWER.—Section 455(a)(3) of the Higher Education Act of 1965 ([20 U.S.C.
+1087e(a)(3)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is further amended by adding at the end the following:
+
+“(D) TERMINATION OF AUTHORITY TO MAKE FEDERAL DIRECT PLUS LOANS TO ANY STUDENT
+BORROWER.—Notwithstanding any provision of this part or part B, except as
+provided in paragraph (4), for any period of instruction beginning on or after
+July 1, 2026, a graduate student or professional student shall not be eligible
+to receive a Federal Direct PLUS Loan under this part.”.
+
+(3) RESTRICTION ON AUTHORITY TO MAKE FEDERAL DIRECT PLUS LOANS TO ANY PARENT
+BORROWER.—Section 455(a)(3) of the Higher Education Act of 1965 ([20 U.S.C.
+1087e(a)(3)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is further amended by adding at the end the following:
+
+“(E) RESTRICTION ON AUTHORITY TO MAKE FEDERAL DIRECT PLUS LOANS TO ANY PARENT
+BORROWER.—
+
+“(i) IN GENERAL.—Notwithstanding any provision of this part or part B, except
+as provided in clause (ii) and paragraph (4), for any period of instruction
+beginning on or after July 1, 2026, a parent, on behalf of a dependent
+student, shall not be eligible to receive a Federal Direct PLUS Loan under
+this part.
+
+“(ii) EXCEPTION.—A parent may receive a Federal Direct PLUS Loan under this
+part, on behalf of a dependent student, in any academic year (as defined in
+section 481(a)(2)) or its equivalent if—
+
+“(I) such student borrows the maximum annual amount of Federal Direct
+Unsubsidized Stafford loans such student may borrow in such academic year; and
+
+“(II) such maximum annual amount is less than the cost of attendance of the
+program of study of such student.”.
+
+(4) CONFORMING AMENDMENTS.—Section 455(a)(3) of the Higher Education Act of
+1965 ([20 U.S.C.
+1087e(a)(3)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is further amended—
+
+(A) in the paragraph heading, by striking “Termination of authority to make
+interest subsidized loans to graduate and professional students” and inserting
+“Terminations of and restrictions on loan authority”;
+
+(B) in subparagraph (A)—
+
+(i) in the heading, by striking “In general” and inserting “Termination of
+authority to make subsidized loans to graduate and professional students”;
+
+(ii) in the matter preceding clause (i), by striking “beginning on or after
+July 1, 2012”;
+
+(iii) in clause (i), by striking “a graduate” and inserting “beginning on or
+after July 1, 2012, a graduate”; and
+
+(iv) in clause (ii), by striking “the maximum annual amount of Federal” and
+inserting “beginning on or after July 1, 2012, and ending June 30, 2026, the
+maximum annual amount of Federal”; and
+
+(C) in subparagraph (B)—
+
+(i) in the heading, by striking “Exception” and inserting “Exception for
+subsidized loans to individuals enrolled in certain course work”.
+
+(ii) by striking “Subparagraph (A)” and inserting “For any period of
+instruction beginning on or after July 1, 2012, and ending June 30, 2026,
+subparagraph (A)”.
+
+(b) Interim rules for enrolled borrowers.—Section 455(a) of the Higher
+Education Act of 1965 ([20 U.S.C.
+1087e(a)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is amended by adding at the end the following:
+
+“(4) INTERIM EXCEPTION FOR CERTAIN STUDENTS.—
+
+“(A) APPLICATION OF PRIOR LIMITS.—Subparagraphs (C), (D), and (E) of paragraph
+(3), and paragraphs (5) and (6), shall not apply, during the expected time to
+credential described in subparagraph (B), with respect to an individual who,
+as of June 30, 2026—
+
+“(i) is enrolled in a program of study at an institution of higher education;
+and
+
+“(ii) has received a loan (or on whose behalf a loan was made) under this part
+for such program of study.
+
+“(B) EXPECTED TIME TO CREDENTIAL.—For purposes of this paragraph, the expected
+time to credential of an individual shall be equal to the lesser of—
+
+“(i) three academic years; or
+
+“(ii) the period determined by calculating the difference between—
+
+“(I) the program length (as defined in section 420W) for the program of study
+in which the individual is enrolled; and
+
+“(II) the period of such program of study that such individual has completed
+as of the date of the determination under this subparagraph.”.
+
+(c) Loan limits for unsubsidized loans and certain Federal Direct PLUS Loans.—
+
+(1) ANNUAL AND AGGREGATE UNSUBSIDIZED LOAN LIMITS.—Section 455(a) of the
+Higher Education Act of 1965 ([20 U.S.C.
+1087e(a)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is further amended by adding at the end the following:
+
+“(5) ANNUAL AND AGGREGATE UNSUBSIDIZED LOAN LIMITS.—
+
+“(A) UNDERGRADUATE STUDENTS.—
+
+“(i) ANNUAL LOAN LIMITS.—Notwithstanding any provision of this part or part B,
+subject to subparagraph (C) and except as provided in paragraph (4), beginning
+on July 1, 2026, the maximum annual amount of Federal Direct Unsubsidized
+Stafford loans that an undergraduate student may borrow in any academic year
+(as defined in section 481(a)(2)) or its equivalent shall be the difference
+between—
+
+“(I) the amount of the median cost of college of the program of study in which
+the student is enrolled; and
+
+“(II) the amount of __the Federal Pell Grant under section 401 awarded to the
+student for such academic year.
+
+“(ii) AGGREGATE LIMITS.—Notwithstanding any provision of this part or part B,
+except as provided in paragraph (4), beginning on July 1, 2026, the maximum
+aggregate amount of Federal Direct Unsubsidized Stafford loans that a student
+may borrow for programs of study that award an undergraduate credential upon
+completion of such a program shall be $50,000.
+
+“(B) GRADUATE AND PROFESSIONAL STUDENTS.—
+
+“(i) ANNUAL LIMITS.—Notwithstanding any provision of this part or part B,
+subject to subparagraph (C) and except as provided in paragraph (4), beginning
+on July 1, 2026, the maximum annual amount of Federal Direct Unsubsidized
+Stafford loans that a graduate student or professional student may borrow in
+any academic year (as defined in section 481(a)(2)) or its equivalent shall be
+the amount of the median cost of college of the program of study in which the
+student is enrolled.
+
+“(ii) AGGREGATE LIMITS.—Notwithstanding any provision of this part or part B,
+except as provided in paragraph (4), beginning on July 1, 2026, the maximum
+aggregate amount of Federal Direct Unsubsidized Stafford loans that, in
+addition to the maximum aggregate amount described in subparagraph (A)(ii)—
+
+“(I) a graduate student—
+
+“(aa) who is not (and has not been) a professional student, may borrow for
+programs of study described in subparagraph (D)(i) shall be $100,000; or
+
+“(bb) who is (or has been) a professional student, may borrow for programs of
+study described in subparagraph (D)(i) shall be an amount equal to—
+
+“(AA) $150,000, minus
+
+“(BB) the amount such student borrowed for programs of study described in
+subclauses (I) and (II) of subparagraph (D)(ii); and
+
+“(II) a professional student—
+
+“(aa) who is not (and has not been) a graduate student, may borrow for
+programs of study described in subclauses (I) and (II) of subparagraph (D)(ii)
+shall be $150,000; or
+
+“(bb) who is (or has been) a graduate student, may borrow for programs of
+study described in subclauses (I) and (II) of subparagraph (D)(ii) shall be an
+amount equal to—
+
+“(AA) $150,000, minus
+
+“(BB) the amount such student borrowed for programs of study described in
+subparagraph (D)(i).
+
+“(C) LESS THAN FULL-TIME ENROLLMENT.—In any case where a student is enrolled
+in an program of study of an institution of higher education on less than a
+full-time basis during any academic year, the amount of a loan that student
+may borrow for an academic year (as defined in section 481(a)(2)) or its
+equivalent shall be reduced in direct proportion to the degree to which that
+student is not so enrolled on a full-time basis, rounded to the nearest whole
+percentage point, as provided in a schedule of reductions published by the
+Secretary computed for purposes of this paragraph.
+
+“(D) DEFINITION.—For purposes of this subsection:
+
+“(i) GRADUATE STUDENT.—The term ‘graduate student’ means a student enrolled in
+a program of study that awards a graduate credential (other than a
+professional degree) upon completion of the program.
+
+“(ii) PROFESSIONAL STUDENT.—The term ‘professional student’ means a student
+enrolled in a program of study that—
+
+“(I) awards a professional degree upon completion of the program; or
+
+“(II) provides the training described in part 141 of title 14, Code of Federal
+Regulations (or any successor regulations).
+
+“(iii) UNDERGRADUATE STUDENT.—The term ‘undergraduate student’ means a student
+enrolled in a program of study that awards an undergraduate credential upon
+completion of the program.”.
+
+(2) ANNUAL AND AGGREGATE FEDERAL DIRECT PLUS LOANS LIMITS FOR PARENT
+BORROWERS.—Section 455(a) of the Higher Education Act of 1965 ([20 U.S.C.
+1087e(a)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is further amended by adding at the end the following:
+
+“(6) ANNUAL AND AGGREGATE FEDERAL DIRECT PLUS LOANS LIMITS FOR PARENT
+BORROWERS.—
+
+“(A) ANNUAL LIMITS.—Notwithstanding any provision of this part or part B,
+subject to paragraph (3)(E) and except as provided in paragraph (4), beginning
+on July 1, 2026, the maximum annual amount of Federal Direct PLUS loans that a
+parent may borrow, on behalf of a dependent student, in any academic year (as
+defined in section 481(a)(2)) or its equivalent shall be the amount equal to—
+
+“(i) the cost of attendance of the program of study of such student; minus
+
+“(ii) the maximum annual amount of Federal Direct Unsubsidized Stafford loans
+such student may borrow in such academic year.
+
+“(B) LIFETIME MAXIMUM AGGREGATE LIMITS.—Notwithstanding any provision of this
+part or part B, subject to paragraph (3)(E) and except as provided in
+paragraph (4), beginning on July 1, 2026, the maximum aggregate amount of
+Federal Direct PLUS loans that a parent may borrow on behalf of dependent
+students shall be $50,000, without regard to—
+
+“(i) the number of dependent students on behalf of whom such parent borrows
+such a loan; or
+
+“(ii) any amounts repaid, forgiven, canceled, or otherwise discharged on any
+such loan.”.
+
+(3) LIFETIME MAXIMUM AGGREGATE AMOUNT FOR ALL STUDENTS.—Section 455(a) of the
+Higher Education Act of 1965 ([20 U.S.C.
+1087e(a)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is further amended by adding at the end the following:
+
+“(7) LIFETIME MAXIMUM AGGREGATE AMOUNT FOR ALL STUDENTS.—Notwithstanding any
+provision of this part or part B, except as provided in paragraph (4),
+beginning on July 1, 2026, the maximum aggregate amount of loans made,
+insured, or guaranteed under this title that a student may borrow (other than
+a Federal Direct PLUS loan, or loan under section 428B, made to the student as
+a parent borrower on behalf of a dependent student) shall be $200,000, without
+regard to any amounts repaid, forgiven, canceled, or otherwise discharged on
+any such loan.”.
+
+(4) INSTITUTIONALLY DETERMINED LIMITS.—Section 455(a) of the Higher Education
+Act of 1965 ([20 U.S.C.
+1087e(a)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is further amended by adding at the end the following:
+
+“(8) INSTITUTIONALLY DETERMINED LIMITS.—Notwithstanding the annual loan limits
+described in subparagraphs (A)(i) and (B)(i) of paragraph (5) and subparagraph
+(A) of paragraph (6), beginning on July 1, 2026, an institution of higher
+education (at the discretion of a financial aid administrator at the
+institution) may limit the total amount of loans made under this part for a
+program of study for an academic year (as defined in section 481(a)(2)) that a
+student may borrow, and that a parent may borrow on behalf of such student, as
+long as any such limit is applied consistently to all students enrolled in
+such program of study.”.
+
+subtitle C—Loan Repayment
+
+SEC. 30021.  Loan repayment.
+
+(a) Transition to income-based repayment plans.—
+
+(1) AUTHORITY TO TRANSITION TO INCOME-BASED REPAYMENT PLANS.—
+
+(A) AUTHORITY TO CARRY OUT TRANSITION.—Beginning on the date of enactment of
+this title, the Secretary of Education shall take such steps as may be
+necessary to apply the repayment plan under section 493C of the Higher
+Education Act of 1965 (as amended by this title) to the loans of each borrower
+who, on the day before such date of enactment, is in a repayment status in
+accordance with, or an administrative forbearance associated with, an income-
+contingent repayment plan authorized under section 455(e) of the Higher
+Education Act of 1965 (as in effect on the day before the date of enactment of
+this title).
+
+(B) DEADLINE FOR TRANSITION.—The Secretary shall complete the application of
+the repayment plan under section 493C to the loans described in paragraph (1)
+as soon as practicable, but not later than 9 months after the date of
+enactment of this title.
+
+(2) LIMITATION OF REGULATORY AUTHORITY.—The Secretary may not establish,
+promulgate, issue, or modify any regulations or guidance with respect to any
+income-based repayment plan under the Higher Education Act of 1965, except
+that the Secretary may—
+
+(A) during the 270-day period after the date of enactment of this title, issue
+an interim final rule as necessary for the application of the repayment plan
+under section 493C of such Act of 1965 in accordance with paragraph (1);
+
+(B) during the 270-day period after the date of enactment of this title, issue
+an interim final rule as necessary to implement the amendments to such section
+493C made by subsection (f) of this title; and
+
+(C) during the 18-month period after the date of enactment of this title,
+issue an interim final rule as necessary to implement the income-based
+Repayment Assistance Program under section 455(q) of such Act of 1965 (as
+added by this title).
+
+(3) WAIVER OF NEGOTIATED RULEMAKING.—Any guidance or regulations issued or
+modified in accordance with subparagraph (A) or (B) of paragraph (2) shall not
+be subject to negotiated rulemaking requirements under section 492 of the
+Higher Education Act of 1965 ([20 U.S.C.
+1098a](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1098a)).
+
+(b) Repayment plans.—Section 455(d) of the Higher Education Act of 1965 ([20
+U.S.C.
+1087e(d)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is amended—
+
+(1) in paragraph (1)—
+
+(A) in the matter preceding subparagraph (A), by inserting “before July 1,
+2026, who has not received a loan made under this part on or after July 1,
+2026,” after “made under this part”;
+
+(B) by amending subparagraph (D) to read as follows:
+
+“(D) beginning on July 1, 2026, the income-based Repayment Assistance Plan
+under subsection (q), provided that—
+
+“(i) the borrower is required to pay each outstanding loan of the borrower
+made under this part under such Repayment Assistance Plan;
+
+“(ii) such Plan shall not be available to borrowers with an excepted loan (as
+defined in paragraph (7)); and
+
+“(iii) the borrower may not change the borrower’s selection of the Repayment
+Assistance Plan except in accordance with paragraph (7)(C).”; and
+
+(C) in subparagraph (E)—
+
+(i) by striking “that enables borrowers who have a partial financial hardship
+to make a lower monthly payment”; and
+
+(ii) by striking “a Federal Direct Consolidation Loan, if the proceeds of such
+loan were used to discharge the liability on such Federal Direct PLUS Loan or
+a loan under section 428B made on behalf of a dependent student” and inserting
+“an excepted Consolidation Loan (as defined in section 493C(a)(2))”;
+
+(2) in paragraph (5), by amending subparagraph (B) to read as follows:
+
+“(B) repay the loan pursuant to an income-based repayment plan under
+subsection (q) or section 493C, as applicable.”; and
+
+(3) by adding at the end the following:
+
+“(6) TERMINATION AND LIMITATION OF REPAYMENT AUTHORITY.—
+
+“(A) SUNSET OF REPAYMENT PLANS AVAILABLE BEFORE JULY 1, 2026.—Paragraphs (1)
+through (4) of this subsection shall only apply to loans made under this part
+before July 1, 2026.
+
+“(B) PROHIBITIONS.—The Secretary may not, for any loan made under this part on
+or after July 1, 2026—
+
+“(i) authorize a borrower of such a loan to repay such loan pursuant to a
+repayment plan that is not described in paragraph (7)(A); or
+
+“(ii) carry out or modify a repayment plan that is not described in such
+paragraph.
+
+“(7) REPAYMENT PLANS FOR LOANS MADE ON OR AFTER JULY 1, 2026.—
+
+“(A) DESIGN AND SELECTION.—Beginning on July 1, 2026, the Secretary shall
+offer a borrower of a loan made under this part on or after such date
+(including such a borrower who also has a loan made under this part before
+such date) two plans for repayment of the borrower’s loans under this part,
+including principal and interest on such loans. The borrower shall be entitled
+to accelerate, without penalty, repayment on such loans. The borrower may
+choose—
+
+“(i) a standard repayment plan—
+
+“(I) with a fixed monthly repayment amount paid over a fixed period of time
+equal to the applicable period determined under subclause (II); and
+
+“(II) with the applicable period of time for repayment determined based on the
+total outstanding principal of all loans of the borrower made under this part
+before, on, or after July 1, 2026, at the time the borrower is entering
+repayment under such plan, as follows—
+
+“(aa) for a borrower with total outstanding principal of less than $25,000, a
+period of 10 years;
+
+“(bb) for a borrower with total outstanding principal of not less than $25,000
+and less than $50,000, a period of 15 years;
+
+“(cc) for a borrower with total outstanding principal of not less than $50,000
+and less than $100,000, a period of 20 years; and
+
+“(dd) for a borrower with total outstanding principal of $100,000 or more, a
+period of 25 years; or
+
+“(ii) the income-based Repayment Assistance Plan under subsection (q).
+
+“(B) SELECTION BY SECRETARY.—If a borrower of a loan made under this part on
+or after July 1, 2026, does not select a repayment plan described in
+subparagraph (A), the Secretary shall provide the borrower with the standard
+repayment plan described in subparagraph (A)(i).
+
+“(C) SELECTION AVAILABLE FOR EACH NEW LOAN; SELECTION APPLIES TO ALL
+OUTSTANDING LOANS.—Each time a borrower receives a loan made under this part
+on or after July 1, 2026, the borrower may select either the standard
+repayment plan under subparagraph (A)(i) or the Repayment Assistance Plan
+under subparagraph (A)(ii), provided that the borrower is required to pay each
+outstanding loan of the borrower made under this part under such selected
+repayment plan.
+
+“(D) PERMISSIBLE CHANGES OF REPAYMENT PLAN.—
+
+“(i) CHANGING FROM STANDARD REPAYMENT PLAN.—A borrower may change the
+borrower’s selection of the standard repayment plan under subparagraph (A)(i),
+or the Secretary’s selection of such plan for the borrower under subparagraph
+(C), as the case may be, to the Repayment Assistance Plan under subparagraph
+(A)(ii) at any time.
+
+“(ii) LIMITED CHANGE FROM REPAYMENT ASSISTANCE PLAN.—A borrower may not change
+the borrower’s selection of the Repayment Assistance Plan under subparagraph
+(A)(ii), except in accordance with subparagraph (C).
+
+“(E) SPECIAL RULE FOR EXCEPTED LOAN BORROWERS WITH LOANS MADE ON OR AFTER JULY
+1, 2026.—
+
+“(i) STANDARD REPAYMENT PLAN REQUIRED.—Notwithstanding subparagraphs (A)
+through (D), beginning on July 1, 2026, the Secretary shall require a borrower
+who has an excepted loan and who has received a loan made under this part on
+or after such date to repay each outstanding loan of the borrower made under
+this part, including principal and interest on such loans, under the standard
+repayment plan under subparagraph (A)(i). The borrower shall be entitled to
+accelerate, without penalty, repayment on such loans.
+
+“(ii) EXCEPTED LOAN DEFINED.—For the purposes of this paragraph, the term
+‘excepted loan’ means a loan with an outstanding balance that is—
+
+“(I) a Federal Direct PLUS Loan that is made on behalf of a dependent student;
+or
+
+“(II) a Federal Direct Consolidation Loan, if the proceeds of such loan were
+used to the discharge the liability on—
+
+“(aa) an excepted PLUS loan, as defined in section 493C(a)(1); or
+
+“(bb) an excepted consolidation loan (as such term is defined in section
+493C(a)(2)(A), notwithstanding subparagraph (B) of such section).
+
+“(F) TREATMENT OF BORROWERS WITHOUT LOANS MADE ON OR AFTER JULY 1, 2026.—A
+borrower who has an outstanding loan (including an excepted loan) made under
+this part before July 1, 2026, and who has not received a loan made under this
+part on or after July 1, 2026, shall not be eligible to change the borrower’s
+selection of a repayment plan to the standard repayment plan under
+subparagraph (A)(i).”.
+
+(c) Elimination of authority to provide income contingent repayment plans.—
+
+(1) REPEAL.—Subsection (e) of section 455 the Higher Education Act of 1965
+([20 U.S.C.
+1087e(e)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is repealed.
+
+(2) FURTHER AMENDMENTS TO ELIMINATE INCOME CONTINGENT REPAYMENT.—
+
+(A) Section 428 of the Higher Education Act of 1965 ([20 U.S.C.
+1078](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1078)) is
+amended—
+
+(i) in subsection (b)(1)(D), by striking “be subject to income contingent
+repayment in accordance with subsection (m)” and inserting “be subject to
+income-based repayment in accordance with subsection (m)”; and
+
+(ii) in subsection (m)—
+
+(I) in the subsection heading, by striking “Income Contingent and”;
+
+(II) by amending paragraph (1) to read as follows:
+
+“(1) AUTHORITY OF SECRETARY TO REQUIRE.—The Secretary may require borrowers
+who have defaulted on loans made under this part that are assigned to the
+Secretary under subsection (c)(8) to repay those loans pursuant to an income-
+based repayment plan under section 455(q) or section 493C, as applicable.”;
+and
+
+(III) in the heading of paragraph (2), by striking “income contingent or”.
+
+(B) Section 428C of the Higher Education Act of 1965 ([20 U.S.C.
+1078–3](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1078-3))
+is amended—
+
+(i) in subsection (a)(3)(B)(i)(V)(aa), by striking “for the purposes of
+obtaining income contingent repayment or income-based repayment” and inserting
+“for the purposes of qualifying for an income-based repayment plan under
+section 455(q) or section 493C, as applicable”;
+
+(ii) in subsection (b)(5), by striking “be repaid either pursuant to income
+contingent repayment under part D of this title, pursuant to income-based
+repayment under section 493C, or pursuant to any other repayment provision
+under this section” and inserting “be repaid pursuant to an income-based
+repayment plan under section 493C or any other repayment provision under this
+section”; and
+
+(iii) in subsection (c)—
+
+(I) in paragraph (2)(A), by striking “or by the terms of repayment pursuant to
+income contingent repayment offered by the Secretary under subsection (b)(5)”
+and inserting “or by the terms of repayment pursuant to an income-based
+repayment plan under section 493C”; and
+
+(II) in paragraph (3)(B), by striking “except as required by the terms of
+repayment pursuant to income contingent repayment offered by the Secretary
+under subsection (b)(5)” and inserting “except as required by the terms of
+repayment pursuant to an income-based repayment plan under section 493C”.
+
+(C) Section 485(d)(1) of the Higher Education Act of 1965 ([20 U.S.C.
+1092(d)(1)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1092))
+is amended by striking “income-contingent and”.
+
+(D) Section 494(a)(2) of the Higher Education Act of 1965 ([20 U.S.C.
+1098h(a)(2)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1098h))
+is amended—
+
+(i) in the paragraph heading, by striking “Income-contingent and income-based”
+and inserting “Income-based”;
+
+(ii) in subparagraph (A)—
+
+(I) in the matter preceding clause (i), by striking “income-contingent or”;
+and
+
+(II) in clause (ii)(I), by inserting “(as in effect on the day before the date
+of repeal of subsection (e) of section 455)” after “section 455(e)(8)”.
+
+(d) Repayment Assistance Plan.—Section 455 of the Higher Education Act of 1965
+([20 U.S.C.
+1087e](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e)) is
+amended by adding at the end the following new subsection:
+
+“(q) Repayment Assistance Plan.—
+
+“(1) IN GENERAL.—Notwithstanding any other provision of this Act, beginning on
+July 1, 2026, the Secretary shall carry out an income-based repayment plan (to
+be known as the ‘Repayment Assistance Plan’), that shall have the following
+terms and conditions:
+
+“(A) The total monthly repayment amount owed by a borrower for all of the
+loans of the borrower that are repaid pursuant to the Repayment Assistance
+Plan shall be equal to the applicable monthly payment of a borrower calculated
+under paragraph (3)(B), except that the borrower may not be precluded from
+repaying an amount that exceeds such amount for any month.
+
+“(B) The Secretary shall apply the borrower’s applicable monthly payment under
+this paragraph first toward interest due on each such loan, next toward any
+fees due on each loan, and then toward the principal of each loan.
+
+“(C) Any principal due and not paid under subparagraph (B) or paragraph (2)(B)
+shall be deferred.
+
+“(D) A borrower who is not in a period of deferment or forbearance shall make
+an applicable monthly payment for each month until the earlier of—
+
+“(i) the date on which the outstanding balance of principal and interest due
+on all of the loans of the borrower that are repaid pursuant to the Repayment
+Assistance Plan is $0; or
+
+“(ii) the date on which the borrower has made 360 qualifying monthly payments.
+
+“(E) The Secretary shall repay or cancel any outstanding balance of principal
+and interest due on a loan made under this part to a borrower—
+
+“(i) who, for any period of time, participated in the Repayment Assistance
+Plan under this subsection;
+
+“(ii) whose most recent payment for such loan prior to the loan cancellation
+under this subparagraph was made under such Repayment Assistance Plan; and
+
+“(iii) who has made 360 qualifying monthly payments on such loan.
+
+“(F) For the purposes of this subsection, the term ‘qualifying monthly
+payment’ means any of the following:
+
+“(i) An on-time applicable monthly payment under this subsection.
+
+“(ii) An on-time monthly payment under the standard repayment plan under
+subsection (d)(7)(A)(i) of not less than the monthly payment required under
+such plan.
+
+“(iii) A monthly payment under any repayment plan of not less than the monthly
+payment that would be required under a standard repayment plan under section
+455(d)(1)(A) with a repayment period of 10 years.
+
+“(iv) A monthly payment under section 493C of not less than the monthly
+payment required under such section, including a monthly payment equal to the
+minimum payment amount permitted under such section.
+
+“(v) A monthly payment made before the date of enactment of this subsection
+under an income-contingent repayment plan carried out under section
+455(d)(1)(D) (or under an alternative repayment plan in lieu of repayment
+under such an income-contingent repayment plan, if placed in such an
+alternative repayment plan by the Secretary) of not less than the monthly
+payment required under such a plan, including a monthly payment equal to the
+minimum payment amount permitted under such a plan.
+
+“(vi) A month when the borrower did not make a payment because the borrower
+was in deferment due to an economic hardship described in section 435(o).
+
+“(vii) A month that ended before the date of enactment of this subsection when
+the borrower did not make a payment because the borrower was in a period
+deferment or forbearance described in section 685.209(k)(4)(iv) of title 34,
+Code of Federal Regulations (as in effect on the date of enactment of this
+subsection).
+
+“(G) With respect to carrying out section 494(a)(2) for the Repayment
+Assistance Plan, an individual may elect to opt out of the disclosures
+required under section 494(a)(2)(A)(ii) in accordance with the procedures
+established under section 493C(c)(2)(B).
+
+“(2) BALANCE ASSISTANCE FOR DISTRESSED BORROWERS.—
+
+“(A) INTEREST SUBSIDY.—With respect to a borrower of a loan made under this
+part, for each month for which such a borrower makes an on-time applicable
+monthly payment required under paragraph (1)(A) and such monthly payment is
+insufficient to pay the total amount of interest that accrues for the month on
+all loans of the borrower repaid pursuant to the Repayment Assistance Plan
+under this subsection, the amount of interest accrued and not paid for the
+month shall not be charged to the borrower.
+
+“(B) MATCHING PRINCIPAL PAYMENT.—With respect to a borrower of a loan made
+under this part and not in a period of deferment or forbearance, for each
+month for which a borrower makes an on-time applicable monthly payment
+required under paragraph (1)(A) and such monthly payment reduces the total
+outstanding principal balance of all loans of the borrower repaid pursuant to
+the Repayment Assistance Plan under this subsection by less than $50, the
+Secretary shall reduce such total outstanding principal balance of the
+borrower by an amount that is equal to—
+
+“(i) the amount that is the lesser of—
+
+“(I) $50; or
+
+“(II) the total amount paid by the borrower for such month pursuant to
+paragraph (1)(A), minus
+
+“(ii) the total amount paid by the borrower for such month pursuant to
+paragraph (1)(A) that is applied to such total outstanding principal balance.
+
+“(3) DEFINITIONS.—In this paragraph:
+
+“(A) ADJUSTED GROSS INCOME.—The term ‘adjusted gross income’, when used with
+respect to a borrower, means the adjusted gross income (as such term is
+defined in [section
+62](http://uscode.house.gov/quicksearch/get.plx?title=26&section=62) of the
+Internal Revenue Code of 1986) of the borrower (and the borrower’s spouse, as
+applicable) for the most recent taxable year, except that, in the case of a
+married borrower who files a separate Federal income tax return, the term does
+not include the adjusted gross income of the borrower’s spouse.
+
+“(B) APPLICABLE MONTHLY PAYMENT.—
+
+“(i) IN GENERAL.—Except as provided in clause (ii), (iii), or (vi), the term
+‘applicable monthly payment’ means, when used with respect to a borrower, the
+amount equal to—
+
+“(I) the applicable base payment of the borrower, divided by 12; minus
+
+“(II) $50 for each dependent child of the borrower.
+
+“(ii) MINIMUM AMOUNT.—In the case of a borrower with an applicable monthly
+payment amount calculated under clause (i) that is less than $10, the
+applicable monthly payment of the borrower shall be $10.
+
+“(iii) FINAL PAYMENT.—In the case of a borrower whose total outstanding
+balance of principal and interest on all of the loans of the borrower that are
+repaid pursuant to the Repayment Assistance Plan is less than the applicable
+monthly payment calculated pursuant to clause (i) or (ii), as applicable, then
+the applicable monthly payment of the borrower shall be the total outstanding
+balance of principal and interest on all such loans.
+
+“(iv) BASE PAYMENT.—The amount of the applicable base payment for a borrower
+with an adjusted gross income of—
+
+“(I) not more than $10,000, is $120;
+
+“(II) more than $10,000 and not more than $20,000, is 1 percent of such
+adjusted gross income;
+
+“(III) more than $20,000 and not more than $30,000, is 2 percent of such
+adjusted gross income;
+
+“(IV) more than $30,000 and not more than $40,000, is 3 percent of such
+adjusted gross income;
+
+“(V) more than $40,000 and not more than $50,000, is 4 percent of such
+adjusted gross income;
+
+“(VI) more than $50,000 and not more than $60,000, is 5 percent of such
+adjusted gross income;
+
+“(VII) more than $60,000 and not more than $70,000, is 6 percent of such
+adjusted gross income;
+
+“(VIII) more than $70,000 and not more than $80,000, is 7 percent of such
+adjusted gross income;
+
+“(IX) more than $80,000 and not more than $90,000, is 8 percent of such
+adjusted gross income;
+
+“(X) more than $90,000 and not more than $100,000, is 9 percent of such
+adjusted gross income; and
+
+“(XI) more than $100,000, is 10 percent of such adjusted gross income.
+
+“(v) DEPENDENT CHILD OF THE BORROWER.—For the purposes of this paragraph, the
+term ‘dependent child of the borrower’ means an individual who—
+
+“(I) is under 17 years of age; and
+
+“(II) is the borrower’s dependent child or another person who lives with and
+receives more than one-half of their support from the borrower.
+
+“(vi) SPECIAL RULE.—In the case of a borrower who is required by the Secretary
+to provide information to the Secretary to determine the applicable monthly
+payment of the borrower under this subparagraph, and who does not comply with
+such requirement, the applicable monthly payment of the borrower shall be—
+
+“(I) the sum of the monthly payment amounts the borrower would have paid for
+each of the borrower’s loans made under this part under a standard repayment
+plan with a fixed monthly repayment amount, paid over a period of 10 years,
+based on the outstanding principal due on such loan when such loan entered
+repayment; and
+
+“(II) determined pursuant to this clause until the date on which the borrower
+provides such information to the Secretary.”.
+
+(e) Federal Consolidation Loans.—Section 455(g) of the Higher Education Act of
+1965 ([20 U.S.C.
+1087e(g)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is amended by adding at the end the following new paragraph:
+
+“(3) CONSOLIDATION LOANS MADE ON OR AFTER JULY 1, 2026.—Notwithstanding
+subsections (b)(5), (c)(2), and (c)(3)(A) and (B) of section 428C, a Federal
+Direct Consolidation Loan offered to a borrower under this part on or after
+July 1, 2026, may only be repaid pursuant to a repayment plan described in
+subsection (d)(7)(A)(i) or (ii) of this section, as applicable, and the
+repayment schedule of such a Consolidation Loan shall be determined in
+accordance with such repayment plan.”.
+
+(f) Income-based repayment.—
+
+(1) AMENDMENTS.—
+
+(A) EXCEPTED CONSOLIDATION LOAN DEFINED.—Section 493C(a)(2) of the Higher
+Education Act of 1965 ([20 U.S.C.
+1098e(a)(2)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1098e))
+is amended to read as follows:
+
+“(2) EXCEPTED CONSOLIDATION LOAN.—
+
+“(A) IN GENERAL.—The term ‘excepted consolidation loan’ means—
+
+“(i) a consolidation loan under section 428C, or a Federal Direct
+Consolidation Loan, if the proceeds of such loan were used to the discharge
+the liability on an excepted PLUS loan; or
+
+“(ii) a consolidation loan under section 428C, or a Federal Direct
+Consolidation Loan, if the proceeds of such loan were used to discharge the
+liability on a consolidation loan under section 428C or a Federal Direct
+Consolidation Loan described in clause (i).
+
+“(B) EXCLUSION.—The term ‘excepted consolidation loan’ does not include a
+Federal Direct Consolidation Loan described in subparagraph (A) that (on the
+day before the date of enactment of this subparagraph) was being repaid
+pursuant to the Income-Contingent Repayment (ICR) plan in accordance with
+section 685.209(a) of title 34, Code of Federal Regulations (as in effect on
+June 30, 2023).”.
+
+(B) TERMS OF INCOME-BASED REPAYMENT.—Section 493C(b) of the Higher Education
+Act of 1965 ([20 U.S.C.
+1098e(b)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1098e))
+is amended—
+
+(i) by amending paragraph (1) to read as follows:
+
+“(1) a borrower of any loan made, insured, or guaranteed under part B or D
+(other than an excepted PLUS loan or excepted consolidation loan), may elect
+to have the borrower’s aggregate monthly payment for all such loans not exceed
+the result described in subsection (a)(3)(B) divided by 12;”;
+
+(ii) in paragraph (3)—
+
+(I) in subparagraph (B)—
+
+(aa) in clause (i)—
+
+(AA) by striking subclause (II); and
+
+(BB) by striking “the borrower” and all the follows through “ends” and
+inserting “the borrower ends”; and
+
+(bb) in clause (ii)—
+
+(AA) by striking subclause (II);
+
+(BB) by striking “the borrower” and all the follows through “ends” and
+inserting “the borrower ends”; and
+
+(CC) by striking “or” at the end;
+
+(iii) by repealing paragraph (6);
+
+(iv) in paragraph (7)(B)—
+
+(I) in the matter preceding clause (i), by striking “for a period of time
+prescribed by the Secretary, not to exceed 25 years” and inserting the
+following: “for 25 years (in the case of a borrower who is repaying at least
+one loan for a program of study for which a graduate credential (as defined in
+section 472A)) is awarded, or, for 20 years (in the case of a borrower who is
+not repaying at least one such loan)”;
+
+(II) in clause (i), by inserting “(as such paragraph was in effect on the day
+before the date of the repeal of paragraph (6))” after “paragraph (6)”; and
+
+(III) in clause (iv), by inserting “(as such section was in effect on the day
+before the date of the repeal of paragraph (6))” after “section 455(d)(1)(D)”;
+and
+
+(v) in paragraph (8), by striking “standard repayment plan” and inserting
+“standard repayment plan under section 428(b)(9)(A)(i) or 455(d)(1)(A), or the
+Repayment Assistance Program under section 455(q)”.
+
+(C) ELIGIBILITY DETERMINATIONS.—Section 493C(c)(2) of the Higher Education Act
+of 1965 ([20 U.S.C.
+1098e(c)(2)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1098e))
+is further amended—
+
+(i) in subparagraph (A), by inserting “(as in effect on the day before the
+date of repeal of subsection (e) of section 455)” after “section 455(e)(1)”;
+and
+
+(ii) in subparagraph (B), by inserting “(as in effect on the day before the
+date of repeal of subsection (e) of section 455)” after “section 455(e)(8)”.
+
+(D) TERMINATION OF SPECIAL TERMS FOR NEW BORROWERS ON AND AFTER JULY 1,
+2014.—Section 493C of the Higher Education Act of 1965 ([20 U.S.C.
+1098e(e)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1098e))
+is further amended by striking subsection (e).
+
+(2) EFFECTIVE DATE AND APPLICATION.—The amendments made by this subsection
+shall take effect on the date of enactment of this title, and shall apply with
+respect to any borrower who is in repayment before, on, or after the date of
+enactment of this title.
+
+SEC. 30022. Deferment; forbearance.
+
+(a) Heading amendment.—Section 455(f) of the Higher Education Act of 1965 ([20
+U.S.C.
+1087e(f)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is amended by striking the subsection heading and inserting the following:
+“Deferment; forbearance”.
+
+(b) Sunset of economic hardship and unemployment deferments.—Section 455(f) of
+the Higher Education Act of 1965 (20 U.S.C.1087e(f)) is amended—
+
+(1) in paragraph (2)—
+
+(A) in subparagraph (B), by striking “not in” and inserting “subject to
+paragraph (7), not in” ; and
+
+(B) in subparagraph (D), by striking “not in” and inserting “subject to
+paragraph (7), not in”; and
+
+(2) by adding at the end the following:
+
+“(7) SUNSET OF UNEMPLOYMENT AND ECONOMIC HARDSHIP DEFERMENTS.—A borrower who
+receives a loan made under this part on or after July 1, 2025, shall not be
+eligible to defer such loan under subparagraph (B) or (D) of paragraph (2).”.
+
+(c) Forbearance on loans made under this part on or after July 1,
+2025.—Section 455(f) of the Higher Education Act of 1965 ([20 U.S.C.
+1087e(f)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is amended by adding at the end the following:
+
+“(8) FORBEARANCE ON LOANS MADE UNDER THIS PART ON OR AFTER JULY 1, 2025.—A
+borrower who receives a loan made under this part on or after July 1, 2025—
+
+“(A) may only be eligible for a forbearance on such loan pursuant to section
+428(c)(3)(B) that does not exceed 9 months during any 24-month period; and
+
+“(B) in the case of a borrower who is serving in a medical or dental
+internship or residency program (as such program is described in section
+428(c)(3)(A)(i)(I)), may be eligible for a forbearance on such loan pursuant
+to 428(c)(3)(A)(i)(I), during which—
+
+“(i) for the first 4 12-month intervals, interest shall not accrue; and
+
+“(ii) for any subsequent 12-month interval, interest shall accrue.”.
+
+SEC. 30023.  Loan rehabilitation.
+
+(a) Updating loan rehabilitation limits.—
+
+(1) FFEL AND DIRECT LOANS.—Section 428F(a)(5) of the Higher Education Act of
+1965 ([20 U.S.C.
+1078–6(a)(5)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1078-6))
+is amended by striking “one time” and inserting “two times”.
+
+(2) PERKINS LOANS.—Section 464(h)(1)(D) of the Higher Education Act of 1965
+([20 U.S.C.
+1087dd(h)(1)(D)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087dd))
+is amended by striking “once” and inserting “twice”.
+
+(3) EFFECTIVE DATE.—The amendments made by this subsection shall take effect
+on the date of enactment of this Act, and shall apply with respect to any loan
+made, insured, or guaranteed under title IV of the Higher Education Act of
+1965 ([20 U.S.C. 1070 et
+seq.](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1070)).
+
+(b) Minimum monthly payment amount.—Section 428F(a)(1)(B) of the Higher
+Education Act of 1965 ([20 U.S.C.
+1078–6(a)(1)(B)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1078-6))
+is amended by adding at the end the following: “With respect a loan made under
+part D on or after July 1, 2025, a monthly payment amount described in
+subparagraph (A) may not be less than $10.”.
+
+SEC. 30024. Public Service Loan Forgiveness.
+
+(a) Repayment Assistance Plan.—Section 455(m)(1)(A) of the Higher Education
+Act of 1965 ([20 U.S.C.
+1087e(m)(1)(A)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is amended—
+
+(1) in clause (iii), by striking “; or” and inserting a semicolon;
+
+(2) in clause (iv), by striking “; and” and inserting “(as in effect on the
+day before the date of the repeal of subsection (e) of this section); or”; and
+
+(3) by adding at the end the following new clause:
+
+“(v) on-time payments under the Repayment Assistance Plan under section
+455(q); and”.
+
+(b) Public service job.—Section 455(m)(3)(B) of the Higher Education Act of
+1965 ([20 U.S.C.
+1087e(m)(3)(B)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087e))
+is amended—
+
+(1) by redesignating clauses (i) and (ii) as subclauses (I) and (II),
+respectively, and adjusting the margins accordingly;
+
+(2) by striking “The term” and inserting the following:
+
+“(i) IN GENERAL.—The term”; and
+
+(3) by adding at the end the following:
+
+“(ii) EXCLUSION.—The term ‘public service job’ does not include time served in
+a medical or dental internship or residency program (as such program is
+described in section 428(c)(3)(A)(i)(I)) by an individual who, as of June 30,
+2025, has not borrowed a Federal Direct PLUS Loan or a Federal Direct
+Unsubsidized Stafford Loan for a program of study that awards a graduate
+credential upon completion of such program.”.
+
+SEC. 30025. Student loan servicing.
+
+Paragraph (1) of section 458(a) of the Higher Education Act of 1965 ([20
+U.S.C.
+1087h(a)(1)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087h))
+is amended to read as follows:
+
+“(1) ADDITIONAL MANDATORY FUNDS FOR FISCAL YEARS 2025 AND 2026.—For each of
+the fiscal years 2025 and 2026 there shall be available to the Secretary (in
+addition to any other amounts appropriated under any appropriations Act for
+administrative costs under this part and part B and out of any money in the
+Treasury not otherwise appropriated) funds to be obligated for administrative
+costs under this part and part B, including the costs of the direct student
+loan programs under this part, not to exceed $500,000,000 in each such fiscal
+year.”.
+
+subtitle D—Pell Grants
+
+SEC. 30031.  Eligibility.
+
+(a) Foreign income and Federal Pell Grant eligibility.—
+
+(1) ADJUSTED GROSS INCOME DEFINED.—Section 401(a)(2)(A) of the Higher
+Education Act of 1965 ([20 U.S.C.
+1070a(a)(2)(A)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1070a))
+is amended to read as follows:
+
+“(A) the term ‘adjusted gross income’ means—
+
+“(i) in the case of a dependent student, for the second tax year preceding the
+academic year—
+
+“(I) the adjusted gross income (as defined in [section
+62](http://uscode.house.gov/quicksearch/get.plx?title=26&section=62) of the
+Internal Revenue Code of 1986) of the student’s parents; plus
+
+“(II) the foreign income (as described in section 480(b)(5)) of the student’s
+parents; and
+
+“(ii) in the case of an independent student, for the second tax year preceding
+the academic year—
+
+“(I) the adjusted gross income (as defined in [section
+62](http://uscode.house.gov/quicksearch/get.plx?title=26&section=62) of the
+Internal Revenue Code of 1986) of the student (and the student’s spouse, if
+applicable); plus
+
+“(II) the foreign income (as described in section 480(b)(5)) of the student
+(and the student’s spouse, if applicable);”.
+
+(2) SUNSET.—Section 401(b)(1)(D) of the Higher Education Act of 1965 ([20
+U.S.C.
+1070a(b)(1)(D)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1070a))
+is amended by striking “A student” and inserting “For each academic year
+beginning before July 1, 2026, a student”.
+
+(3) CONFORMING AMENDMENT.—Section 479A(b)(1)(B) of the Higher Education Act of
+1965 ([20 U.S.C.
+1087tt(b)(1)(B)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087tt))
+is amended—
+
+(A) by striking clause (v); and
+
+(B) by redesignating clauses (vi) and (vii) as clauses (v) and (vi),
+respectively.
+
+(b) Definition of full time enrollment for Federal Pell Grant
+eligibility.—Section 401(a)(2) of the Higher Education Act of 1965 ([20 U.S.C.
+1070a(a)(2)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1070a))
+is further amended—
+
+(1) in subparagraph (E), by striking “and” after the semicolon;
+
+(2) in subparagraph (F), by striking the period and inserting “; and”; and
+
+(3) by adding at the end the following new subparagraph:
+
+“(G) notwithstanding section 481(a)(2)(A)(iii), the terms ‘full time’ and
+‘full-time’ (except with respect to subsection (d)(4) when used as part of the
+term ‘normal full-time workload’) mean, with respect to a student enrolled in
+an undergraduate course of study, the student is expected to complete at least
+30 semester or trimester hours or 45 quarter credit hours (or the clock hour
+equivalent) in each award year a student is enrolled in the course of study.”.
+
+(c) Federal Pell Grant ineligibility due to a high student aid index.—Section
+401(b)(1) of the Higher Education Act of 1965 ([20 U.S.C.
+1070a–1(b)(1)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1070a-1))
+is amended by adding at the end the following:
+
+“(F) INELIGIBILITY OF STUDENTS WITH A HIGH STUDENT AID INDEX.—Notwithstanding
+subparagraphs (A) through (E), a student shall not be eligible for a Federal
+Pell Grant under this subsection for an academic year in which the student has
+a student aid index that equals or exceeds twice the amount of the total
+maximum Federal Pell Grant for such academic year.”.
+
+(d) No Federal Pell grant eligibility for students enrolled less than half
+time.—Section 401 of the Higher Education Act of 1965 ([20 U.S.C.
+1070a](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1070a)) is
+further amended—
+
+(1) in subsection (b)—
+
+(A) by striking “(2) Less” and inserting “(2)(A) Less”; and
+
+(B) by inserting after subparagraph (A) (as so designated by subparagraph (A)
+of this subsection) the following new subparagraph:
+
+“(B) LESS THAN HALF-TIME ENROLLMENT.—Notwithstanding subparagraph (A), a
+student who first receives a Federal Pell Grant on or after July 1, 2026,
+shall not be eligible for an award under this subsection for any award year
+beginning after such date in which the student is enrolled in an eligible
+program of an institution of higher education on less than a half-time basis.
+The Secretary shall update the schedule of reductions described in
+subparagraph (A) in accordance with this subparagraph, including for students
+receiving the minimum Federal Pell Grant.”;
+
+(2) in subsection (c)(6)(A), by inserting “, and the eligibility requirement
+of enrollment on at least a half-time basis under subsection (b)(2),” after
+“(b)(1)”; and
+
+(3) in subsection (d)(5)(A), by inserting “(and at least half time, in the
+case of a student who first receives a Federal Pell Grant under subsection (b)
+on or after July 1, 2026)” after “full time”.
+
+(e) Effective date and application.—The amendments made by this section shall
+take effect on July 1, 2026, and shall apply with respect to award year
+2026–2027 and each subsequent award year.
+
+SEC. 30032.  Workforce pell grants.
+
+(a) In general.—Section 401 of the Higher Education Act of 1965 ([20 U.S.C.
+1070a](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1070a)) is
+amended by adding at the end the following:—
+
+“(k) Workforce pell grant program.—
+
+“(1) IN GENERAL.—For the award year beginning on July 1, 2026, and each
+subsequent award year, the Secretary shall award grants (to be known as
+‘Workforce Pell Grants’) to eligible students under paragraph (2) in
+accordance with this subsection.
+
+“(2) ELIGIBLE STUDENTS.—To be eligible to receive a Workforce Pell Grant under
+this subsection for any period of enrollment, a student shall meet the
+eligibility requirements for a Federal Pell Grant under this section, except
+that the student—
+
+“(A) shall be enrolled, or accepted for enrollment, in an eligible program
+under section 481(b)(3) (hereinafter referred to as an ‘eligible workforce
+program’); and
+
+“(B) may not—
+
+“(i) be enrolled, or accepted for enrollment, in a program of study that leads
+to a graduate credential; or
+
+“(ii) have attained such a credential.
+
+“(3) TERMS AND CONDITIONS OF AWARDS.—The Secretary shall award Workforce Pell
+Grants under this subsection in the same manner and with the same terms and
+conditions as the Secretary awards Federal Pell Grants under this section,
+except that—
+
+“(A) each use of the term ‘eligible program’ (except in subsections (b)(9)(A)
+and (d)(2)) shall be substituted by ‘eligible workforce program under section
+481(b)(3)’; and
+
+“(B) a student who is eligible for a grant equal to less than the amount of
+the minimum Federal Pell Grant because the eligible workforce program in which
+the student is enrolled or accepted for enrollment is less than an academic
+year (in hours of instruction or weeks of duration) may still be eligible for
+a Workforce Pell Grant in an amount that is prorated based on the length of
+the program.
+
+“(4) PREVENTION OF DOUBLE BENEFITS.—No eligible student described in paragraph
+(2) may concurrently receive a grant under both this subsection and—
+
+“(A) subsection (b); or
+
+“(B) subsection (c).
+
+“(5) DURATION LIMIT.—Any period of study covered by a Workforce Pell Grant
+awarded under this subsection shall be included in determining a student’s
+duration limit under subsection (d)(5).”.
+
+(b) Program eligibility for workforce pell grants.—Section 481(b) of the
+Higher Education Act of 1965 ([20 U.S.C.
+1088(b)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1088))
+is amended—
+
+(1) by redesignating paragraphs (3) and (4) as paragraphs (4) and (5),
+respectively; and
+
+(2) by inserting after paragraph (2) the following:
+
+“(3) (A) A program is an eligible program for purposes of the Workforce Pell
+Grant program under section 401(k) only if—
+
+“(i) it is a program of at least 150 clock hours of instruction, but less than
+600 clock hours of instruction, or an equivalent number of credit hours,
+offered by an eligible institution during a minimum of 8 weeks, but less than
+15 weeks;
+
+“(ii) it is not offered as a correspondence course, as defined in 600.2 of
+title 34, Code of Federal Regulations (as in effect on September 20, 2020);
+
+“(iii) the Governor of a State, after consultation with the State board,
+determines that the program—
+
+“(I) provides an education aligned with the requirements of high-skill, high-
+wage (as identified by the State pursuant to section 122 of the Carl D.
+Perkins Career and Technical Education Act ([20 U.S.C.
+2342](http://uscode.house.gov/quicksearch/get.plx?title=20&section=2342))), or
+in-demand industry sectors or occupations;
+
+“(II) meets the hiring requirements of potential employers in the sectors or
+occupations described in subclause (I);
+
+“(III) either—
+
+“(aa) leads to a recognized postsecondary credential that is stackable and
+portable across more than one employer; or
+
+“(bb) with respect to students enrolled in the program—
+
+“(AA) prepares such students for employment in an occupation for which there
+is only one recognized postsecondary credential; and
+
+“(BB) provides such students with such a credential upon completion of such
+program; and
+
+“(IV) prepares students to pursue 1 or more certificate or degree programs at
+1 or more institutions of higher education (which may include the eligible
+institution providing the program), including by ensuring—
+
+“(aa) that a student, upon completion of the program and enrollment in such a
+related certificate or degree program, will receive academic credit for the
+Workforce Pell program that will be accepted toward meeting such certificate
+or degree program requirements; and
+
+“(bb) the acceptability of such credit toward meeting such certificate or
+degree program requirements; and
+
+“(iv) after the Governor of such State makes the determination that the
+program meets the requirements under clause (iii), the Secretary determines
+that—
+
+“(I) the program has been offered by the eligible institution for not less
+than 1 year prior to the date on which the Secretary makes a determination
+under this clause;
+
+“(II) for each award year, the program has a verified completion rate of at
+least 70 percent, within 150 percent of the normal time for completion;
+
+“(III) for each award year, the program has a verified job placement rate of
+at least 70 percent, measured 180 days after completion; and
+
+“(IV) for each award year, the median value-added earnings (as defined in
+section 420W) of students who completed such program for the most recent year
+for which data is available exceeds the median total price (as defined in
+section 454(d)(3)(D)) charged to students in such award year.
+
+“(B) In this paragraph:
+
+“(i) The term ‘eligible institution’ means an institution of higher education
+(as defined in section 102), or any other entity that has entered into a
+program participation agreement with the Secretary under section 487(a)
+(without regard to whether that entity is accredited by a national recognized
+accrediting agency or association), which has not been subject, during any of
+the preceding 3 years, to—
+
+“(I) any suspension, emergency action, or termination under this title;
+
+“(II) in the case of an institution of higher education, any adverse action by
+the institution’s accrediting agency or association that revokes or denies
+accreditation for the institution; or
+
+“(III) any final action by the State in which the institution or other entity
+holds its legal domicile, authorization, or accreditation that revokes the
+institution’s or entity’s license or other authority to operate in such State.
+
+“(ii) The term ‘Governor’ means the chief executive of a State.
+
+“(iii) The terms ‘industry or sector partnership’, ‘in-demand industry sector
+or occupation’, ‘recognized postsecondary credential’, and ‘State board’ have
+the meanings given such terms in section 3 of the Workforce Innovation and
+Opportunity Act.”.
+
+(c) Student eligibility.—Section 484(a)(1) of the Higher Education Act of 1965
+([20 U.S.C.
+1091(a)(1)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1091))
+is amended by inserting “or, for purposes of section 401(k), at an entity
+(other than an institution of higher education) that meets the requirements of
+section 481(b)(3)(B)(i)” after “section 487”.
+
+(d) Effective date; applicability.—The amendments made by this section shall
+take effect on July 1, 2026, and shall apply with respect to award year
+2026–2027 and each succeeding award year.
+
+SEC. 30033.  Pell shortfall.
+
+Section 401(b)(7)(A) of the Higher Education Act of 1965 ([20 U.S.C.
+1070a(b)(7)(A)](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1070a))
+is amended—
+
+(1) in clause (iii)—
+
+(A) by striking “$2,170,000,000” and inserting “$5,351,000,000”; and
+
+(B) by striking “and” at the end;
+
+(2) in clause (iv)—
+
+(A) by striking “$1,236,000,000” and inserting “$6,058,000,000”; and
+
+(B) by striking “ and each succeeding fiscal year.” and inserting a semicolon;
+and
+
+(3) by adding at the end the following:
+
+“(v) $3,743,000,000 for fiscal year 2028; and
+
+“(vi) $1,236,000,000 for each succeeding fiscal year.”.
+
+subtitle E—Accountability
+
+SEC. 30041.  Agreements with institutions.
+
+Section 454 of the Higher Education Act of 1965 ([20 U.S.C.
+1087d](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1087d)) is
+amended—
+
+(1) in subsection (a)—
+
+(A) in paragraph (5), by striking “and” after the semicolon;
+
+(B) by redesignating paragraph (6) as paragraph (7); and
+
+(C) by inserting after paragraph (5) the following new paragraph:
+
+“(6) provide annual reimbursements to the Secretary in accordance with the
+requirements under subsection (d); and”; and
+
+(2) by adding at the end the following new subsection:
+
+“(d) Reimbursement requirements.—
+
+“(1) ANNUAL REIMBURSEMENTS REQUIRED.—Beginning in award year 2028–2029, each
+institution of higher education participating in the direct student loan
+program under this part shall, for qualifying student loans, remit to the
+Secretary, at such time as the Secretary may specify, an annual reimbursement
+for each student cohort of the institution, based on the non-repayment balance
+of such cohort and calculated in accordance with paragraph (3).
+
+“(2) STUDENT COHORTS.—
+
+“(A) COHORTS ESTABLISHED.—For each institution of higher education
+participating in the direct student loan program under this part, the
+Secretary shall establish student cohorts, beginning with award year
+2027–2028, as follows:
+
+“(i) COMPLETING STUDENT COHORT.—For each program of study at such institution,
+a student cohort comprised of all students who received Federal financial
+assistance under this title and who completed such program during such award
+year.
+
+“(ii) UNDERGRADUATE NON-COMPLETING STUDENT COHORT.—For such institution, a
+student cohort comprised of all students who received Federal financial
+assistance under this title, who were enrolled in the institution during the
+previous award year in a program of study leading to an undergraduate
+credential, and who at the time the cohort is established—
+
+“(I) have not completed such program of study; and
+
+“(II) are not enrolled at the institution in any program of study leading to
+an undergraduate credential.
+
+“(iii) GRADUATE NON-COMPLETING STUDENT COHORT.—For each program of study
+leading to a graduate credential at such institution, a student cohort
+comprised of all students who received Federal financial assistance under this
+title, who were enrolled in such program during the previous award year, and
+who at the time the cohort is established—
+
+“(I) have not completed such program of study; and
+
+“(II) are not enrolled in such program.
+
+“(B) QUALIFYING STUDENT LOAN.—For the purposes of this subsection, the term
+‘qualifying student loan’ means a loan made under this part on or after July
+1, 2027, that—
+
+“(i) was made to a student included in a student cohort of an institution or
+to a parent on behalf of such a student;
+
+“(ii) except in the case of a loan described in clause (i) or (ii) of
+subparagraph (C), is not included in any other student cohort of any
+institution of higher education;
+
+“(iii) is not in—
+
+“(I) a medical or dental internship or residency forbearance described in
+section 428(c)(3)(A)(i)(I), section 428B(a)(2), section 428H(a), or section
+685.205(a)(3) of title 34, Code of Federal Regulations;
+
+“(II) a graduate fellowship deferment described in section 455(f)(2)(A)(ii);
+
+“(III) rehabilitation training program deferment described under section
+455(f)(2)(A)(ii);
+
+“(IV) an in-school deferment described under section 455(f)(2)(A)(i);
+
+“(V) a cancer deferment described under section 455(f)(3);
+
+“(VI) a military service deferment described under section 455(f)(2)(C); or
+
+“(VII) a post-active duty student deferment described under section 493D; and
+
+“(iv) is not in default.
+
+“(C) SPECIAL CIRCUMSTANCES.—
+
+“(i) MULTIPLE CREDENTIALS.—In the case of a student who completes two or more
+programs of study during the same award year, each qualifying student loan of
+the student shall be included in the student cohort for each of such program
+of study for such award year.
+
+“(ii) TREATMENT OF CERTAIN CONSOLIDATION LOANS.—A Federal Direct Consolidation
+loan made under this title shall not be considered a qualifying student loan
+for a student cohort for an award year if all of the loans included in such
+consolidation loan are attributable to another student cohort.
+
+“(iii) CONSOLIDATION AFTER INCLUSION IN A STUDENT COHORT.—If a qualifying
+student loan is consolidated into a consolidation loan under this title after
+such qualifying student loan has been included in a student cohort, the
+percentage of the consolidation loan that was attributable to such student
+cohort at the time of consolidation shall remain attributable to the student
+cohort for the life of the consolidation loan.
+
+“(3) CALCULATION OF REIMBURSEMENT.—
+
+“(A) REIMBURSEMENT PAYMENT FORMULA.—For each student cohort of an institution
+of higher education established under this subsection, the annual
+reimbursement for such cohort shall be equal to—
+
+“(i) the reimbursement percentage for the cohort, determined in accordance
+with subparagraph (B); multiplied by
+
+“(ii) the non-repayment balance for the cohort for the award year, determined
+in accordance with subparagraph (C).
+
+“(B) REIMBURSEMENT PERCENTAGE.—The reimbursement percentage of a student
+cohort of an institution shall be determined by the Secretary when the cohort
+is established, shall remain constant for the life of the student cohort, and
+shall be determined as follows:
+
+“(i) COMPLETING STUDENT COHORTS.—The reimbursement percentage of a completing
+student cohort shall be equal to the percentage determined by—
+
+“(I) subtracting from one the quotient of—
+
+“(aa) the median value-added earnings of students who completed such program
+of study in the most recent award year for which such earnings data is
+available; divided by
+
+“(bb) the median total price charged to students included in such cohort; and
+
+“(II) multiplying the difference determined under subclause (I) by 100.
+
+“(ii) SPECIAL CIRCUMSTANCES FOR COMPLETING STUDENT COHORTS.—
+
+“(I) HIGH-RISK COHORTS.—Notwithstanding clause (i), if the median value-added
+earnings of a completing student cohort under clause (i)(I)(aa) is negative,
+the reimbursement percentage of the student cohort shall be 100 percent.
+
+“(II) LOW-RISK COHORTS.—Notwithstanding clause (i), if the median value-added
+earnings of a completing student cohort under clause (i)(I)(aa) exceeds the
+median total price of such cohort under clause (i)(I)(bb), the reimbursement
+percentage of the student cohort shall be 0 percent.
+
+“(iii) NON-COMPLETING STUDENT COHORTS.—The reimbursement percentage of a non-
+completing student cohort shall be determined based on the most recent data
+available in the award year in which the cohort is established, and—
+
+“(I) for an undergraduate non-completing student cohort, shall be equal to the
+percentage of undergraduate students who received Federal financial assistance
+under this title at such institution who—
+
+“(aa) did not complete an undergraduate program of study at the institution
+within 150 percent of the program length of such program; or
+
+“(bb) only in the case of a two-year institution, did not, within 6 years
+after first enrolling at the two-year institution, complete a program of study
+at a four-year institution for which a bachelor’s degree (or substantially
+similar credential) is awarded; and
+
+“(II) for a graduate non-completing student cohort, shall be equal to the
+percentage of students who received Federal financial assistance under this
+title at the institution for the applicable graduate program of study and who
+did not complete such program of study within 150 percent of the program
+length.
+
+“(C) NON-REPAYMENT LOAN BALANCE.—
+
+“(i) IN GENERAL.—For each award year, the Secretary shall determine the non-
+repayment loan balance for such award year for each student cohort of an
+institution of higher education by calculating the sum of—
+
+“(I) for loans in such cohort, the difference between the total amount of
+payments due from all borrowers on such loans during such year and the total
+amount of payments made by all such borrowers on such loans during such year;
+plus
+
+“(II) the total amount of interest waived, paid, or otherwise not charged by
+the Secretary during such year under the income-based repayment plan described
+in section 455(q); plus
+
+“(III) the total amount of principal and interest forgiven, cancelled, waived,
+discharged, repaid, or otherwise reduced by the Secretary under any act during
+such year that is not included in subclause (II) and was not discharged or
+forgiven under section 437(a), 428J, or section 455(m).
+
+“(ii) SPECIAL CIRCUMSTANCES.—For the purpose of calculating the non-repayment
+loan balance of student cohorts under this paragraph, the Secretary shall—
+
+“(I) for each qualifying student loan in a student cohort that is included in
+another student cohort because the student who borrowed such loan completed
+two or more programs of study during the same award year, the sum of the
+amounts described in subclauses (I) through (III) of clause (i) for such
+qualifying student loan shall be divided equally among each of the student
+cohorts in which such loan is included; and
+
+“(II) for each consolidation loan in a student cohort—
+
+“(aa) determine the percentage of the outstanding principal balance of the
+consolidation loan attributable to such student cohort—
+
+“(AA) at the time of that loan was included in such cohort, in the case of a
+loan consolidated before inclusion in such cohort; or
+
+“(BB) at the time of consolidation, in the case of a loan consolidated after
+inclusion in such cohort; and
+
+“(bb) include in the calculations under clause (i) for such student cohort
+only the percentage of the sum of the amounts described in subclauses (I)
+through (III) of clause (i) for the consolidation loan for such year that is
+equal to the percentage of the consolidation loan determined under item (aa).
+
+“(D) TOTAL PRICE.—With respect to a student who received Federal financial
+assistance under this title and who completes a program of study, the term
+‘total price’ means the total amount, before Federal financial assistance
+under this title was applied, a student was required to pay to complete the
+program of study. A student’s total price shall be calculated by the Secretary
+as the difference between—
+
+“(i) the total amount of tuition and fees that were charged to such student
+before the application of any Federal financial assistance provided under this
+title; minus
+
+“(ii) the total amount of grants and scholarships described in section 480(i)
+awarded to such student from non-Federal sources for such program of study.
+
+“(4) NOTIFICATION AND REMITTANCE.—Beginning with the first award year for
+which reimbursements are required under this subsection, and for each
+succeeding award year, the Secretary shall—
+
+“(A) notify each institution of higher education of the amounts and due dates
+of each annual reimbursement calculated under paragraph (3) for each student
+cohort of the institution within 30 days of calculating such amounts; and
+
+“(B) require the institution to remit such payments within 90 days of such
+notification.
+
+“(5) PENALTY FOR LATE PAYMENTS.—
+
+“(A) THREE-MONTH DELINQUENCY.—If an institution fails to remit to the
+Secretary a reimbursement for a student cohort as required under this
+subsection within 90 days of receiving notification from the Secretary in
+accordance with paragraph (4), the institution shall pay to the Secretary, in
+addition to such reimbursement, interest on such reimbursement payment, at a
+rate that is the average rate applicable to the loans in such student cohort.
+
+“(B) TWELVE-MONTH DELINQUENCY.—If an institution fails to remit to the
+Secretary a reimbursement for a student cohort as required under this
+subsection, plus interest owed in under subparagraph (A), within 12 months of
+receiving notification from the Secretary in accordance with paragraph (4),
+the institution shall be ineligible to make direct loans to any student
+enrolled in the program of study for which the institution has failed to make
+the reimbursement payments until such payment is made.
+
+“(C) EIGHTEEN-MONTH DELINQUENCY.—If an institution fails to remit to the
+Secretary a reimbursement for a student cohort as required under this
+subsection, plus interest owed under subparagraph (A), within 18 months of
+receiving notification from the Secretary in accordance with paragraph (4),
+the institution shall be ineligible to make direct loans or award Federal Pell
+Grants under section 401 to any student enrolled in the institution until such
+payment is made.
+
+“(D) TWO-YEAR DELINQUENCY.—If an institution fails to remit to the Secretary a
+reimbursement for a student cohort as required under this subsection, plus
+interest owed under subparagraph (A), within 2 years of receiving notification
+from the Secretary in accordance with paragraph (4), the institution shall be
+ineligible to participate in any program under this title for a period of not
+less than 10 years.
+
+“(6) RELIEF FOR VOLUNTARY CESSATION OF FEDERAL DIRECT LOANS FOR A PROGRAM OF
+STUDY.—The Secretary shall, upon the request of an institution that
+voluntarily ceases to make Federal Direct loans to students enrolled in a
+specific program of study, reduce the amount of the annual reimbursement owed
+by the institution for each student cohort associated with such program by 50
+percent if the institution assures the Secretary that the institution will not
+make Federal Direct loans to any student enrolled in such program of study (or
+any substantially similar program of study, as determined by the Secretary)
+for a period of not less than 10 award years, beginning with the first award
+year that begins after the date on which the Secretary reduces such
+reimbursement.
+
+“(7) RESERVATION OF FUNDS FOR PROMISE GRANTS.—Notwithstanding any other
+provision of this Act, the Secretary shall reserve the funds remitted to the
+Secretary as reimbursements in accordance with this subsection, and such funds
+shall be made available to the Secretary only for the purpose of awarding
+PROMISE grants in accordance with subpart 11 of part A of this title.”.
+
+SEC. 30042. Campus-based aid programs.
+
+(a) Promise grants.—Part A of title IV of the Higher Education Act of 1965
+([20 U.S.C. 1070c et
+seq.](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1070c)) is
+amended by adding at the end the following:
+
+“subpart 11—Promoting Real Opportunities to Maximize Investments and Savings
+in Education
+
+“SEC. 420S.  Promise grants.
+
+“For award year 2028–2029 and each succeeding award year, from reserved funds
+remitted to the Secretary in accordance with section 454(d) and additional
+funds made available under section 420V, as necessary, the Secretary shall
+award PROMISE grants to eligible institutions to carry out the activities
+described in section 420U(c). PROMISE grants awarded under this subpart shall
+be awarded on a noncompetitive basis to each eligible institution that submits
+a satisfactory application under section 420T for a 6-year period in an amount
+that is determined in accordance with section 420U.
+
+“SEC. 420T.  Eligible institutions; application.
+
+“(a) Eligible institution.—To be eligible for a PROMISE grant under this
+subpart, an institution shall—
+
+“(1) be an institution of higher education under section 102, except that an
+institution described in section 102(a)(1)(C) shall not be an eligible
+institution under this subpart; and
+
+“(2) meet the maximum total price guarantee requirements under subsection (c).
+
+“(b) Application.—An eligible institution seeking a PROMISE grant under this
+subpart (including a renewal of such a grant) shall submit to the Secretary an
+application, at such time as the Secretary may require, containing the
+information required under this subsection. Such application shall—
+
+“(1) demonstrate that the institution—
+
+“(A) meets the maximum total price guarantee requirements under subsection
+(c); and
+
+“(B) will continue to meet the maximum total price guarantee requirements for
+each award year during the grant period with respect to students first
+enrolling at the institution for each such award year;
+
+“(2) describe how grant funds awarded under this subpart will be used by the
+institution to carry out activities related to—
+
+“(A) increasing postsecondary affordability, including—
+
+“(i) the expansion and continuation of the maximum total price guarantee
+requirements under subsection (c); and
+
+“(ii) any other activities to be carried out by the institution to increase
+postsecondary affordability and minimize the maximum total price for
+completion paid by students receiving need-based student aid;
+
+“(B) increasing postsecondary access, which may include—
+
+“(i) the activities described in section 485E of this Act; and
+
+“(ii) any other activities to be carried out by the institution to increase
+postsecondary access and expand opportunities for low- and middle-income
+students; and
+
+“(C) increasing postsecondary student success, which may include—
+
+“(i) activities to improve completion rates and reduce time to credential;
+
+“(ii) activities to align programs of study with the needs of employers,
+including with respect to in-demand industry sectors or occupations (as
+defined in section 3 of the Workforce Innovation and Opportunity Act ([29
+U.S.C.
+3102](http://uscode.house.gov/quicksearch/get.plx?title=29&section=3102)));
+and
+
+“(iii) any other activities to be carried out by the institution to increase
+value-added earnings and postsecondary student success;
+
+“(3) describe—
+
+“(A) how the institution will evaluate the effectiveness of the institution’s
+use of grant funds awarded under this subpart; and
+
+“(B) how the institution will collect and disseminate information on promising
+practices developed with the use of such grant funds; and
+
+“(4) in the case of an institution that has previously received a grant under
+this subpart, contain the evaluation required under paragraph (3) for each
+previous grant.
+
+“(c) Maximum total price guarantee requirements.—As a condition of eligibility
+for a PROMISE grant under this subpart, an institution shall—
+
+“(1) for each award year beginning after the date of enactment of this
+subpart, not later than 1 year before the start of each such award year
+(except that, for the first award year beginning after such date of enactment,
+the institution shall meet these requirements as soon as practicable after
+such date of enactment), determine the maximum total price for completion, in
+accordance with subsection (e), for each program of study at the institution
+applicable to students in each income category and student aid index category
+(as determined by the Secretary) and publish such information on the
+institution’s website and in the institution’s catalog, marketing materials,
+or other official publications;
+
+“(2) for the award year for which the institution is applying for a PROMISE
+grant, and at least 1 award year preceding such award year, provide to each
+student who first enrolls, or plans to enroll, in the institution during the
+award year and who receives Federal financial aid under this title a maximum
+total price guarantee, in accordance with this section, for the minimum
+guarantee period applicable to the student; and
+
+“(3) provide to the Secretary an assurance that the institution will continue
+to meet each of the maximum total price guarantee requirements under this
+subsection for students who first enroll, or plan to enroll, in the
+institution during each award year included in the grant period.
+
+“(d) Duration of minimum guarantee period.—
+
+“(1) IN GENERAL.—The minimum period during which a student shall be provided a
+guarantee under subsection (c) with respect to the maximum total price for
+completion of a program of study at an institution shall be the average, for
+the 3 most recent award years for which data are available, of the median time
+to credential of students who completed any undergraduate program of study at
+the institution during each such award year, except that such minimum
+guarantee period shall not be less than the program length of the program of
+study in which the student is enrolled.
+
+“(2) LIMITATION.—An institution shall not be required to provide a maximum
+total price guarantee under subsection (c) to a student after the conclusion
+of the 6-year period beginning on the first day on which the student enrolled
+at such institution.
+
+“(e) Determination of maximum total price for completion.—
+
+“(1) IN GENERAL.—For the purposes of subsection (c), an institution shall
+determine, prior to the first award year in which a student enrolls at the
+institution, the maximum total price that may be charged to the student for
+completion of a program of study at the institution for the minimum guarantee
+period applicable to a student, before application of any Federal Pell Grants
+or other Federal financial aid under this title. Such a maximum total price
+for completion shall be determined for students in each income category and
+student aid index category (as determined by the Secretary). In determining
+the maximum total price for completion to be charged to each such category of
+students, the institution may consider the ability of a category of students
+to pay tuition and fees, but may not include in such consideration any Federal
+Pell Grants or other Federal financial aid awards that may be available to
+such category of students under this title.
+
+“(2) MULTIPLE MAXIMUM TOTAL PRICE GUARANTEES.—In the event that a student
+receives more than 1 maximum total price guarantee because the student is
+included in more than 1 category of students for which the institution
+determines a maximum total price guarantee amount for the purposes of
+subsection (c), the maximum total price guarantee applicable to such student
+for the purposes of this section shall be equal to the lowest such guarantee
+amount.
+
+“SEC. 420U.  Grant amounts; flexible use of funds.
+
+“(a) Grant amount formula.—
+
+“(1) FORMULA.—Subject to subsection (b) and section 420V(b), the amount of a
+PROMISE grant for an eligible institution for each year of the grant period
+shall be calculated by the Secretary annually and shall be equal to the amount
+determined by multiplying—
+
+“(A) the lesser of—
+
+“(i) the difference determined by subtracting one from the quotient of—
+
+“(I) the average, for the 3 most recent award years for which data are
+available, of the median value-added earnings for each such award year of
+students who completed any program of study of the institution; divided by
+
+“(II) the average, for the 3 most recent award years for which data are
+available, of the maximum total price for completion determined under section
+420T(e) applicable for each such award year to students enrolled in the
+institution in any program of study who received financial aid under this
+title; or
+
+“(ii) the number two;
+
+“(B) the average, for the 3 most recent award years for which data are
+available, of the total dollar amount of Federal Pell Grants awarded to
+students enrolled in the institution in each such award year; and
+
+“(C) the average, for the 3 most recent award years for which data are
+available, of the percentage of low-income students who received Federal
+financial assistance under this title who were enrolled in the institution in
+each such award year who—
+
+“(i) completed a program of study at the institution within 100 percent of the
+program length of such program; or
+
+“(ii) only in the case of a two-year institution or a less than two-year
+institution—
+
+“(I) transfer to a four-year institution; and
+
+“(II) within 4 years after first enrolling at the two-year or less than two-
+year institution, complete a program of study at the four-year institution for
+which a bachelor’s degree (or substantially similar credential) is awarded.
+
+“(2) DEFINITION OF LOW-INCOME.—In this section, the term ‘low-income’, when
+used with respect to a student, means that the student’s family income does
+not exceed the maximum income in the lowest income category (as determined by
+the Secretary).
+
+“(b) Maximum grant amount.—Notwithstanding subsection (a), the maximum amount
+an eligible institution may receive annually for a grant under this subpart
+shall be the amount equal to—
+
+“(1) the average, for the 3 most recent award years, of the number of students
+enrolled in the institution in an award year who receive Federal financial aid
+under this title; multiplied by
+
+“(2) $5,000.
+
+“(c) Flexible use of funds.—A PROMISE grant awarded under this subpart shall
+be used by an eligible institution to—
+
+“(1) carry out activities included in the institution’s application for such
+grant related to postsecondary affordability, access, and student success;
+
+“(2) evaluate the effectiveness of the activities carried out with such grant
+in accordance with section 420T(b)(3)(A); and
+
+“(3) collect and disseminate promising practices related to the activities
+carried out with such grant, in accordance with section 420T(b)(3)(B).
+
+“SEC. 420V.  Availability of funds.
+
+“(a) Used of reserved funds.—
+
+“(1) PRIMARY FUNDS.—To carry out this subpart, there shall be available to the
+Secretary any funds remitted to the Secretary as reimbursements in accordance
+with section 454(d) for any award year.
+
+“(2) SECONDARY FUNDS.—Beginning award year 2028–2029, if the amounts made
+available to the Secretary under paragraph (1) to carry out this subpart in
+any award year are insufficient to fully fund the PROMISE grants awarded under
+this subpart in such award year, there shall be available to the Secretary, in
+addition to such amounts, any funds returned to the Secretary under section
+484B in the previous award year.
+
+“(b) Reduction of grant amount in case of insufficient funds.—
+
+“(1) IN GENERAL.—If the amounts made available to the Secretary under
+subsection (a) to carry out this subpart for an award year are not sufficient
+to provide grants to each eligible institution in the amount determined under
+section 420U for such award year, the Secretary shall reduce each such grant
+amount by the applicable percentage described in paragraph (2).
+
+“(2) APPLICABLE PERCENTAGE.—The applicable percentage described in this
+paragraph is the percentage determined by dividing—
+
+“(A) the amounts made available under subsection (a) for the award year
+described in paragraph (1); by
+
+“(B) the total amount that would be necessary to provide grants to all
+eligible institutions in the amounts determined under section 420U for such
+award year.
+
+“SEC. 420W.  Definitions.
+
+“In this title:
+
+“(1) VALUE-ADDED EARNINGS.—
+
+“(A) IN GENERAL.—With respect to a student who received Federal financial aid
+under this title and who completed a program of study offered by an
+institution of higher education, the term ‘value-added earnings’ means—
+
+“(i) the annual earnings of such student measured during the applicable
+earnings measurement period for such program (as determined under subparagraph
+(C)); minus
+
+“(ii) in the case of a student who completed a program of study that awards—
+
+“(I) an undergraduate credential, 150 percent of the poverty line applicable
+to a single individual as determined under section 673(2) of the Community
+Services Block Grant Act ([42 U.S.C.
+9902(2)](http://uscode.house.gov/quicksearch/get.plx?title=42&section=9902))
+for such year; or
+
+“(II) a graduate credential, 300 percent of the poverty line applicable to a
+single individual as determined under section 673(2) of the Community Services
+Block Grant Act ([42 U.S.C.
+9902(2)](http://uscode.house.gov/quicksearch/get.plx?title=42&section=9902))
+for such year.
+
+“(B) GEOGRAPHIC ADJUSTMENT.—
+
+“(i) IN GENERAL.—Except as provided in clause (ii), the Secretary shall use
+the geographic location of the institution at which a student completed a
+program of study to adjust the value-added earnings of the student calculated
+under subparagraph (A) by dividing—
+
+“(I) the difference between clauses (i) and (ii) of such subparagraph; by
+
+“(II) the most recent regional price parity index of the Bureau of Economics
+Analysis for the State or, as applicable, metropolitan area in which such
+institution is located.
+
+“(ii) EXCEPTION.—The value-added earnings of a student calculated under
+subparagraph (A) shall not be adjusted based on geographic location in
+accordance with clause (i) if such student attended principally through
+distance education.
+
+“(C) EARNINGS MEASUREMENT PERIOD.—
+
+“(i) IN GENERAL.—For the purpose of calculating the value-added earnings of a
+student, except as provided in clause (ii), the annual earnings of a student
+shall be measured—
+
+“(I) in the case of a program of study that awards an undergraduate
+certificate, post baccalaureate certificate, or graduate certificate, 1 year
+after the student completes such program;
+
+“(II) in the case of a program of study that awards an associate’s degree or
+master’s degree, 2 years after the student completes such program; and
+
+“(III) in the case of a program of study that awards a bachelor’s degree,
+doctoral degree, or professional degree, 4 years after the student completes
+such program.
+
+“(ii) EXCEPTION.—The Secretary may, as the Secretary determines appropriate
+based on the characteristics of a program of study, extend an earnings
+measurement period described in clause (i) for a program of study that—
+
+“(I) requires completion of an additional educational program (such as a
+residency or fellowship) after completion of the program of study in order to
+obtain licensure or board certification associated with the credential awarded
+for such program of study; and
+
+“(II) when combined with the program length of such additional educational
+program for licensure or board certification, has a total program length that
+exceeds the relevant earnings measurement period prescribed for such program
+of study under clause (i),
+
+except that in no case shall the annual earnings of a student be measured more
+than 1 year after the student completes such additional educational program.
+
+“(2) PROGRAM LENGTH.—The term ‘program length’ means the minimum amount of
+time in weeks, months, or years that is specified in the catalog, marketing
+materials, or other official publications of an institution of higher
+education for a full-time student to complete the requirements for a specific
+program of study.”.
+
+(b) Institutional refunds.—Section 484B of the Higher Education Act of 1965
+([20 U.S.C.
+1091b](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1091b)) is
+amended by adding at the end the following:
+
+“(f) Reservation of funds for PROMISE grants.—Notwithstanding any other
+provision of this Act, the Secretary shall reserve the funds returned to the
+Secretary under this section for 1 year after the return of such funds for the
+purpose of awarding PROMISE grants in accordance with subpart 4 of part A of
+this title.”.
+
+subtitle F—Regulatory Relief
+
+SEC. 30051.  Regulatory relief.
+
+(a) 90/10 rule.—Section 487 of the Higher Education Act of 1965 ([20 U.S.C.
+1094](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1094)) is
+amended—
+
+(1) in subsection (a), by repealing paragraph (24); and
+
+(2) by repealing subsection (d).
+
+(b) Gainful employment.—The Higher Education Act of 1965 ([20 U.S.C. 1001 et
+seq.](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1001)) is
+amended—
+
+(1) in section 101(b)(1), by striking “gainful employment in”;
+
+(2) in section 102—
+
+(A) in subsection (b)(1)(A)(i), by striking “gainful employment in”; and
+
+(B) in subsection (c)(1)(A), by striking “gainful employment in”; and
+
+(3) in section 481(b)(1)(A)(i), by striking “gainful employment in”.
+
+(c) Other repeals.—The following regulations (including any supplement or
+revision to such regulations) are repealed and shall have no legal effect:
+
+(1) CLOSED SCHOOL DISCHARGES.—Sections 674.33(g), 682.402(d), and 685.214 of
+title 34, Code of Federal Regulations (relating to closed school discharges),
+as added or amended by the final regulations published by the Department of
+Education in the Federal Register on November 1, 2022 (87 Fed. Reg. 65904 et
+seq.).
+
+(2) BORROWER DEFENSE TO REPAYMENT.—Subpart D of part 685 of title 34, Code of
+Federal Regulations (relating to borrower defense to repayment), as added or
+amended by the final regulations published by the Department of Education in
+the Federal Register on November 1, 2022 (87 Fed. Reg. 65904 et seq.).
+
+(d) Effect of repeals.—Any regulations relating to closed school discharges or
+borrower defense to repayment that took effect on July 1, 2020, are restored
+and revived as such regulations were in effect on such date.
+
+(e) Prohibition.—The Secretary of Education may not implement any rule,
+regulation, policy, or executive action specified in this section (or a
+substantially similar rule, regulation, policy, or executive action) unless
+authority for such implementation is explicitly provided in an Act of
+Congress.
+
+subtitle G—Limitation on Authority
+
+SEC. 30061.  Limitation on authority of the Secretary to propose or issue
+regulations and executive actions.
+
+Part G of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1088 et
+seq.](http://uscode.house.gov/quicksearch/get.plx?title=20&section=1088)) is
+amended by inserting after section 492 the following:
+
+“SEC. 492A.  Limitation on authority of the Secretary to propose or issue
+regulations and executive actions.
+
+“(a) Draft regulations.—Beginning on the date of enactment of this section, a
+draft regulation implementing this title (as described in section 492(b)(1))
+that is determined by the Secretary to be economically significant shall be
+subject to the following requirements (regardless of whether negotiated
+rulemaking occurs):
+
+“(1) The Secretary shall determine whether the draft regulation, if
+implemented, would result in an increase in a subsidy cost.
+
+“(2) If the Secretary determines under paragraph (1) that the draft regulation
+would result in an increase in a subsidy cost, then the Secretary may not take
+any further action with respect to such regulation.
+
+“(b) Proposed or final regulations and executive actions.—Beginning on the
+date of enactment of this section, the Secretary may not issue a proposed
+rule, final regulation, or executive action implementing this title if the
+Secretary determines that the rule, regulation, or executive action—
+
+“(1) is economically significant; and
+
+“(2) would result in an increase in a subsidy cost.
+
+“(c) Relationship to other requirements.—The analyses required under
+subsections (a) and (b) shall be in addition to any other cost analysis
+required under law for a regulation implementing this title, including any
+cost analysis that may be required pursuant to Executive Order 12866 (58 Fed.
+Reg. 51735; relating to regulatory planning and review), Executive Order 13563
+(76 Fed. Reg. 3821; relating to improving regulation and regulatory review),
+or any related or successor orders.
+
+“(d) Definition.—In this section, the term ‘economically significant’, when
+used with respect to a draft, proposed, or final regulation or executive
+action, means that the regulation or executive action is likely, as determined
+by the Secretary—
+
+“(1) to have an annual effect on the economy of $100,000,000 or more; or
+
+“(2) to adversely affect in a material way the economy, a sector of the
+economy, productivity, competition, jobs, the environment, public health or
+safety, or State, local, or tribal governments or communities.”.
+
+

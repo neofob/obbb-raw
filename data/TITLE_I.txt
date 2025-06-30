@@ -1,0 +1,2370 @@
+TITLE I—Committee on Agriculture
+
+subtitle A—Nutrition
+
+SEC. 10001.  Thrifty food plan.
+
+Section 3(u) of the Food and Nutrition Act of 2008 ([7 U.S.C.
+2012(u)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2012)) is
+amended to read as follows:
+
+“(u) (1) ‘Thrifty food plan’ means the diet required to feed a family of 4
+persons consisting of a man and a woman 20 through 50, a child 6 through 8,
+and a child 9 through 11 years of age, based on relevant market baskets that
+shall only be changed pursuant to paragraph (3). The cost of such diet shall
+be the basis for uniform allotments for all households regardless of their
+actual composition. The Secretary shall only adjust the cost of the diet as
+specified in paragraphs (2) and (4).
+
+“(2) Household adjustments.—The Secretary shall make household-size
+adjustments based on the following ratios of household size as a percentage of
+the maximum 4-person allotment:
+
+“(A) For a 1-person household, 30 percent.
+
+“(B) For a 2-person household, 55 percent.
+
+“(C) For a 3-person household, 79 percent.
+
+“(D) For a 4-person household, 100 percent.
+
+“(E) For a 5-person household, 119 percent.
+
+“(F) For a 6-person household, 143 percent.
+
+“(G) For a 7-person household, 158 percent.
+
+“(H) For an 8-person household, 180 percent.
+
+“(I) For a 9-person household, 203 percent.
+
+“(J) For a 10-person household, 224 percent.
+
+“(K) For households with more than 10 persons, such adjustment for each
+additional person shall be 224 percent plus the product of 21 percent and the
+difference in the number of persons in the household and 10.
+
+“(3) REEVALUATION OF MARKET BASKETS.—
+
+“(A) EVALUATION.—Not earlier than October 1, 2028, and at not more frequently
+than 5-year intervals thereafter, the Secretary may reevaluate the market
+baskets of the thrifty food plan taking into consideration current food
+prices, food composition data, consumption patterns, and dietary guidance.
+
+“(B) NOTICE.—Prior to any update of the market baskets of the thrifty food
+plan based on a reevaluation pursuant to subparagraph (A), the methodology and
+results of any such revelation shall be published in the Federal Register with
+an opportunity for comment of not less than 60 days.
+
+“(C) COST NEUTRALITY.—The Secretary shall not increase the cost of the thrifty
+food plan based on a reevaluation or update under this paragraph.
+
+“(4) ALLOWABLE COST ADJUSTMENTS.—On October 1 immediately following the
+effective date of this paragraph and on each October 1 thereafter, the
+Secretary shall—
+
+“(A) adjust the cost of the thrifty food plan to reflect changes in the
+Consumer Price Index for All Urban Consumers, published by the Bureau of Labor
+Statistics of the Department of Labor, for the most recent 12-month period
+ending in June;
+
+“(B) make cost adjustments in the thrifty food plan for urban and rural parts
+of Hawaii and urban and rural parts of Alaska to reflect the cost of food in
+urban and rural Hawaii and urban and rural Alaska provided such cost
+adjustment shall not exceed the rate of increase described in the Consumer
+Price Index for All Urban Consumers, published by the Bureau of Labor
+Statistics of the Department of Labor, for the most recent 12-month period
+ending in June; and
+
+“(C) make cost adjustments in the separate thrifty food plans for Guam and the
+Virgin Islands of the United States to reflect the cost of food in those
+States, but not to exceed the cost of food in the 50 States and the District
+of Columbia, provided that such cost adjustment shall not exceed the rate of
+increase described in the Consumer Price Index for All Urban Consumers,
+published by the Bureau of Labor Statistics of the Department of Labor, for
+the most recent 12-month period ending in June.”.
+
+SEC. 10002.  Able bodied adults without dependents work requirements.
+
+(a) Section 6(o)(3) of the Food and Nutrition Act of 2008 is amended to read
+as follows:
+
+“(3) EXCEPTION.—Paragraph (2) shall not apply to an individual if the
+individual is—
+
+“(A) under 18 or over 65 years of age;
+
+“(B) medically certified as physically or mentally unfit for employment;
+
+“(C) a parent or other member of a household with responsibility for a
+dependent child under 7 years of age;
+
+“(D) otherwise exempt under subsection (d)(2);
+
+“(E) a pregnant woman;
+
+“(F) currently homeless;
+
+“(G) a veteran;
+
+“(H) 24 years of age or younger and was in foster care under the
+responsibility of a State on the date of attaining 18 years of age or such
+higher age as the State has elected under section 475(8)(B)(iii) of the Social
+Security Act ([42 U.S.C.
+675(8)(B)(iii)](http://uscode.house.gov/quicksearch/get.plx?title=42&section=675));
+or
+
+“(I) responsible for a dependent child 7 years of age or older and is married
+to, and resides with, an individual who is in compliance with the requirements
+of paragraph (2).”.
+
+(b) Sunset Provision.—The exceptions in subparagraphs (F) through (H) shall
+cease to have effect on October 1, 2030.
+
+SEC. 10003.  Able bodied adults without dependents waivers.
+
+Section 6(o) of the Food and Nutrition Act of 2008 ([7 U.S.C.
+2015(o)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2015)) is
+amended—
+
+(1) by amending paragraph (4)(A) to read as follows:
+
+“(A) IN GENERAL.—On the request of a State agency and with the support of the
+chief executive officer of the State, the Secretary may waive the
+applicability of paragraph (2) for not more than 12 consecutive months to any
+group of individuals in the State if the Secretary makes a determination that
+the county, or county-equivalent (as recognized by the Census Bureau) in which
+the individuals reside has an unemployment rate of over 10 percent.”; and
+
+(2) in paragraph (6)(F) by striking “8 percent” and inserting “1 percent”.
+
+SEC. 10004.  Availability of standard utility allowances based on receipt of
+energy assistance.
+
+(a) Allowance to recipients of energy assistance.—
+
+Section 5(e)(6)(C)(iv)(I) of the of the Food and Nutrition Act of 2008 ([7
+U.S.C.
+2014(e)(6)(C)(iv)(I)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2014))
+is amended by inserting “with an elderly or disabled member” after
+“households”.
+
+(b) Third-party energy assistance payments.—Section 5(k)(4) of the Food and
+Nutrition Act of 2008 ([7 U.S.C.
+2014(k)(4)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2014))
+is amended—
+
+(1) in subparagraph (A) by inserting “without an elderly or disabled member”
+after “household” the 1st place it appears; and
+
+(2) in subparagraph (B) by inserting “with an elderly or disabled member”
+after “household” the 1st place it appears.
+
+SEC. 10005.  Restrictions on internet expenses.
+
+Section 5(e)(6) of the Food and Nutrition Act of 2008 ([7 U.S.C.
+2014(e)(6)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2014))
+is amended by adding at the end the following:
+
+“(E) RESTRICTIONS ON INTERNET EXPENSES.—Service fees associated with internet
+connection, including, but not limited to, monthly subscriber fees (i.e., the
+base rate paid by the household each month in order to receive service, which
+may include high-speed internet), taxes and fees charged to the household by
+the provider that recur on regular bills, the cost of modem rentals, and fees
+charged by the provider for initial installation, shall not be used in
+computing the excess shelter expense deduction.”.
+
+SEC. 10006.  Matching funds requirements.
+
+(a) In general.—Section 4(a) of the Food and Nutrition Act of 2008 ([7 U.S.C.
+2013(a)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2013)) is
+amended—
+
+(1) by striking “(a) Subject to” and inserting the following:
+
+“(a) Program.—
+
+“(1) ESTABLISHMENT.—Subject to”; and
+
+(2) by adding at the end the following:
+
+“(2) Matching funds requirements.—
+
+“(A) IN GENERAL.—
+
+“(i) FEDERAL SHARE.—Subject to subparagraph (B), the Federal share of the cost
+of allotments described in paragraph (1) in a fiscal year shall be—
+
+“(I) for each of fiscal years 2026 and 2027, 100 percent; and
+
+“(II) for fiscal year 2028 and each fiscal year thereafter, 95 percent.
+
+“(ii) STATE SHARE.—Subject to subparagraph (B), the State share of the cost of
+allotments described in paragraph (1) in a fiscal year shall be—
+
+“(I) for each of fiscal years 2026 and 2027, 0 percent; and
+
+“(II) for fiscal year 2028 and each fiscal year thereafter, 5 percent.
+
+“(B) STATE QUALITY CONTROL INCENTIVE.—Beginning in fiscal year 2028, any State
+that has a payment error rate, as defined in section 16, for the most recent
+complete fiscal year for which data is available, of—
+
+“(i) equal to or greater than 6 percent but less than 8 percent, shall have
+its Federal share of the cost of allotments described in paragraph (1) for the
+current fiscal year equal 85 percent, and its State share equal 15 percent;
+
+“(ii) equal to or greater than 8 percent but less than 10 percent, shall have
+its Federal share of the cost of allotments described in paragraph (1) for the
+current fiscal year equal 80 percent, and its State share equal 20 percent;
+and
+
+“(iii) equal to or greater than 10 percent, shall have its Federal share of
+the cost of allotments described in paragraph (1) for the current fiscal year
+equal 75 percent, and its State share equal 25 percent.”.
+
+(b) Rule of construction.—The Secretary of Agriculture may not pay towards the
+cost of allotments described in paragraph (1) of section 4(a) of the Food and
+Nutrition Act of 2008 ([7 U.S.C.
+2013(a)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2013)),
+as designated by subsection (a), an amount greater than the applicable Federal
+share described in paragraph (2) of such section 4(a), as added by subsection
+(a).
+
+SEC. 10007.  Administrative cost sharing.
+
+Section 16(a) of the Food and Nutrition Act of 2008 ([7 U.S.C.
+2025(a)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2025)) is
+amended by striking “50 per centum” and inserting “25 percent”.
+
+SEC. 10008.  General work requirement age.
+
+Section 6(d) of the Food and Nutrition Act of 2008 ([7 U.S.C.
+2015(d)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2015)) is
+amended—
+
+(1) in paragraph (1)(A), in the matter preceding clause (i), by striking “over
+the age of 15 and under the age of 60” and inserting “over the age of 17 and
+under the age of 65”; and
+
+(2) in paragraph (2)—
+
+(A) by striking “child under age six” and inserting “child under age seven”;
+and
+
+(B) by striking “between 1 and 6 years of age” and inserting “between 1 and 7
+years of age”.
+
+SEC. 10009.  National Accuracy Clearinghouse.
+
+Section 11(x)(2) of the Food and Nutrition Act of 2008 ([7 U.S.C.
+2020(x)(2)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2020))
+is amended by adding at the end the following:
+
+“(D) DATA SHARING TO PREVENT OTHER MULTIPLE ISSUANCES.—A State agency shall
+use each indication of multiple issuance, or each indication that an
+individual receiving supplemental nutrition assistance program benefits in 1
+State has applied to receive supplemental nutrition assistance program
+benefits in another State, to prevent multiple issuances of other Federal and
+State assistance program benefits that a State agency administers through the
+integrated eligibility system that the State uses to administer the
+supplemental nutrition assistance program in the State.”.
+
+SEC. 10010.  Quality control zero tolerance.
+
+Section 16(c)(1)(A)(ii) of the Food and Nutrition Act of 2008 ([7 U.S.C.
+2025(c)(1)(A)(ii)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2025))
+is amended—
+
+(1) in subclause (I), by striking “and” at the end;
+
+(2) in subclause (II)—
+
+(A) by striking “fiscal year thereafter” and inserting “of fiscal years 2015
+through 2025”; and
+
+(B) by striking the period at the end and inserting “; and”; and
+
+(3) by adding at the end the following:
+
+“(III) for each fiscal year thereafter, $0.”.
+
+SEC. 10011.  National education and obesity prevention grant program repealer.
+
+The Food and Nutrition Act of 2008 ([7 U.S.C. 2011 et
+seq.](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2011)) is
+amended by striking section 28 ([7 U.S.C.
+2036a](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2036a)).
+
+SEC. 10012.  Alien SNAP eligibility.
+
+Section 6(f) of the Food and Nutrition Act of 2008 ([7 U.S.C.
+2015(f)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2015)) is
+amended to read as follows:
+
+“(f) No individual who is a member of a household otherwise eligible to
+participate in the supplemental nutrition assistance program under this
+section shall be eligible to participate in the supplemental nutrition
+assistance program as a member of that or any other household unless he or she
+is—
+
+“(1) a resident of the United States; and
+
+“(2) either—
+
+“(A) a citizen or national of the United States;
+
+“(B) an alien lawfully admitted for permanent residence as an immigrant as
+defined by sections 101(a)(15) and 101(a)(20) of the Immigration and
+Nationality Act, excluding, among others, alien visitors, tourists, diplomats,
+and students who enter the United States temporarily with no intention of
+abandoning their residence in a foreign country;
+
+“(C) an alien who is a citizen or national of the Republic of Cuba and who—
+
+“(i) is the beneficiary of an approved petition under section 203(a) of the
+Immigration and Nationality Act;
+
+“(ii) meets all eligibility requirements for an immigrant visa but for whom
+such a visa is not immediately available;
+
+“(iii) is not otherwise inadmissible under section 212(a) of such Act; and
+
+“(iv) is physically present in the United States pursuant to a grant of parole
+in furtherance of the commitment of the United States to the minimum level of
+annual legal migration of Cuban nationals to the United States specified in
+the U.S.-Cuba Joint Communiqué on Migration, done at New York September 9,
+1994, and reaffirmed in the Cuba-United States: Joint Statement on
+Normalization of Migration, Building on the Agreement of September 9, 1994,
+done at New York May 2, 1995; or
+
+“(D) an individual who lawfully resides in the United States in accordance
+with a Compact of Free Association referred to in section 402(b)(2)(G) of the
+Personal Responsibility and Work Opportunity Reconciliation Act of 1996.
+
+The income (less, at State option, a pro rata share) and financial resources
+of the individual rendered ineligible to participate in the supplemental
+nutrition assistance program under this subsection shall be considered in
+determining the eligibility and the value of the allotment of the household of
+which such individual is a member.”.
+
+SEC. 10013.  Emergency food assistance.
+
+Section 203D(d)(5) of the Emergency Food Assistance Act of 1983 ([7 U.S.C.
+7507(d)(5)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=7507))
+is amended by striking “2024” and inserting “2031”.
+
+subtitle B—Investment in Rural America
+
+SEC. 10101. Safety net.
+
+(a) Reference price.—Section 1111(19) of the Agricultural Act of 2014 ([7
+U.S.C.
+9011(19)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9011))
+is amended to read as follows:
+
+“(19) REFERENCE PRICE.—
+
+“(A) IN GENERAL.—Subject to subparagraphs (B) and (C), the term ‘reference
+price’, with respect to a covered commodity for a crop year, means the
+following:
+
+“(i) For wheat, $6.35 per bushel.
+
+“(ii) For corn, $4.10 per bushel.
+
+“(iii) For grain sorghum, $4.40 per bushel.
+
+“(iv) For barley, $5.45 per bushel.
+
+“(v) For oats, $2.65 per bushel.
+
+“(vi) For long grain rice, $16.90 per hundredweight.
+
+“(vii) For medium grain rice, $16.90 per hundredweight.
+
+“(viii) For soybeans, $10.00 per bushel.
+
+“(ix) For other oilseeds, $23.75 per hundredweight.
+
+“(x) For peanuts, $630.00 per ton.
+
+“(xi) For dry peas, $13.10 per hundredweight.
+
+“(xii) For lentils, $23.75 per hundredweight.
+
+“(xiii) For small chickpeas, $22.65 per hundredweight.
+
+“(xiv) For large chickpeas, $25.65 per hundredweight.
+
+“(xv) For seed cotton, $0.42 per pound.
+
+“(B) EFFECTIVENESS.—Effective beginning with the 2031 crop year, the reference
+prices defined in subparagraph (A) with respect to a covered commodity shall
+equal the reference price in the previous crop year multiplied by 1.005.
+
+“(C) LIMITATION.—In no case shall a reference price for a covered commodity
+exceed 115 percent of the reference price for such covered commodity listed in
+subparagraph (A).”.
+
+(b) Base acres.—Section 1112 of the Agricultural Act of 2014 ([7 U.S.C.
+9012](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9012)) is
+amended—
+
+(1) in subsection (d)(3)(A), by striking “2023” and inserting “2031”; and
+
+(2) by adding at the end the following:
+
+“(e) Additional base acres.—
+
+“(1) IN GENERAL.—As soon as practicable after the date of enactment of this
+subsection, and notwithstanding subsection (a), the Secretary shall provide
+notice to owners of eligible farms pursuant to paragraph (4) and allocate to
+those eligible farms a total of not more than an additional 30,000,000 base
+acres in the manner provided in this subsection.
+
+“(2) CONTENT OF NOTICE.—The notice under paragraph (1) shall include the
+following:
+
+“(A) Information that the allocation is occurring.
+
+“(B) Information regarding the eligibility of the farm for an allocation of
+base acres under paragraph (4).
+
+“(C) Information regarding how an owner may appeal a determination of
+ineligibility for an allocation of base acres under paragraph (4) through an
+appeals process established by the Secretary.
+
+“(3) OPT-OUT.—An owner of a farm that is eligible to receive an allocation of
+base acres may elect to not receive that allocation by notifying the
+Secretary.
+
+“(4) ELIGIBILITY.—
+
+“(A) IN GENERAL.—Subject to subparagraph (D), effective beginning with the
+2026 crop year, a farm is eligible to receive an allocation of base acres if,
+with respect to the farm, the amount described in subparagraph (B) exceeds the
+amount described in subparagraph (C).
+
+“(B) 5-YEAR AVERAGE SUM.—The amount described in this subparagraph, with
+respect to a farm, is the sum of—
+
+“(i) the 5-year average of—
+
+“(I) the acreage planted on the farm to all covered commodities for harvest,
+grazing, haying, silage or other similar purposes for the 2019 through 2023
+crop years; and
+
+“(II) any acreage on the farm that the producers were prevented from planting
+during the 2019 through 2023 crop years to covered commodities because of
+drought, flood, or other natural disaster, or other condition beyond the
+control of the producers, as determined by the Secretary; plus
+
+“(ii) the lesser of—
+
+“(I) 15 percent of the total acres on the farm; and
+
+“(II) the 5-year average of—
+
+“(aa) the acreage planted on the farm to eligible noncovered commodities for
+harvest, grazing, haying, silage, or other similar purposes for the 2019
+through 2023 crop years; and
+
+“(bb) any acreage on the farm that the producers were prevented from planting
+during the 2019 through 2023 crop years to eligible noncovered commodities
+because of drought, flood, or other natural disaster, or other condition
+beyond the control of the producers, as determined by the Secretary.
+
+“(C) TOTAL NUMBER OF BASE ACRES FOR COVERED COMMODITIES.—The amount described
+in this subparagraph, with respect to a farm, is the total number of base
+acres for covered commodities on the farm (excluding unassigned crop base), as
+in effect on September 30, 2024.
+
+“(D) EFFECT OF NO RECENT PLANTINGS OF COVERED COMMODITIES.—In the case of a
+farm for which the amount determined under clause (i) of subparagraph (B) is
+equal to zero, that farm shall be ineligible to receive an allocation of base
+acres under this subsection.
+
+“(E) ACREAGE PLANTED ON THE FARM TO ELIGIBLE NONCOVERED COMMODITIES
+DEFINED.—In this paragraph, the term ‘acreage planted on the farm to eligible
+noncovered commodities’ means acreage planted on a farm to commodities other
+than covered commodities, trees, bushes, vines, grass, or pasture (including
+cropland that was idle or fallow), as determined by the Secretary.
+
+“(5) NUMBER OF BASE ACRES.—Subject to paragraphs (4) and (7), the number of
+base acres allocated to an eligible farm shall—
+
+“(A) be equal to the difference obtained by subtracting the amount determined
+under subparagraph (C) of paragraph (4) from the amount determined under
+subparagraph (B) of that paragraph; and
+
+“(B) include unassigned crop base.
+
+“(6) ALLOCATION OF ACRES.—
+
+“(A) ALLOCATION.—The Secretary shall allocate the number of base acres under
+paragraph (5) among those covered commodities planted on the farm at any time
+during the 2019 through 2023 crop years.
+
+“(B) ALLOCATION FORMULA.—The allocation of additional base acres for covered
+commodities shall be in proportion to the ratio of—
+
+“(i) the 5-year average of—
+
+“(I) the acreage planted on the farm to each covered commodity for harvest,
+grazing, haying, silage, or other similar purposes for the 2019 through 2023
+crop years; and
+
+“(II) any acreage on the farm that the producers were prevented from planting
+during the 2019 through 2023 crop years to that covered commodity because of
+drought, flood, or other natural disaster, or other condition beyond the
+control of the producers, as determined by the Secretary; to
+
+“(ii) the 5-year average determined under paragraph (4)(B)(i).
+
+“(C) INCLUSION OF ALL 5 YEARS IN AVERAGE.—For the purpose of determining a
+5-year acreage average under subparagraph (B) for a farm, the Secretary shall
+not exclude any crop year in which a covered commodity was not planted.
+
+“(D) TREATMENT OF MULTIPLE PLANTING OR PREVENTED PLANTING.—For the purpose of
+determining under subparagraph (B) the acreage on a farm that producers
+planted or were prevented from planting during the 2019 through 2023 crop
+years to covered commodities, if the acreage that was planted or prevented
+from being planted was devoted to another covered commodity in the same crop
+year (other than a covered commodity produced under an established practice of
+double cropping), the owner may elect the covered commodity to be used for
+that crop year in determining the 5-year average, but may not include both the
+initial covered commodity and the subsequent covered commodity.
+
+“(E) LIMITATION.—The allocation of additional base acres among covered
+commodities on a farm under this paragraph may not result in a total number of
+base acres for the farm in excess of the total number of acres on the farm.
+
+“(7) REDUCTION BY THE SECRETARY.—In carrying out this subsection, if the total
+number of eligible acres allocated to base acres across all farms in the
+United States under this subsection would exceed 30,000,000 acres, the
+Secretary shall apply an across-the-board, pro-rata reduction to the number of
+eligible acres to ensure the number of allocated base acres under this
+subsection is equal to 30,000,000 acres.
+
+“(8) PAYMENT YIELD.—Beginning with crop year 2026, for the purpose of making
+price loss coverage payments under section 1116, the Secretary shall establish
+payment yields to base acres allocated under this subsection equal to—
+
+“(A) the payment yield established on the farm for the applicable covered
+commodity; and
+
+“(B) if no such payment yield for the applicable covered commodity exists, a
+payment yield—
+
+“(i) equal to the average payment yield for the covered commodity for the
+county in which the farm is situated; or
+
+“(ii) determined pursuant to section 1113(c).
+
+“(9) TREATMENT OF NEW OWNERS.—In the case of a farm for which the owner on the
+date of enactment of this subsection was not the owner for the 2019 through
+2023 crop years, the Secretary shall use the planting history of the prior
+owner or owners of that farm for purposes of determining—
+
+“(A) eligibility under paragraph (4);
+
+“(B) eligible acres under paragraph (5); and
+
+“(C) the allocation of acres under paragraph (6).”.
+
+(c) Producer election.—Section 1115 of the Agricultural Act of 2014 ([7 U.S.C.
+9015](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9015)) is
+amended—
+
+(1) in subsection (a), in the matter preceding paragraph (1) by striking
+“2023” and inserting “2031”; and
+
+(2) in subsection (c)—
+
+(A) in the matter preceding paragraph (1), by striking “2014 crop year or the
+2019 crop year, as applicable” and inserting “2014 crop year, 2019 crop year,
+or 2026 crop year, as applicable”;
+
+(B) in paragraph (1), by striking “2014 crop year or the 2019 crop year, as
+applicable,” and inserting “2014 crop year, 2019 crop year, or 2026 crop year,
+as applicable,”; and
+
+(C) in paragraph (2)—
+
+(i) in subparagraph (A), by striking “and” at the end;
+
+(ii) in subparagraph (B), by striking the period at the end and inserting “;
+and”; and
+
+(iii) by adding at the end the following:
+
+“(C) the same coverage for each covered commodity on the farm for the 2026
+through 2031 crop years as was applicable for the 2024 crop year.”.
+
+(d) Price loss coverage.—Section 1116 of the Agricultural Act of 2014 ([7
+U.S.C.
+9016](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9016)) is
+amended—
+
+(1) in subsection (a)(2), in the matter preceding subparagraph (A), by
+striking “2023” and inserting “2031”;
+
+(2) in subsection (c)(1)(B)—
+
+(A) in the subparagraph heading, by striking “2023” and inserting “2031”; and
+
+(B) in the matter preceding clause (i), by striking “2023” and inserting
+“2031”;
+
+(3) in subsection (d), by striking “2025” and inserting “2031”; and
+
+(4) in subsection (g), by striking “2012 through 2016” each place it appears
+and inserting “2017 through 2021”.
+
+(e) Agriculture risk coverage.—Section 1117 of the Agricultural Act of 2014
+([7 U.S.C.
+9017](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9017)) is
+amended—
+
+(1) in subsection (a), in the matter preceding paragraph (1), by striking
+“2023” and inserting “2031”;
+
+(2) in subsection (c)—
+
+(A) in paragraph (1), by inserting “for each of the 2014 through 2024 crop
+years and 90 percent of the benchmark revenue for each of the 2025 through
+2031 crop years” before the period at the end;
+
+(B) by striking “2023” each place it appears and inserting “2031”; and
+
+(C) in paragraph (4)(B), in the subparagraph heading, by striking “2023” and
+inserting “2031”;
+
+(3) by amending subsection (d)(1)(B) to read as follows:
+
+“(B) (i) for each of the crop years 2014 through 2024, 10 percent of the
+benchmark revenue for the crop year applicable under subsection (c); and
+
+“(ii) for each of the crop years 2025 __through 2031, 12.5 percent of the
+benchmark revenue for the crop year applicable under subsection (c).”; and
+
+(4) in subsections (e), (g)(5), and (i)(5), by striking “2023” each place it
+appears and inserting “2031”.
+
+(f) Equitable treatment of certain entities.—
+
+(1) IN GENERAL.—Section 1001 of the Food Security Act of 1985 ([7 U.S.C.
+1308](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1308)) is
+amended—
+
+(A) in subsection (a)—
+
+(i) by redesignating paragraph (5) as paragraph (6); and
+
+(ii) by inserting after paragraph (4) the following:
+
+“(5) QUALIFIED PASS-THROUGH ENTITY.—The term ‘qualified pass-through entity’
+means—
+
+“(A) a partnership (within the meaning of subchapter K of [chapter
+1](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-
+title26-chapter1-front&num=0&edition=prelim) of the Internal Revenue Code of
+1986);
+
+“(B) an S corporation (as defined in section 1361 of that Code);
+
+“(C) a limited liability company that does not affirmatively elect to be
+treated as a corporation; and
+
+“(D) a joint venture or general partnership.”;
+
+(B) in subsections (b) and (c), by striking “except a joint venture or general
+partnership” each place it appears and inserting “except a qualified pass-
+through entity”; and
+
+(C) in subsection (d), by striking “subtitle B” and all that follows through
+the end and inserting “title I of the Agricultural Act of 2014.”.
+
+(2) ATTRIBUTION OF PAYMENTS.—Section 1001(e)(3)(B)(ii) of the Food Security
+Act of 1985 ([7 U.S.C.
+1308(e)(3)(B)(ii)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1308))
+is amended—
+
+(A) in the clause heading, by striking “joint ventures and general
+partnerships” and inserting “qualified pass-through entities”;
+
+(B) by striking “a joint venture or a general partnership” and inserting “a
+qualified pass-through entity”;
+
+(C) by striking “joint ventures and general partnerships” and inserting
+“qualified pass-through entities”; and
+
+(D) by striking “the joint venture or general partnership” and inserting “the
+qualified pass-through entity”.
+
+(3) PERSONS ACTIVELY ENGAGED IN FARMING.—Section 1001A(b)(2) of the Food
+Security Act of 1985 ([7 U.S.C.
+1308–1(b)(2)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1308-1))
+is amended—
+
+(A) in subparagraphs (A) and (B), by striking “in a general partnership, a
+participant in a joint venture” each place it appears and inserting “a
+qualified pass-through entity”; and
+
+(B) in subparagraph (C), by striking “a general partnership, joint venture, or
+similar entity” and inserting “a qualified pass-through entity or a similar
+entity”.
+
+(4) JOINT AND SEVERAL LIABILITY.—Section 1001B(d) of the Food Security Act of
+1985 ([7 U.S.C.
+1308–2(d)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1308-2))
+is amended by striking “partnerships and joint ventures” and inserting
+“qualified pass-through entities”.
+
+(5) EXCLUSION FROM AGI CALCULATION.—Section 1001D(d) of the Food Security Act
+of 1985 (7 U.S.C. 1308–3a(d)) is amended by striking “, general partnership,
+or joint venture” each place it appears.
+
+(g) Payment limitations.—Section 1001 of the Food Security Act of 1985 ([7
+U.S.C.
+1308](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1308)) is
+amended—
+
+(1) in subsection (b)—
+
+(A) by striking “The” and inserting “Subject to subsection (i), the”; and
+
+(B) by striking “$125,000” and inserting “$155,000”;
+
+(2) in subsection (c)—
+
+(A) by striking “The” and inserting “Subject to subsection (i), the”; and
+
+(B) by striking “$125,000” and inserting “$155,000”; and
+
+(3) by adding at the end the following:
+
+“(i) Adjustment.—For the 2025 crop year and each crop year thereafter, the
+Secretary shall annually adjust the amounts described in subsections (b) and
+(c) for inflation based on the Consumer Price Index for All Urban Consumers
+published by the Bureau of Labor Statistics of the Department of Labor.”.
+
+(h) Adjusted gross income limitation.—Section 1001D(b) of the Food Security
+Act of 1985 (7 U.S.C. 1308–3a(b)) is amended—
+
+(1) in paragraph (1), by striking “paragraph (3)” and inserting “paragraphs
+(3) and (4)”; and
+
+(2) by adding at the end the following:
+
+“(4) EXCEPTION FOR CERTAIN OPERATIONS.—
+
+“(A) DEFINITIONS.—In this paragraph:
+
+“(i) EXCEPTED PAYMENT OR BENEFIT.—The term ‘excepted payment or benefit’
+means—
+
+“(I) a payment or benefit under subtitle E of title I of the Agricultural Act
+of 2014 ([7 U.S.C. 9081 et
+seq.](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9081));
+
+“(II) a payment or benefit under section 196 of the Federal Agriculture
+Improvement and Reform Act of 1996 ([7 U.S.C.
+7333](http://uscode.house.gov/quicksearch/get.plx?title=7&section=7333)); and
+
+“(III) a payment or benefit described in paragraph (2)(C) received on or after
+October 1, 2024.
+
+“(ii) FARMING, RANCHING, OR SILVICULTURE ACTIVITIES.—The term ‘farming,
+ranching, or silviculture activities’ includes agritourism, direct-to-consumer
+marketing of agricultural products, the sale of agricultural equipment by a
+person or legal entity that owns such equipment, and other agriculture-related
+activities, as determined by the Secretary.
+
+“(B) EXCEPTION.—In the case of an excepted payment or benefit, the limitation
+established by paragraph (1) shall not apply to a person or legal entity
+during a crop, fiscal, or program year, as appropriate, if greater than or
+equal to 75 percent of the average gross income of the person or legal entity
+derives from farming, ranching, or silviculture activities.”.
+
+(i) Marketing loans.—
+
+(1) AVAILABILITY OF NONRECOURSE MARKETING ASSISTANCE LOANS FOR LOAN
+COMMODITIES.—Section 1201(b)(1) of the Agricultural Act of 2014 ([7 U.S.C.
+9031(b)(1)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9031))
+is amended by striking “2023” and inserting “2031”.
+
+(2) LOAN RATES FOR NONRECOURSE MARKETING ASSISTANCE LOANS.—Section 1202 of the
+Agricultural Act of 2014 ([7 U.S.C.
+9032](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9032)) is
+amended—
+
+(A) in subsection (b)—
+
+(i) in the subsection heading, by striking “2023” and inserting “2025”; and
+
+(ii) in the matter preceding paragraph (1), by striking “2023” and inserting
+“2025”;
+
+(B) by redesignating subsections (c) and (d) as subsections (d) and (e),
+respectively;
+
+(C) by inserting after subsection (b) the following:
+
+“(c) 2026 through 2031 crop years.—For purposes of each of the 2026 through
+2031 crop years, the loan rate for a marketing assistance loan under section
+1201 for a loan commodity shall be equal to the following:
+
+“(1) In the case of wheat, $3.72 per bushel.
+
+“(2) In the case of corn, $2.42 per bushel.
+
+“(3) In the case of grain sorghum, $2.42 per bushel.
+
+“(4) In the case of barley, $2.75 per bushel.
+
+“(5) In the case of oats, $2.20 per bushel.
+
+“(6) In the case of upland cotton, $0.55 per pound.
+
+“(7) In the case of extra long staple cotton, $1.00 per pound.
+
+“(8) In the case of long grain rice, $7.70 per hundredweight.
+
+“(9) In the case of medium grain rice, $7.70 per hundredweight.
+
+“(10) In the case of soybeans, $6.82 per bushel.
+
+“(11) In the case of other oilseeds, $11.10 per hundredweight for each of the
+following kinds of oilseeds:
+
+“(A) Sunflower seed.
+
+“(B) Rapeseed.
+
+“(C) Canola.
+
+“(D) Safflower.
+
+“(E) Flaxseed.
+
+“(F) Mustard seed.
+
+“(G) Crambe.
+
+“(H) Sesame seed.
+
+“(I) Other oilseeds designated by the Secretary.
+
+“(12) In the case of dry peas, $6.87 per hundredweight.
+
+“(13) In the case of lentils, $14.30 per hundredweight.
+
+“(14) In the case of small chickpeas, $11.00 per hundredweight.
+
+“(15) In the case of large chickpeas, $15.40 per hundredweight.
+
+“(16) In the case of graded wool, $1.60 per pound.
+
+“(17) In the case of nongraded wool, $0.55 per pound.
+
+“(18) In the case of mohair, $5.00 per pound.
+
+“(19) In the case of honey, $1.50 per pound.
+
+“(20) In the case of peanuts, $390 per ton.”;
+
+(D) in subsection (d) (as so redesignated), by striking “(a)(11) and (b)(11)”
+and inserting “(a)(11), (b)(11), and (c)(11)”; and
+
+(E) by amending subsection (e) (as so redesignated) to read as follows:
+
+“(e) Special rule for seed cotton and corn.—
+
+“(1) IN GENERAL.—For purposes of section 1116(b)(2) and paragraphs (1)(B)(ii)
+and (2)(A)(ii)(II) of section 1117(b), the loan rate shall be deemed to equal—
+
+“(A) for seed cotton, $0.30 per pound; and
+
+“(B) for corn, $3.30 per bushel.
+
+“(2) EFFECT.—Nothing in this subsection authorizes any nonrecourse marketing
+assistance loan under this subtitle for seed cotton.”.
+
+(3) PAYMENT OF COTTON STORAGE COSTS.—Section 1204(g) of the Agricultural Act
+of 2014 ([7 U.S.C.
+9034(g)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9034)) is
+amended—
+
+(A) by striking “Effective” and inserting the following:
+
+“(1) CROP YEARS 2014 THROUGH 2025.—Effective”;
+
+(B) in paragraph (1) (as so designated), by striking “2023” and inserting
+“2025”; and
+
+(C) by adding at the end the following:
+
+“(2) PAYMENT OF COTTON STORAGE COSTS.—Effective for each of the 2026 through
+2031 crop years, the Secretary shall make cotton storage payments for upland
+cotton and extra long staple cotton available in the same manner as the
+Secretary provided storage payments for the 2006 crop of upland cotton, except
+that the payment rate shall be equal to the lesser of—
+
+“(A) the submitted tariff rate for the current marketing year; and
+
+“(B) in the case of storage in—
+
+“(i) California or Arizona, a payment rate of $4.90; and
+
+“(ii) any other State, a payment rate of $3.00.”.
+
+(4) LOAN DEFICIENCY PAYMENTS.—
+
+(A) CONTINUATION.—Section 1205(a)(2)(B) of the Agricultural Act of 2014 ([7
+U.S.C.
+9035(a)(2)(B)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9035))
+is amended by striking “2023” and inserting “2031”.
+
+(B) PAYMENTS IN LIEU OF LDPS.—Section 1206 of the Agricultural Act of 2014 ([7
+U.S.C.
+9036](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9036)) is
+amended, in subsections (a) and (d), by striking “2023” each place it appears
+and inserting “2031”.
+
+(5) SPECIAL COMPETITIVE PROVISIONS FOR EXTRA LONG STAPLE COTTON.—Section
+1208(a) of the Agricultural Act of 2014 ([7 U.S.C.
+9038(a)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9038)) is
+amended, in the matter preceding paragraph (1), by striking “2026” and
+inserting “2032”.
+
+(6) AVAILABILITY OF RECOURSE LOANS.—Section 1209 of the Agricultural Act of
+2014 ([7 U.S.C.
+9039](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9039)) is
+amended, in subsections (a)(2), (b), and (c), by striking “2023” each place it
+appears and inserting “2031”.
+
+(j) Repayment of marketing loans.—Section 1204 of the Agricultural Act of 2014
+([7 U.S.C.
+9034](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9034)) is
+amended—
+
+(1) in subsection (b)—
+
+(A) by redesignating paragraph (1) as subparagraph (A) and indenting
+appropriately;
+
+(B) in the matter preceding subparagraph (A) (as so redesignated), by striking
+“The Secretary” and inserting the following:
+
+“(1) IN GENERAL.—The Secretary”; and
+
+(C) by striking paragraph (2) and inserting the following:
+
+“(B) (i) in the case of long grain rice and medium grain rice, the prevailing
+world market price for the commodity, as determined and adjusted by the
+Secretary in accordance with this section; or
+
+“(ii) in the case of upland cotton, the lowest prevailing world market price
+for the commodity, as determined and adjusted by the Secretary in accordance
+with this section, during the 30-day period following the day on which the
+producer repays the marketing assistance loan.
+
+“(2) REFUND FOR UPLAND COTTON.—In the case of a repayment for a marketing
+assistance loan for upland cotton at a rate described in paragraph (1)(B)(ii),
+the Secretary shall provide to the producer a refund (if any) in an amount
+equal to the difference between the lowest prevailing world market price
+described in that paragraph and the repayment amount.”;
+
+(2) in subsection (c)—
+
+(A) by striking the period at the end and inserting “; and”;
+
+(B) by striking “at the loan rate” and inserting the following: “at a rate
+that is the lesser of—
+
+“(1) the loan rate”; and
+
+(C) by adding at the end the following:
+
+“(2) the prevailing world market price for the commodity, as determined and
+adjusted by the Secretary in accordance with this section.”;
+
+(3) in subsection (d)—
+
+(A) in paragraph (1), by striking “and medium grain rice” and inserting
+“medium grain rice, and extra long staple cotton”;
+
+(B) by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B),
+respectively, and indenting appropriately;
+
+(C) in the matter preceding subparagraph (A) (as so redesignated), by striking
+“For purposes” and inserting the following:
+
+“(1) IN GENERAL.—For purposes”; and
+
+(D) by adding at the end the following:
+
+“(2) UPLAND COTTON.—In the case of upland cotton, for any period when price
+quotations for Middling (M) 13⁄32 -inch cotton are available, the formula
+under paragraph (1)(A) shall be based on the average of the 3 lowest-priced
+growths that are quoted.”; and
+
+(4) in subsection (e)—
+
+(A) in the subsection heading, by inserting “extra long staple cotton,” after
+“Upland cotton,”;
+
+(B) in paragraph (2)—
+
+(i) in the paragraph heading, by striking “Cotton” and inserting “Upland
+Cotton”; and
+
+(ii) in subparagraph (B), in the matter preceding clause (i), by striking
+“2024” and inserting “2032”;
+
+(C) by redesignating paragraph (3) as paragraph (4); and
+
+(D) by inserting after paragraph (2) the following:
+
+“(3) EXTRA LONG STAPLE COTTON.—The prevailing world market price for extra
+long staple cotton determined under subsection (d)—
+
+“(A) shall be adjusted to United States quality and location, with the
+adjustment to include the average costs to market the commodity, including
+average transportation costs, as determined by the Secretary; and
+
+“(B) may be further adjusted, during the period beginning on the date of
+enactment of this paragraph and ending on July 31, 2032, if the Secretary
+determines the adjustment is necessary—
+
+“(i) to minimize potential loan forfeitures;
+
+“(ii) to minimize the accumulation of stocks of extra long staple cotton by
+the Federal Government;
+
+“(iii) to ensure that extra long staple cotton produced in the United States
+can be marketed freely and competitively; and
+
+“(iv) to ensure an appropriate transition between current-crop and forward-
+crop price quotations, except that the Secretary may use forward-crop price
+quotations prior to July 31 of a marketing year only if—
+
+“(I) there are insufficient current-crop price quotations; and
+
+“(II) the forward-crop price quotation is the lowest such quotation
+available.”.
+
+(k) Economic adjustment assistance for textile mills.—Section 1207(c) of the
+Agricultural Act of 2014 ([7 U.S.C.
+9037(c)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9037)) is
+amended by striking paragraph (2) and inserting the following:
+
+“(2) VALUE OF ASSISTANCE.—The value of the assistance provided under paragraph
+(1) shall be—
+
+“(A) for the period beginning on August 1, 2013, and ending on July 31, 2025,
+3 cents per pound; and
+
+“(B) beginning on August 1, 2025, 5 cents per pound.”.
+
+(l) Sugar program updates.—
+
+(1) LOAN RATE MODIFICATIONS.—Section 156 of the Federal Agriculture
+Improvement and Reform Act of 1996 ([7 U.S.C.
+7272](http://uscode.house.gov/quicksearch/get.plx?title=7&section=7272)) is
+amended—
+
+(A) in subsection (a)—
+
+(i) in paragraph (4), by striking “and” at the end;
+
+(ii) in paragraph (5), by striking “2023 crop years.” and inserting “2024 crop
+years; and”; and
+
+(iii) by adding at the end the following:
+
+“(6) 24.00 cents per pound for raw cane sugar for each of the 2025 through
+2031 crop years.”;
+
+(B) in subsection (b)—
+
+(i) in paragraph (1), by striking “and” at the end;
+
+(ii) in paragraph (2), by striking “2023 crop years.” and inserting “2024 crop
+years; and”; and
+
+(iii) by adding at the end the following:
+
+“(3) a rate that is equal to 136.55 percent of the loan rate per pound of raw
+cane sugar under subsection (a)(6) for each of the 2025 through 2031 crop
+years.”; and
+
+(C) in subsection (i), by striking “2023” and inserting “2031”.
+
+(2) ADJUSTMENTS TO COMMODITY CREDIT CORPORATION STORAGE RATES.—Section 167 of
+the Federal Agriculture Improvement and Reform Act of 1996 ([7 U.S.C.
+7287](http://uscode.house.gov/quicksearch/get.plx?title=7&section=7287)) is
+amended—
+
+(A) by striking subsection (a) and inserting the following:
+
+“(a) In general.—The Commodity Credit Corporation shall establish rates for
+the storage of forfeited sugar in an amount that is not less than—
+
+“(1) in the case of refined sugar, 34 cents per hundredweight per month; and
+
+“(2) in the case of raw cane sugar, 27 cents per hundredweight per month.”;
+and
+
+(B) in subsection (b)—
+
+(i) in the subsection heading, by striking “Subsequent” and inserting “Prior”;
+and
+
+(ii) by striking “and subsequent” and inserting “through 2024”.
+
+(3) MODERNIZING BEET SUGAR ALLOTMENTS.—
+
+(A) SUGAR ESTIMATES.—Section 359b(a)(1) of the Agricultural Adjustment Act of
+1938 ([7 U.S.C.
+1359bb(a)(1)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1359bb))
+is amended by striking “2023” and inserting “2031”.
+
+(B) ALLOCATION TO PROCESSORS.—Section 359c(g)(2) of the Agricultural
+Adjustment Act of 1938 ([7 U.S.C.
+1359cc(g)(2)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1359cc))
+is amended—
+
+(i) by striking “In the case” and inserting the following:
+
+“(A) IN GENERAL.—Except as provided in subparagraph (B), in the case”; and
+
+(ii) by adding at the end the following:
+
+“(B) EXCEPTION.—If the Secretary makes an upward adjustment under paragraph
+(1)(A), in adjusting allocations among beet sugar processors, the Secretary
+shall give priority to beet sugar processors with available sugar.”.
+
+(C) TIMING OF REASSIGNMENT.—Section 359e(b)(2) of the Agricultural Adjustment
+Act of 1938 ([7 U.S.C.
+1359ee(b)(2)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1359ee))
+is amended—
+
+(i) by redesignating subparagraphs (A) through (C) as clauses (i) through
+(iii), respectively, and indenting appropriately;
+
+(ii) in the matter preceding clause (i) (as so redesignated), by striking “If
+the Secretary determines that a sugar beet processor who has been allocated a
+share of the beet sugar allotment will be unable to market that allocation”
+and inserting the following:
+
+“(A) IN GENERAL.—If the Secretary determines that a sugar beet processor who
+has been allocated a share of the beet sugar allotment for the crop year will
+be unable to market that allocation”; and
+
+(iii) by adding at the end the following:
+
+“(B) TIMING.—In carrying out subparagraph (A), the Secretary shall—
+
+“(i) make an initial determination following the publication of the World
+Agricultural Supply and Demand Estimates (in this subparagraph referred to as
+‘WASDE’) approved by the World Agricultural Outlook Board for the month of
+January that is applicable to the crop year for which a determination under
+subparagraph (A) is made; and
+
+“(ii) provide for an initial reassignment under subparagraph (A)(i) not later
+than 30 days after the date of the announcement of such WASDE.”.
+
+(4) REALLOCATIONS OF TARIFF-RATE QUOTA SHORTFALL.—Section 359k of the
+Agricultural Adjustment Act of 1938 ([7 U.S.C.
+1359kk](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1359kk))
+is amended by adding at the end the following:
+
+“(c) Reallocation.—
+
+“(1) INITIAL REALLOCATION.—Subject to paragraph (3), following the
+establishment of the tariff-rate quotas under subsection (a) for a quota year,
+the Secretary shall—
+
+“(A) determine which countries do not intend to fulfill their allocation for
+the quota year; and
+
+“(B) reallocate any forecasted shortfall in the fulfillment of the tariff-rate
+quotas as soon as practicable.
+
+“(2) SUBSEQUENT REALLOCATION.—Subject to paragraph (3), not later than March 1
+of a quota year, the Secretary shall reallocate any additional forecasted
+shortfall in the fulfillment of the tariff-rate quotas for raw cane sugar
+established under subsection (a)(1) for that quota year.
+
+“(3) CESSATION OF EFFECTIVENESS.—Paragraphs (1) and (2) shall cease to be in
+effect if—
+
+“(A) the Agreement Suspending the Countervailing Duty Investigation on Sugar
+from Mexico, signed December 19, 2014, is terminated; and
+
+“(B) no countervailing duty order under subtitle A of title VII of the Tariff
+Act of 1930 ([19 U.S.C. 1671 et
+seq.](http://uscode.house.gov/quicksearch/get.plx?title=19&section=1671)) is
+in effect with respect to sugar from Mexico.
+
+“(d) Refined sugar.—
+
+“(1) DEFINITION OF DOMESTIC SUGAR INDUSTRY.—In this subsection, the term
+‘domestic sugar industry’ means domestic—
+
+“(A) sugar beet producers and processors;
+
+“(B) producers and processors of sugar cane; and
+
+“(C) refiners of raw cane sugar.
+
+“(2) STUDY REQUIRED.—
+
+“(A) IN GENERAL.—Not later than 180 days after the date of enactment of this
+subsection, the Secretary shall conduct a study on whether the establishment
+of additional terms and conditions with respect to refined sugar imports is
+necessary and appropriate.
+
+“(B) ELEMENTS.—In conducting the study under subparagraph (A), the Secretary
+shall examine the following:
+
+“(i) The need for—
+
+“(I) defining ‘refined sugar’ as having a minimum polarization of 99.8 degrees
+or higher;
+
+“(II) establishing a standard for color- or reflectance-based units for
+refined sugar such as those utilized by the International Commission of
+Uniform Methods of Sugar Analysis;
+
+“(III) prescribing specifications for packaging type for refined sugar;
+
+“(IV) prescribing specifications for transportation modes for refined sugar;
+
+“(V) requiring affidavits or other evidence that sugar imported as refined
+sugar will not undergo further refining in the United States;
+
+“(VI) prescribing appropriate terms and conditions to avoid unlawful sugar
+imports; and
+
+“(VII) establishing other definitions, terms and conditions, or other
+requirements.
+
+“(ii) The potential impact of modifications described in each of subclauses
+(I) through (VII) of clause (i) on the domestic sugar industry.
+
+“(iii) Whether, based on the needs described in clause (i) and the impact
+described in clause (ii), the establishment of additional terms and conditions
+is appropriate.
+
+“(C) CONSULTATION.—In conducting the study under subparagraph (A), the
+Secretary shall consult with representatives of the domestic sugar industry
+and users of refined sugar.
+
+“(D) REPORT.—Not later than 1 year after the date of enactment of this
+subsection, the Secretary shall submit to the Committee on Agriculture of the
+House of Representatives and the Committee on Agriculture, Nutrition, and
+Forestry of the Senate a report that describes the findings of the study
+conducted under subparagraph (A).
+
+“(3) ESTABLISHMENT OF ADDITIONAL TERMS AND CONDITIONS PERMITTED.—
+
+“(A) IN GENERAL.—Based on the findings in the report submitted under paragraph
+(2)(D), and after providing notice to the Committee on Agriculture of the
+House of Representatives and the Committee on Agriculture, Nutrition, and
+Forestry of the Senate, the Secretary may issue regulations in accordance with
+subparagraph (B) to establish additional terms and conditions with respect to
+refined sugar imports that are necessary and appropriate.
+
+“(B) PROMULGATION OF REGULATIONS.—The Secretary may issue regulations under
+subparagraph (A) if the regulations—
+
+“(i) do not have an adverse impact on the domestic sugar industry; and
+
+“(ii) are consistent with the requirements of this part, section 156 of the
+Federal Agriculture Improvement and Reform Act of 1996 ([7 U.S.C.
+7272](http://uscode.house.gov/quicksearch/get.plx?title=7&section=7272)), and
+obligations under international trade agreements that have been approved by
+Congress.”.
+
+(5) CLARIFICATION OF TARIFF-RATE QUOTA ADJUSTMENTS.—Section 359k(b)(1) of the
+Agricultural Adjustment Act of 1938 ([7 U.S.C.
+1359kk(b)(1)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1359kk))
+is amended, in the matter preceding subparagraph (A), by striking “if there is
+an” and inserting “for the sole purpose of responding directly to an”
+
+(6) PERIOD OF EFFECTIVENESS.—Section 359l(a) of the Agricultural Adjustment
+Act of 1938 ([7 U.S.C.
+1359ll(a)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1359ll))
+is amended by striking “2023” and inserting “2031”.
+
+(m) Dairy policy updates.—
+
+(1) DAIRY MARGIN COVERAGE PRODUCTION HISTORY.—
+
+(A) DEFINITION.—Section 1401(8) of the Agricultural Act of 2014 ([7 U.S.C.
+9051(8)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9051)) is
+amended by striking “when the participating dairy operation first registers to
+participate in dairy margin coverage”.
+
+(B) PRODUCTION HISTORY OF PARTICIPATING DAIRY OPERATIONS.—Section 1405 of the
+Agricultural Act of 2014 ([7 U.S.C.
+9055](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9055)) is
+amended—
+
+(i) by amending subsection (a) to read as follows:
+
+“(a) Production history.—Except as provided in subsection (b), the production
+history of a dairy operation for dairy margin coverage is equal to the highest
+annual milk marketings of the participating dairy operation during any one of
+the 2021, 2022, or 2023 calendar years.”; and
+
+(ii) by amending subsection (b) to read as follows:
+
+“(b) Election by new dairy operations.—In the case of a participating dairy
+operation that has been in operation for less than a year, the participating
+dairy operation shall elect 1 of the following methods for the Secretary to
+determine the production history of the participating dairy operation:
+
+“(1) The volume of the actual milk marketings for the months the participating
+dairy operation has been in operation extrapolated to a yearly amount.
+
+“(2) An estimate of the actual milk marketings of the participating dairy
+operation based on the herd size of the participating dairy operation relative
+to the national rolling herd average data published by the Secretary.”.
+
+(2) DAIRY MARGIN COVERAGE PAYMENTS.—Section 1406(a)(1)(C) of the Agricultural
+Act of 2014 ([7 U.S.C.
+9056(a)(1)(C)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9056))
+is amended by striking “5,000,000” and inserting “6,000,000” each place it
+appears.
+
+(3) PREMIUMS FOR DAIRY MARGINS.—
+
+(A) TIER I.—Section 1407(b) of the Agricultural Act of 2014 ([7 U.S.C.
+9057(b)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9057)) is
+amended—
+
+(i) in the heading, by striking “5,000,000” and inserting “6,000,000”; and
+
+(ii) in paragraph (1), by striking “5,000,000” and inserting “6,000,000”.
+
+(B) TIER II.—Section 1407(c) of the Agricultural Act of 2014 ([7 U.S.C.
+9057(c)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9057)) is
+amended—
+
+(i) in the heading, by striking “5,000,000” and inserting “6,000,000”; and
+
+(ii) in paragraph (1), by striking “5,000,000” and inserting “6,000,000”.
+
+(C) PREMIUM DISCOUNTS.—Section 1407(g) of the Agricultural Act of 2014 ([7
+U.S.C.
+9057(g)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9057)) is
+amended—
+
+(i) in paragraph (1)—
+
+(I) by striking “2019 through 2023” and inserting “2026 through 2031”; and
+
+(II) by striking “January 2019” and inserting “January 2026”; and
+
+(ii) in paragraph (2), by striking “2023” each place it appears and inserting
+“2031”.
+
+(4) DURATION.—Section 1409 of the Agricultural Act of 2014 ([7 U.S.C.
+9059](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9059)) is
+amended by striking “2025” and inserting “2031”.
+
+(n) Suspension of permanent price support authority.—Section 1602 of the
+Agricultural Act of 2014 ([7 U.S.C.
+9092](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9092)) is
+amended by striking “2023” each place it appears and inserting “2031”.
+
+(o) Implementation.—Section 1614(c) of the Agricultural Act of 2014 ([7 U.S.C.
+9097(c)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9097)) is
+amended by adding at the end the following:
+
+“(5) FISCAL YEAR 2025 RECONCILIATION.— __The Secretary shall make available to
+the Farm Service Agency to carry out section 10101 of the Act titled ‘An Act
+to provide for reconciliation pursuant to title II of H. Con. Res. 14’, and
+the amendments made by that section, $50,000,000, to remain available until
+expended, of which—
+
+“(A) not less than $5,000,000 shall be used to carry out paragraphs (3) and
+(4) of subsection (b);
+
+“(B) $3,000,000 shall be used for activities described in paragraph (3)(A) of
+this subsection;
+
+“(C) $3,000,000 shall be used for activities described in paragraph (3)(B) of
+this subsection; and
+
+“(D) $10,000,000 shall be used to—
+
+“(i) carry out mandatory surveys of dairy production cost and product yield
+information to be reported by manufacturers required to report under section
+273 of the Agricultural Marketing Act of 1946 ([7 U.S.C.
+1637b](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1637b)),
+for all products processed in the same facility or facilities; and
+
+“(ii) publish the results of such surveys biennially.”.
+
+(p) Livestock safety net updates.—
+
+(1) IN GENERAL.—Section 1501(b) of the Agricultural Act of 2014 ([7 U.S.C.
+9081(b)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9081)) is
+amended—
+
+(A) by amending paragraph (2) to read as follows:
+
+“(2) PAYMENT RATES.—
+
+“(A) LOSSES DUE TO PREDATION.—Indemnity payments to an eligible producer on a
+farm under paragraph (1)(A) shall be made at a rate of 100 percent of the
+market value of the affected livestock on the applicable date, as determined
+by the Secretary.
+
+“(B) LOSSES DUE TO ADVERSE WEATHER OR DISEASE.—Indemnity payments to an
+eligible producer on a farm under subparagraph (B) or (C) of paragraph (1)
+shall be made at a rate of 75 percent of the market value of the affected
+livestock on the applicable date, as determined by the Secretary.
+
+“(C) DETERMINATION OF MARKET VALUE.—In determining the market value described
+in subparagraphs (A) and (B), the Secretary may consider the ability of
+eligible producers to document regional price premiums for affected livestock
+that exceed the national average market price for those livestock.
+
+“(D) APPLICABLE DATE DEFINED.—In this paragraph, the term ‘applicable date’
+means, with respect to livestock, as applicable—
+
+“(i) the day before the date of death of the livestock; or
+
+“(ii) the day before the date of the event that caused the harm to the
+livestock that resulted in a reduced sale price.”; and
+
+(B) by adding at the end the following:
+
+“(5) ADDITIONAL PAYMENT FOR UNBORN LIVESTOCK.—
+
+“(A) IN GENERAL.—In the case of unborn livestock death losses incurred on or
+after January 1, 2024, the Secretary shall make an additional payment to
+eligible producers on farms that have incurred such losses in excess of the
+normal mortality due to a condition specified in paragraph (1).
+
+“(B) PAYMENT RATE.—Additional payments under subparagraph (A) shall be made at
+a rate—
+
+“(i) determined by the Secretary; and
+
+“(ii) less than or equal to 85 percent of the payment rate established with
+respect to the lowest weight class of the livestock, as determined by the
+Secretary, acting through the Administrator of the Farm Service Agency.
+
+“(C) PAYMENT AMOUNT.—The amount of a payment to an eligible producer that has
+incurred unborn livestock death losses shall be equal to the payment rate
+determined under subparagraph (B) multiplied, in the case of livestock
+described in—
+
+“(i) subparagraph (A), (B), or (F) of subsection (a)(4), by 1;
+
+“(ii) subparagraph (D) of such subsection, by 2;
+
+“(iii) subparagraph (E) of such subsection, by 12; and
+
+“(iv) subparagraph (G) of such subsection, by the average number of birthed
+animals (for one gestation cycle) for the species of each such livestock, as
+determined by the Secretary.
+
+“(D) UNBORN LIVESTOCK DEATH LOSSES DEFINED.—In this paragraph, the term
+‘unborn livestock death losses’ means losses of any livestock described in
+subparagraph (A), (B), (D), (E), (F), or (G) of subsection (a)(4) that was
+gestating on the date of the death of the livestock.”.
+
+(2) LIVESTOCK FORAGE DISASTER PROGRAM.—Section 1501(c)(3)(D)(ii)(I) of the
+Agricultural Act of 2014 ([7 U.S.C.
+9081(c)(3)(D)(ii)(I)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9081))
+is amended—
+
+(A) by striking “1 monthly payment” and inserting “2 monthly payments”; and
+
+(B) by striking “county for at least 8 consecutive” and inserting the
+following: “county for not less than—
+
+“(aa) 4 consecutive weeks during the normal grazing period for the county, as
+determined by the Secretary, shall be eligible to receive assistance under
+this paragraph in an amount equal to 1 monthly payment using the monthly
+payment rate determined under subparagraph (B); or
+
+“(bb) any of the 7 of the previous 8 consecutive”.
+
+(3) EMERGENCY ASSISTANCE FOR LIVESTOCK, HONEY BEES, AND FARM-RAISED
+FISH.—Section 1501(d) of the Agricultural Act of 2014 ([7 U.S.C.
+9081(d)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9081)) is
+amended by adding at the end the following:
+
+“(5) ASSISTANCE FOR LOSSES DUE TO BIRD DEPREDATION.—
+
+“(A) PAYMENTS.—Eligible producers on a farm of farm-raised fish, including
+fish grown as food for human consumption, shall be eligible to receive
+payments under this subsection to aid in the reduction of losses due to
+piscivorous birds.
+
+“(B) PAYMENT RATE.—
+
+“(i) IN GENERAL.—The payment rate for payments under subparagraph (B) shall be
+determined by the Secretary, taking into account—
+
+“(I) costs associated with the deterrence of piscivorous birds;
+
+“(II) the value of lost fish and revenue due to bird depredation; and
+
+“(III) costs associated with disease loss from bird depredation.
+
+“(ii) MINIMUM RATE.—The payment rate for payments under subparagraph (B) shall
+be not less than $600 per acre of farm-raised fish.
+
+“(C) PAYMENT AMOUNT.—The amount of a payment under subparagraph (B) shall be
+the product obtained by multiplying—
+
+“(i) the applicable payment rate under subparagraph (C); and
+
+“(ii) 85 percent of the total number of acres of farm-raised fish farms that
+the eligible producer has in production for the calendar year.”.
+
+(4) TREE ASSISTANCE PROGRAM.—Section 1501(e) of the Agricultural Act of 2014
+([7 U.S.C.
+9081(e)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9081)) is
+amended—
+
+(A) in paragraph (2)(B), by striking “15 percent (adjusted for normal
+mortality)” and inserting “normal mortality”; and
+
+(B) in paragraph (3)—
+
+(i) in subparagraph (A)(i), by striking “15 percent mortality (adjusted for
+normal mortality)” and inserting “normal mortality”; and
+
+(ii) in subparagraph (B)—
+
+(I) by striking “50” and inserting “65”; and
+
+(II) by striking “15 percent damage or mortality (adjusted for normal tree
+damage and mortality)” and inserting “normal tree damage or mortality”.
+
+(q) Emergency assistance for honeybees.—In determining honeybee colony losses
+eligible for assistance under section 1501(d) of the Agricultural Act of 2014
+([7 U.S.C.
+9081(d)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=9081)),
+the Secretary shall utilize a normal mortality rate of 15 percent.
+
+(r) Beginning farmer and rancher benefit.—
+
+(1) DEFINITIONS.—
+
+(A) IN GENERAL.—Section 502(b) of the Federal Crop Insurance Act ([7 U.S.C.
+1502(b)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1502)) is
+amended in paragraph (3), by striking “5” and inserting “10”.
+
+(B) CONFORMING AMENDMENT.—Section 522(c)(7) of the Federal Crop Insurance Act
+([7 U.S.C.
+1522(c)(7)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1522))
+is amended by striking subparagraph (F).
+
+(2) INCREASE IN ASSISTANCE.—Section 508(e) of the Federal Crop Insurance Act
+([7 U.S.C.
+1508(e)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1508)) is
+amended by adding at the end the following paragraph:
+
+“(9) ADDITIONAL SUPPORT.—
+
+“(A) IN GENERAL.—Notwithstanding any other provision of this subsection
+regarding payment of a portion of premiums, a beginning farmer or rancher
+shall receive premium assistance that is—
+
+“(i) the number of percentage points specified in subparagraph (B) greater
+than the premium assistance that would otherwise be available under paragraphs
+(2) (except for subparagraph (A) of that paragraph), (5), (6), and (7) for the
+applicable policy, plan of insurance, and coverage level selected by the
+beginning farmer or rancher; plus
+
+“(ii) any increase otherwise made available under this subsection.
+
+“(B) PERCENTAGE POINTS ADJUSTMENTS.—The percentage points referred to in
+subparagraph (A)(i) are the following:
+
+“(i) For each of the first and second reinsurance years that a beginning
+farmer or rancher participates as a beginning farmer or rancher in the
+applicable policy or plan of insurance, 5 percentage points.
+
+“(ii) For the third reinsurance year that a beginning farmer or rancher
+participates as a beginning farmer or rancher in the applicable policy or plan
+of insurance, 3 percentage points.
+
+“(iii) For the fourth reinsurance year that a beginning farmer or rancher
+participates as a beginning farmer or rancher in the applicable policy or plan
+of insurance, 1 percentage point.”.
+
+(s) Area-based crop insurance coverage and affordability.—
+
+(1) COVERAGE LEVEL.—Section 508(c)(4) of the Federal Crop Insurance Act ([7
+U.S.C.
+1508(c)(4)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1508))
+is amended—
+
+(A) by amending subparagraph (A)(ii) to read as follows:
+
+“(ii) may be purchased at any level not to exceed—
+
+“(I) in the case of the individual yield or revenue coverage, 85 percent;
+
+“(II) in the case of individual yield or revenue coverage aggregated across
+multiple commodities, 90 percent; and
+
+“(III) in the case of area yield or revenue coverage (as determined by the
+Corporation), 95 percent.”; and
+
+(B) in subparagraph (C)—
+
+(i) in clause (ii), by striking “14” and inserting “10”; and
+
+(ii) in clause (iii)(I), by striking “86” and inserting “90”.
+
+(2) PREMIUM COST SHARE.—Section 508(e)(2)(H)(i) of the Federal Crop Insurance
+Act ([7 U.S.C.
+1508(e)(2)(H)(i)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1508))
+is amended by striking “65” and inserting “80”.
+
+(t) Premium support.—Section 508(e)(2) of the Federal Crop Insurance Act ([7
+U.S.C.
+1508(e)(2)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1508))
+is amended—
+
+(1) in subparagraph (C)(i), by striking “64” and inserting “69”;
+
+(2) in subparagraph (D)(i), by striking “59” and inserting “64”;
+
+(3) in subparagraph (E)(i), by striking “55” and inserting “60”;
+
+(4) in subparagraph (F)(i), by striking “48” and inserting “51”; and
+
+(5) in subparagraph (G)(i), by striking “38” and inserting “41”.
+
+(u) Administrative and operating expense adjustments.—Section 508(k) of the
+Federal Crop Insurance Act ([7 U.S.C.
+1508(k)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1508)) is
+amended by adding at the end the following:
+
+“(10) ADDITIONAL EXPENSES.—
+
+“(A) IN GENERAL.—Beginning with the 2026 reinsurance year and for each
+reinsurance year thereafter, in addition to the terms and conditions of the
+Standard Reinsurance Agreement, to cover additional expenses for loss
+adjustment procedures, the Corporation shall pay an additional administrative
+and operating expense subsidy to approved insurance providers for eligible
+contracts.
+
+“(B) PAYMENT AMOUNT.—In the case of an eligible contract, the payment to an
+approved insurance provider required under subparagraph (A) shall be the
+amount equal to 6 percent of the net book premium.
+
+“(C) DEFINITIONS.—In this paragraph:
+
+“(i) ELIGIBLE STATE.—The term ‘eligible State’ means a State—
+
+“(I) identified in State Group 2 or State Group 3 (as defined in the Standard
+Reinsurance Agreement for reinsurance year 2026); and
+
+“(II) in which, with respect to an insurance year, the loss ratio for eligible
+contracts is greater than 120 percent of the total net book premium written by
+all approved insurance providers.
+
+“(ii) ELIGIBLE CONTRACTS.—The term ‘eligible contract’—
+
+“(I) means a crop insurance contract entered into by an approved insurance
+provider in an eligible State; and
+
+“(II) does not include a contract for—
+
+“(aa) catastrophic risk protection under subsection (b);
+
+“(bb) an area-based plan of insurance or similar plan of insurance, as
+determined by the Corporation; or
+
+“(cc) a policy under which an approved insurance provider does not incur loss
+adjustment expenses, as determined by the Corporation.
+
+“(11) SPECIALTY CROPS.—
+
+“(A) MINIMUM REIMBURSEMENT.—Beginning with the 2026 reinsurance year and for
+each reinsurance year thereafter, the rate of reimbursement to approved
+insurance providers and agents for administrative and operating expenses with
+respect to crop insurance contracts covering agricultural commodities
+described in section 101 of title I of the Specialty Crops Competitiveness Act
+of 2004 ([7 U.S.C.
+1621](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1621) note)
+shall be equal to or greater than the percent that is the greater of the
+following:
+
+“(i) 17 percent of the premium used to define loss ratio.
+
+“(ii) The percent of the premium used to define loss ratio that is otherwise
+applicable for the reinsurance year under the terms of the Standard
+Reinsurance Agreement in effect for the reinsurance year.
+
+“(B) OTHER CONTRACTS.—In carrying out subparagraph (A), the Corporation shall
+not reduce, with respect to any reinsurance year, the amount or the rate of
+reimbursement to approved insurance providers and agents under the Standard
+Reinsurance Agreement described in clause (ii) of such subparagraph for
+administrative and operating expenses with respect to contracts covering
+agricultural commodities that are not subject to such subparagraph.
+
+“(C) ADMINISTRATION.—The requirements of this paragraph and the adjustments
+made pursuant to this paragraph shall not be considered a renegotiation under
+paragraph (8)(A).
+
+“(12) A&O INFLATION ADJUSTMENT.—
+
+“(A) IN GENERAL.—Subject to subparagraph (B), for the 2026 reinsurance year,
+and each reinsurance year thereafter, the Corporation shall increase the total
+administrative and operating expense reimbursements otherwise required under
+the Standard Reinsurance Agreement in effect for the reinsurance year in order
+to account for inflation, in a manner consistent with the increases provided
+with respect to the 2011 through 2015 reinsurance years under the enclosure
+included in Risk Management Agency Bulletin numbered MGR–10–007 and dated June
+30, 2010.
+
+“(B) SPECIAL RULE FOR 2026 REINSURANCE YEAR.—The increase under subparagraph
+(A) for the 2026 reinsurance year shall not exceed the percentage change for
+the preceding reinsurance year included in the Consumer Price Index for All
+Urban Consumers published by the Bureau of Labor Statistics of the Department
+of Labor.
+
+“(C) ADMINISTRATION.—An increase under subparagraph (A)—
+
+“(i) shall apply with respect to all contracts covering agricultural
+commodities that were subject to an increase during the period of the 2011
+through 2015 reinsurance years under the enclosure referred to in that
+subparagraph; and
+
+“(ii) shall not be considered to be a renegotiation of the Standard
+Reinsurance Agreement for purposes of paragraph (8)(A).”.
+
+(v) Program compliance and integrity.—Section 515(l)(2) of the Federal Crop
+Insurance Act ([7 U.S.C.
+1515(l)(2)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1515))
+is amended by striking “than” and all that follows through the period at the
+end and inserting the following: “than—
+
+“(A) $4,000,000 for each of fiscal years 2009 through 2025; and
+
+“(B) $6,000,000 for fiscal year 2026 and each subsequent fiscal year.”.
+
+(w) Reviews, compliance, and integrity.—Section 516(b)(2)(C)(i) of the Federal
+Crop Insurance Act ([7 U.S.C.
+1516(b)(2)(C)(i)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1516))
+is amended by striking “each fiscal year” and inserting “each of fiscal years
+2014 through 2025 and $10,000,000 for fiscal year 2026 and each fiscal year
+thereafter”.
+
+(x) Poultry insurance pilot program.—Section 523 of the Federal Crop Insurance
+Act ([7 U.S.C.
+1523](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1523)) is
+amended by adding at the end the following:
+
+“(j) Poultry insurance pilot program.—
+
+“(1) IN GENERAL.—Notwithstanding subsection (a)(2), the Corporation shall
+establish a pilot program under which contract poultry growers, including
+growers of broilers and laying hens, may elect to receive index-based
+insurance from extreme weather-related risk resulting in increased utility
+costs (including costs of natural gas, propane, electricity, water, and other
+appropriate costs, as determined by the Corporation) associated with poultry
+production.
+
+“(2) STAKEHOLDER ENGAGEMENT.—The Corporation shall engage with poultry
+industry stakeholders in establishing the pilot program under paragraph (1).
+
+“(3) LOCATION.—The pilot program established under paragraph (1) shall be
+conducted in a sufficient number of counties to provide a comprehensive
+evaluation of the feasibility, effectiveness, and demand among producers in
+the top poultry producing States, including Alabama, Arkansas, and
+Mississippi, as determined by the Corporation.
+
+“(4) APPROVAL OF POLICY OR PLAN.—Notwithstanding section 508(l), the Board
+shall approve a policy or plan of insurance based on the pilot program under
+paragraph (1)—
+
+“(A) in accordance with section 508(h); and
+
+“(B) not later than 24 months after the date of enactment of this
+subsection.”.
+
+SEC. 10102.  Conservation.
+
+(a) Grassroots source water protection program.—Section 1240O(b) of the Food
+Security Act of 1985 ([16 U.S.C.
+3839bb–2(b)](http://uscode.house.gov/quicksearch/get.plx?title=16&section=3839bb-2))
+is amended—
+
+(1) in paragraph (1), by striking “2023” and inserting “2031”; and
+
+(2) in paragraph (3)—
+
+(A) in subparagraph (A), by striking the “and” at the end;
+
+(B) in subparagraph (B), by striking the period at the end and inserting “;
+and”; and
+
+(C) by adding at the end the following:
+
+“(C) $1,000,000 beginning in fiscal year 2026, to remain available until
+expended.”.
+
+(b) Voluntary public access and habitat incentive program.—Section 1240R(f)(1)
+of the Food Security Act of 1985 ([16 U.S.C.
+3839bb–5(f)(1)](http://uscode.house.gov/quicksearch/get.plx?title=16&section=3839bb-5))
+is amended—
+
+(1) by striking the “and” after “2023,”; and
+
+(2) by inserting “, and $10,000,000 for each of fiscal years 2025 through
+2031” before the period at the end.
+
+(c) Feral swine eradication and control pilot program.—Section 2408(g)(1) of
+the Agriculture Improvement Act of 2018 ([7 U.S.C.
+8351](http://uscode.house.gov/quicksearch/get.plx?title=7&section=8351) note;
+[Public Law
+115–334](https://www.gpo.gov/fdsys/pkg/PLAW-115publ334/pdf/PLAW-115publ334.pdf))
+is amended—
+
+(1) by striking “and” and inserting a comma; and
+
+(2) by inserting “, and $15,000,000 for each of fiscal years 2025 through
+2031” before the period at the end.
+
+(d) Funding.—
+
+(1) IN GENERAL.—Section 1241(a) of the Food Security Act of 1985 ([16 U.S.C.
+3841(a)](http://uscode.house.gov/quicksearch/get.plx?title=16&section=3841))
+is amended—
+
+(A) in paragraph (2), by striking subparagraphs (A) through (F) and inserting
+the following:
+
+“(A) $625,000,000 for fiscal year 2026;
+
+“(B) $650,000,000 for fiscal year 2027;
+
+“(C) $675,000,000 for fiscal year 2028;
+
+“(D) $700,000,000 for fiscal year 2029;
+
+“(E) $700,000,000 for fiscal year 2030; and
+
+“(F) $700,000,000 for fiscal year 2031.”; and
+
+(B) in paragraph (3)—
+
+(i) in subparagraph (A), by striking clauses (i) through (v) and inserting the
+following:
+
+“(i) $2,655,000,000 for fiscal year 2026;
+
+“(ii) $2,855,000,000 for fiscal year 2027;
+
+“(iii) $3,255,000,000 for fiscal year 2028;
+
+“(iv) $3,255,000,000 for fiscal year 2029;
+
+“(v) $3,255,000,000 for fiscal year 2030; and
+
+“(vi) $3,255,000,000 for fiscal year 2031; and”; and
+
+(ii) in subparagraph (B), by striking clauses (i) through (v) and inserting
+the following:
+
+“(i) $1,300,000,000 for fiscal year 2026;
+
+“(ii) $1,325,000,000 for fiscal year 2027;
+
+“(iii) $1,350,000,000 for fiscal year 2028;
+
+“(iv) $1,375,000,000 for fiscal year 2029;
+
+“(v) $1,375,000,000 for fiscal year 2030; and
+
+“(vi) $1,375,000,000 for fiscal year 2031.”.
+
+(2) REGIONAL CONSERVATION PARTNERSHIP PROGRAM.—Section 1271D of the Food
+Security Act of 1985 ([16 U.S.C.
+3871d](http://uscode.house.gov/quicksearch/get.plx?title=16&section=3871d)) is
+amended by striking subsection (a) and inserting the following:
+
+“(a) Availability of funding.—Of the funds of the Commodity Credit
+Corporation, the Secretary shall use to carry out the program, to the maximum
+extent practicable—
+
+“(1) $425,000,000 for fiscal year 2026;
+
+“(2) $450,000,000 for fiscal year 2027;
+
+“(3) $450,000,000 for fiscal year 2028;
+
+“(4) $450,000,000 for fiscal year 2029;
+
+“(5) $450,000,000 for fiscal year 2030; and
+
+“(6) $450,000,000 for fiscal year 2031.”.
+
+(3) WATERSHED PROTECTION AND FLOOD PREVENTION.—Section 15 of the Watershed
+Protection and Flood Prevention Act ([16 U.S.C.
+1012a](http://uscode.house.gov/quicksearch/get.plx?title=16&section=1012a)) is
+amended—
+
+(A) by striking “$50,000,000 for fiscal year 2019” and inserting “$150,000,000
+for fiscal year 2026”; and
+
+(B) by inserting “, to remain available until expended” before the period at
+the end.
+
+(4) RESCISSION.—The unobligated balances of amounts appropriated by section
+21001(a) of [Public Law
+117–169](https://www.gpo.gov/fdsys/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf)
+(136 Stat. 2015) are rescinded.
+
+SEC. 10103. Supplemental Agricultural Trade Promotion program.
+
+(a) In general.—The Secretary shall conduct a program to encourage the
+accessibility, development, maintenance, and expansion of commercial export
+markets for United States agricultural commodities.
+
+(b) Funding.—Of the funds of the Commodity Credit Corporation, the Secretary
+shall make available to carry out this section $285,000,000 for fiscal year
+2027 and each fiscal year thereafter.
+
+SEC. 10104.  Research.
+
+(a) Urban, indoor, and other emerging agricultural production research,
+education, and extension initiative.—Section 1672E(d)(1)(B) of the Food,
+Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C.
+5925g(d)(1)(B)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=5925g))
+is amended by striking “fiscal year 2024, to remain available until expended”
+and inserting “each of fiscal years 2024 through 2031”.
+
+(b) Foundation for food and agriculture research.—Section 7601(g)(1)(A) of the
+Agricultural Act of 2014 ([7 U.S.C.
+5939(g)(1)(A)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=5939))
+is amended adding at the end the following:
+
+“(iv) FURTHER FUNDING.—Of the funds of the Commodity Credit Corporation, the
+Secretary shall transfer to the Foundation to carry out this section, to
+remain available until expended, not later than 30 days after the date of
+enactment of this clause, $37,000,000.”.
+
+(c) Scholarships for students at 1890 Institutions.—Section 1446 of the
+National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7
+U.S.C.
+3222a](http://uscode.house.gov/quicksearch/get.plx?title=7&section=3222a)) is
+amended—
+
+(1) in subsection (a)—
+
+(A) by striking paragraph (3); and
+
+(B) by redesignating paragraph (4) as paragraph (3); and
+
+(2) in subsection (b), by amending paragraph (1) to read as follows:
+
+“(1) MANDATORY FUNDING.—Of the funds of the Commodity Credit Corporation, the
+Secretary shall make available to carry out this section $60,000,000 for
+fiscal year 2026, to remain available until expended.”.
+
+(d) Assistive technology program for farmers with disabilities.—Section
+1680(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7
+U.S.C.
+5933(c)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=5933)) is
+amended—
+
+(1) in the subsection heading, by striking “Authorization of Appropriations”
+and inserting “Funding”;
+
+(2) by redesignating paragraphs (1) and (2) as paragraphs (2) and (3),
+respectively; and
+
+(3) by inserting before paragraph (2), as so redesignated, the following:
+
+“(1) MANDATORY FUNDING.—Of the funds of the Commodity Credit Corporation, the
+Secretary shall use to carry out this section $8,000,000, to remain available
+until expended.”; and
+
+(4) in paragraph (2), as so redesignated—
+
+(A) in the paragraph heading, by striking “In general” and inserting
+“Authorization of appropriations”; and
+
+(B) by striking “Subject to paragraph (2)” and inserting “Subject to paragraph
+(3)”.
+
+(e) Specialty crop research initiative.—Section 412(k)(1)(B) of the
+Agricultural Research, Extension, and Education Reform Act of 1998 ([7 U.S.C.
+7632(k)(1)(B)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=7632))
+is amended by striking “section $80,000,000 for fiscal year 2014” and
+inserting the following: “section—
+
+“(i) $80,000,000 for each of fiscal years 2014 through 2025; and
+
+“(ii) $175,000,000 for fiscal year 2026”.
+
+(f) Research Facilities Act.—Section 6 of the Research Facilities Act ([7
+U.S.C.
+390d](http://uscode.house.gov/quicksearch/get.plx?title=7&section=390d)) is
+amended—
+
+(1) in the section heading by striking “Authorization of appropriations” and
+inserting “Funding”; and
+
+(2) in subsection (a)—
+
+(A) by striking “(a) In general.—Subject to” and inserting the following:
+
+“(a) In general.—
+
+“(1) AUTHORIZATION OF APPROPRIATIONS.—Subject to”; and
+
+(B) by adding at the end the following:
+
+“(2) MANDATORY FUNDING.—Of the funds of the Commodity Credit Corporation, the
+Secretary shall make available to carry out the competitive grant program
+under section 4, $125,000,000 for each fiscal year beginning with fiscal year
+2026.”.
+
+SEC. 10105. Secure rural schools; forestry.
+
+(a) Extension of certain provisions of Secure Rural Schools and Community
+Self-Determination Act of 2000.—
+
+(1)  SECURE PAYMENTS FOR STATES AND COUNTIES CONTAINING FEDERAL LAND.—
+
+(A) SECURE PAYMENTS.—Section 101 of the Secure Rural Schools and Community
+Self-Determination Act of 2000 ([16 U.S.C.
+7111](http://uscode.house.gov/quicksearch/get.plx?title=16&section=7111)) is
+amended—
+
+(i) in subsections (a) and (b), by striking “2023” each place it appears and
+inserting “2026”; and
+
+(ii) by adding at the end the following:
+
+“(e) Special rule for fiscal year 2024 payments.—
+
+“(1) STATE PAYMENT.—If an eligible county in a State that will receive a share
+of the State payment for fiscal year 2024 has already received, or will
+receive, a share of the 25-percent payment for fiscal year 2024 distributed to
+the State before the date of enactment of this subsection—
+
+“(A) if the amount of the State payment exceeds the amount of the 25-percent
+payment, the amount of the State payment shall be reduced by the amount of the
+share of the eligible county of the 25-percent payment; or
+
+“(B) if the amount of the State payment is less than or equal to the amount of
+the 25-percent payment, the eligible county—
+
+“(i) may retain the amount of the share of the eligible county of the
+25-percent payment; and
+
+“(ii) if so retained, such amount shall be treated as if it were received by
+the county as a State payment for purposes of this Act.
+
+“(2) COUNTY PAYMENT.—If an eligible county that will receive a county payment
+for fiscal year 2024 has already received a 50-percent payment for fiscal year
+2024—
+
+“(A) if the amount of the county payment exceeds the amount of the 50-percent
+payment, the amount of the county payment shall be reduced by the amount of
+the 50-percent payment; or
+
+“(B) if the amount of the county payment is less than or equal to the amount
+of the 50-percent payment, the eligible county—
+
+“(i) may retain the amount of the 50-percent payment; and
+
+“(ii) if so retained, such amount shall be treated as if it were received as a
+county payment for purposes of this Act.
+
+“(3) TIMELY PAYMENT.—Not later than 90 days after the date of enactment of
+this subsection, the Secretary of the Treasury shall make all payments under
+this title for fiscal year 2024.”.
+
+(B) DISTRIBUTION OF PAYMENTS TO ELIGIBLE COUNTIES.—Section 103(d)(2) of the
+Secure Rural Schools and Community Self-Determination Act of 2000 ([16 U.S.C.
+7113(d)(2)](http://uscode.house.gov/quicksearch/get.plx?title=16&section=7113))
+is amended by striking “2023” and inserting “2026”.
+
+(2) PAYMENTS TO STATES AND COUNTIES.—Section 102 of the Secure Rural Schools
+and Community Self-Determination Act of 2000 ([16 U.S.C.
+7112](http://uscode.house.gov/quicksearch/get.plx?title=16&section=7112)) is
+amended—
+
+(A) in subsection (b)—
+
+(i) in paragraph (1), by adding at the end the following:
+
+“(E) PAYMENTS FOR EACH OF FISCAL YEARS 2024 AND 2025.—The election otherwise
+required by subparagraph (A) shall not apply for each of fiscal years 2024 and
+2025.”; and
+
+(ii) in paragraph (2), by adding at the end the following:
+
+“(C) FISCAL YEARS 2024 AND 2025.—The election described in paragraph (1)(A)
+applicable to a county in fiscal year 2023 shall be effective for each of
+fiscal years 2024 and 2025.”; and
+
+(B) in subsection (d)—
+
+(i) in paragraph (1), by adding at the end the following:
+
+“(G) PAYMENTS FOR EACH OF FISCAL YEARS 2024 AND 2025.—The election made by an
+eligible county under subparagraph (B), (C), or (D) for fiscal year 2023, or
+deemed to be made by the county under paragraph (3)(B) for that fiscal year,
+shall be effective for each of fiscal years 2024 and 2025.”; and
+
+(ii) in paragraph (3), by adding at the end the following:
+
+“(E) PAYMENTS FOR EACH OF FISCAL YEARS 2024 AND 2025.—This paragraph does not
+apply for each of fiscal years 2024 and 2025.”.
+
+(3) EXTENSION OF AUTHORITY TO CONDUCT SPECIAL PROJECTS ON FEDERAL LAND.—
+
+(A) COMMITTEE ON COMPOSITION WAIVER AUTHORITY.—Section 205(d)(6)(C) of the
+Secure Rural Schools and Community Self-Determination Act of 2000 ([16 U.S.C.
+7125(d)(6)(C)](http://uscode.house.gov/quicksearch/get.plx?title=16&section=7125))
+is amended by striking “2023” and inserting “2026”.
+
+(B) EXTENSION OF AUTHORITY.—Section 208 of the Secure Rural Schools and
+Community Self-Determination Act of 2000 ([16 U.S.C.
+7128](http://uscode.house.gov/quicksearch/get.plx?title=16&section=7128)) is
+amended—
+
+(i) in subsection (a), by striking “2025” and inserting “2028”; and
+
+(ii) in subsection (b), by striking “2026” and inserting “2029”.
+
+(4) EXTENSION OF AUTHORITY TO EXPEND COUNTY FUNDS.—Section 305 of the Secure
+Rural Schools and Community Self-Determination Act of 2000 ([16 U.S.C.
+7144](http://uscode.house.gov/quicksearch/get.plx?title=16&section=7144)) is
+amended—
+
+(A) in subsection (a), by striking “2025” and inserting “2028”; and
+
+(B) in subsection (b), by striking “2026” and inserting “2029”.
+
+(b) Resource advisory committee pilot program extension.—Section 205(g) of the
+Secure Rural Schools and Community Self-Determination Act of 2000 ([16 U.S.C.
+7125(g)](http://uscode.house.gov/quicksearch/get.plx?title=16&section=7125))
+is amended—
+
+(1) in paragraph (5), by striking “2023” and inserting “2026”; and
+
+(2) by striking paragraph (6).
+
+(c) Technical corrections.—
+
+(1) RESOURCE ADVISORY COMMITTEES.—Section 205 of the Secure Rural Schools and
+Community Self-Determination Act of 2000 ([16 U.S.C.
+7125](http://uscode.house.gov/quicksearch/get.plx?title=16&section=7125)) is
+amended—
+
+(A) in subsection (c)—
+
+(i) in paragraph (1), by striking “concerned,” and inserting “concerned”; and
+
+(ii) in paragraph (3), by striking “the date of the enactment of this Act” and
+inserting “October 3, 2008”; and
+
+(B) in subsection (d)(4), by striking “to extent” and inserting “to the
+extent”.
+
+(2) USE OF PROJECT FUNDS.—Section 206(b)(2) of the Secure Rural Schools and
+Community Self-Determination Act of 2000 ([16 U.S.C.
+7126(b)(2)](http://uscode.house.gov/quicksearch/get.plx?title=16&section=7126))
+is amended by striking “concerned,” and inserting “concerned”.
+
+(d) Rescissions.—
+
+(1) COMPETITIVE GRANTS FOR NON-FEDERAL FOREST LANDOWNERS.—All of the
+unobligated balances of the funds made available under each of paragraphs (1)
+through (4) of section 23002(a) of subtitle D of [Public Law
+117–169](https://www.gpo.gov/fdsys/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf)
+are rescinded.
+
+(2) STATE AND PRIVATE FORESTRY CONSERVATION PROGRAMS.—Of the unobligated
+balances available under section 23003(a)(1) of subtitle D of [Public Law
+117–169](https://www.gpo.gov/fdsys/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf),
+$100,719,676 are rescinded.
+
+SEC. 10106.  Energy.
+
+Section 9005(g)(1)(F) of the Farm Security and Rural Investment Act of 2002
+([7 U.S.C.
+8105(g)(1)(F)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=8105))
+is amended by striking “2024” and inserting “2031”.
+
+SEC. 10107.  Horticulture.
+
+(a) Plant pest and disease management and disaster prevention.—Section 420(f)
+of the Plant Protection Act ([7 U.S.C.
+7721](http://uscode.house.gov/quicksearch/get.plx?title=7&section=7721)) is
+amended—
+
+(1) in paragraph (5), by striking “and” at the end;
+
+(2) by redesignating paragraph (6) as paragraph (7);
+
+(3) by inserting after paragraph (5) the following:
+
+“(6) $75,000,000 for each of fiscal years 2018 through 2025; and”; and
+
+(4) in paragraph (7) (as so redesignated), by striking “$75,000,000 for fiscal
+year 2018” and inserting “$90,000,000 for fiscal year 2026”.
+
+(b) Specialty crop block grants.—Section 101(l)(1) of the Specialty Crops
+Competitiveness Act of 2004 ([7 U.S.C.
+1621](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1621) note;
+[Public Law
+108–465](https://www.gpo.gov/fdsys/pkg/PLAW-108publ465/pdf/PLAW-108publ465.pdf))
+is amended—
+
+(1) in subparagraph (D), by striking “and” at the end;
+
+(2) by redesignating subparagraph (E) as subparagraph (F);
+
+(3) by inserting after subparagraph (D) the following:
+
+“(E) $85,000,000 for each of fiscal years 2018 through 2025 __; and”; and
+
+(4) in subparagraph (F) (as so redesignated), by striking “$85,000,000 for
+fiscal year 2018” and inserting “$100,000,000 for fiscal year 2026”.
+
+(c) Organic production and market data initiative.—Section 7407(d)(1) of the
+Farm Security and Rural Investment Act of 2002 ([7 U.S.C.
+5925c(d)(1)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=5925c))
+is amended—
+
+(1) in subparagraph (B), by striking “and” at the end;
+
+(2) in subparagraph (C), by striking the period at the end and inserting “;
+and”; and
+
+(3) by adding at the end the following:
+
+“(D) $10,000,000 for the period of fiscal years 2026 through 2031.”.
+
+(d) Modernization and improvement of international trade technology systems
+and data collection funding.—Section 2123(c)(4) of the Organic Foods
+Production Act of 1990 ([7 U.S.C.
+6522(c)(4)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=6522))
+is amended, in the matter preceding subparagraph (A), by striking “and
+$1,000,000 for fiscal year 2024” and inserting “, $1,000,000 for fiscal years
+2024 and 2025, and $5,000,000 for fiscal year 2026”.
+
+(e) National organic certification cost-share program.—Section 10606(d)(1)(C)
+of the Farm Security and Rural Investment Act of 2002 ([7 U.S.C.
+6523(d)(1)(C)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=6523))
+is amended by striking “for each of fiscal years 2022 through 2024” and
+inserting “for each of fiscal years 2022 through 2031”.
+
+(f) Multiple crop and pesticide use survey.—Section 10109(c)(1) of the
+Agriculture Improvement Act of 2018 ([Public Law
+115–334](https://www.gpo.gov/fdsys/pkg/PLAW-115publ334/pdf/PLAW-115publ334.pdf);
+132 Stat. 4906) is amended to read as follows:
+
+“(1) MANDATORY FUNDING.—Of the funds of the Commodity Credit Corporation, the
+Secretary shall use to carry out this section—
+
+“(A) $500,000 for fiscal year 2019, to remain available until expended;
+
+“(B) $100,000 for fiscal year 2024, to remain available until expended; and
+
+“(C) $5,000,000 for fiscal year 2026, to remain available until expended.”.
+
+SEC. 10108.  Miscellaneous.
+
+(a) Animal Disease Prevention and Management.—Section 10409A(d)(1) of the
+Animal Health Protection Act ([7 U.S.C.
+8308a(d)(1)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=8308a))
+is amended to read as follows:
+
+“(1) MANDATORY FUNDING.—
+
+“(A) FISCAL YEARS 2023 THROUGH 2025.—Of the funds of the Commodity Credit
+Corporation, the Secretary shall make available to carry out this section
+$30,000,000 for each of fiscal years 2023 through 2025, of which not less than
+$18,000,000 shall be made available for each of those fiscal years to carry
+out subsection (b).
+
+“(B) FISCAL YEARS 2026 THROUGH 2030.—Of the funds of the Commodity Credit
+Corporation, the Secretary shall make available to carry out this section
+$233,000,000 for each of fiscal years 2026 through 2030, of which—
+
+“(i) not less than $10,000,000 shall be made available for each such fiscal
+year to carry out subsection (a);
+
+“(ii) not less than $70,000,000 shall be made available for each such fiscal
+year to carry out subsection (b); and
+
+“(iii) not less than $153,000,000 shall be made available for each such fiscal
+year to carry out subsection (c).
+
+“(C) SUBSEQUENT FISCAL YEARS.—Of the funds of the Commodity Credit
+Corporation, the Secretary shall make available to carry out this section
+$75,000,000 for fiscal year 2031 and each fiscal year thereafter, of which not
+less than $45,000,000 shall be made available for each of those fiscal years
+to carry out subsection (b).”.
+
+(b) Sheep production and marketing grant program.—Section 209(c) of the
+Agricultural Marketing Act of 1946 ([7 U.S.C.
+1627a(c)](http://uscode.house.gov/quicksearch/get.plx?title=7&section=1627a))
+is amended—
+
+(1) by striking “$2,000,000 for fiscal year 2019, and”; and
+
+(2) by inserting “and $3,000,000 for fiscal year 2026” after “fiscal year
+2024”.
+
+(c) Miscellaneous trust funds.—
+
+(1) PIMA AGRICULTURE COTTON TRUST FUND.—Section 12314 of the Agricultural Act
+of 2014 ([7 U.S.C.
+2101](http://uscode.house.gov/quicksearch/get.plx?title=7&section=2101) note;
+[Public Law
+113–79](https://www.gpo.gov/fdsys/pkg/PLAW-113publ79/pdf/PLAW-113publ79.pdf))
+is amended—
+
+(A) in subsection (b), in the matter preceding paragraph (1), by striking
+“2024” and inserting “2031”; and
+
+(B) in subsection (h), by striking “2024” and inserting “2031”.
+
+(2) AGRICULTURE WOOL APPAREL MANUFACTURERS TRUST FUND.—Section 12315 of the
+Agricultural Act of 2014 ([7 U.S.C.
+7101](http://uscode.house.gov/quicksearch/get.plx?title=7&section=7101) note;
+[Public Law
+113–79](https://www.gpo.gov/fdsys/pkg/PLAW-113publ79/pdf/PLAW-113publ79.pdf))
+is amended by striking “2024” each place it appears and inserting “2031”.
+
+(3) WOOL RESEARCH AND PROMOTION.—Section 12316(a) of the Agricultural Act of
+2014 ([7 U.S.C.
+7101](http://uscode.house.gov/quicksearch/get.plx?title=7&section=7101) note;
+[Public Law
+113–79](https://www.gpo.gov/fdsys/pkg/PLAW-113publ79/pdf/PLAW-113publ79.pdf))
+is amended by striking “2024” and inserting “2031”.
+
+(4) EMERGENCY CITRUS DISEASE RESEARCH AND DEVELOPMENT TRUST FUND.—Section
+12605(d) of the Agriculture Improvement Act of 2018 ([7 U.S.C.
+7632](http://uscode.house.gov/quicksearch/get.plx?title=7&section=7632) note;
+[Public Law
+115–334](https://www.gpo.gov/fdsys/pkg/PLAW-115publ334/pdf/PLAW-115publ334.pdf))
+is amended by striking “2024” and inserting “2031”.

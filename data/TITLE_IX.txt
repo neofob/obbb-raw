@@ -1,0 +1,314 @@
+TITLE IX—Committee on Oversight and Government Reform
+
+SEC. 90001.  Elimination of the FERS annuity supplement for certain employees.
+
+(a) In general.—Section 8421(a) of title 5, United States Code, is amended—
+
+(1) in paragraph (1), by inserting “separated from service under section 8425
+or entitled to an annuity under subsection (d) or (e) of section 8412 of this
+title” after “individual”; and
+
+(2) in paragraph (2), by inserting “separated from service under section 8425
+or entitled to an annuity under subsection (d) or (e) of section 8412 of this
+title” after “an individual”.
+
+(b) Applicability.—The amendments made by this section shall begin to apply on
+January 1, 2028, and shall not apply with respect to any individual entitled
+to an annuity supplement under section 8421 of title 5, United States Code,
+prior to such date.
+
+SEC. 90002. Election for at-will employment and lower FERS contributions for
+new Federal civil service hires.
+
+(a) Election.—
+
+(1) IN GENERAL.—Subchapter I of [chapter
+33](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-
+title5-chapter33-front&num=0&edition=prelim) of title 5, United States Code,
+is amended by adding at the end the following:
+
+** “§ 3330g. Election for at-will employment and lower FERS contributions
+
+**
+
+“(a) Election.—
+
+“(1) IN GENERAL.—Not later than the last day of the probationary period (if
+any) for an individual initially appointed to a covered position after the
+date of the enactment of this section, such individual may make an irrevocable
+election to be employed on an at-will basis, subject to the requirements of
+this section.
+
+“(2) FAILURE TO MAKE ELECTION.—An individual who does not make the election
+under paragraph (1) shall be subject to the requirements of section
+8422(a)(3)(D).
+
+“(b) At-will employment.—Notwithstanding chapter 43, 71, or 75 of this title,
+any individual who makes an affirmative election under subsection (a)(1)
+shall—
+
+“(1) be considered an at-will employee; and
+
+“(2) may be subject to an adverse action up to and including removal, without
+notice or right to appeal, by the head of the agency at which the individual
+is employed for good cause, bad cause, or no cause at all.
+
+“(c) Application of other laws.—Notwithstanding any other requirement of this
+section, this section shall not be construed to reduce, extinguish, or
+otherwise effect any right or remedy available to any individual who elects to
+be an at-will employee under subsection (a)(1) under any of the following
+provisions of law:
+
+“(1) The protections relating to prohibited personnel practices (as that term
+is defined in section 2302).
+
+“(2) The Congressional Accountability Act of 1995, in the case of employees of
+the legislative branch who are subject to this section.
+
+“(d) Covered position.—In this section, the term ‘covered position’—
+
+“(1) means—
+
+“(A) any position in the competitive service;
+
+“(B) a career appointee position in the Senior Executive Service;
+
+“(C) a position in the excepted service; and
+
+“(2) does not include—
+
+“(A) any position excepted from the competitive service because of its
+confidential, policy-determining, policy-making, or policy-advocating
+character;
+
+“(B) any position excluded from the coverage of section 2302 (by operation of
+subsection (a)(2)(B) of such section) or chapter 75; or
+
+“(C) any position subject to mandatory separation under section 8335 or
+8425.”.
+
+(2) CLERICAL AMENDMENT.—The table of sections for such subchapter is amended
+by adding after the item relating to section 3330f the following:
+
+  
+“3330g. Election for at-will employment and lower FERS contributions.”.
+
+(b) Increase in FERS contributions.—Section 8422(a) of title 5, United States
+Code, is amended by adding at the end the following:
+
+“(D) The applicable percentage under this paragraph for civilian service by
+any individual who elects not to be employed on an at-will basis under section
+3330g shall be equal to the percentage required under subparagraph (C),
+increased by 5 percentage points.”.
+
+(c) Application.—This section and the amendments made by this section shall
+apply to individuals initially appointed to positions in the civil service
+subject to such section and amendments appointed on or after the date of the
+enactment of this Act.
+
+SEC. 90003.  Filing fee for Merit Systems Protection Board claims and appeals.
+
+(a) In general.—Section 7701 of title 5, United States Code, is amended—
+
+(1) in redesignating subsection (k) as subsection (l); and
+
+(2) by inserting after subsection (j) the following:
+
+“(k) (1) The Board shall establish and collect a filing fee to be paid by any
+employee, former employee, or applicant for employment filing a claim or
+appeal with the Board under this title, or under any other law, rule, or
+regulation, consistent with the requirements of this subsection.
+
+“(2) The filing fee under paragraph (1) shall—
+
+“(A) be in an amount equal to the filing fee for a civil action, suit, or
+proceeding under section 1914(a) of title 28;
+
+“(B) be paid on the date the individual submits a claim or appeal to the
+Board; and
+
+“(C) if the individual is the prevailing party under such claim or appeal, be
+returned to such individual.
+
+“(3) The filing fee under this subsection shall not be required for any—
+
+“(A) action brought by the Special Counsel under section 1214, 1215, or 1216;
+or
+
+“(B) any claim or appeal of a prohibited personnel practice described in
+section 2302(b)(8) or 2302(b)(9)(A)(i), (B), (C), or (D) or in section 1221.
+
+“(4) On the date that a claim or appeal with respect to which the individual
+is not the prevailing party has not been appealed and is no longer appealable
+because the time for taking an appeal has expired, or which has been appealed
+under section 7703 and the appeals process for which is completed, the fee
+collected under paragraph (1) shall, except as provided in paragraph (2)(C),
+be deposited into the miscellaneous receipts of the Treasury.”.
+
+(b) Application.—The fee required under the amendment made by subsection (a)
+shall apply to any claim or appeal filed with the Merit Systems Protection
+Board after the date that is 3 months after the date of the enactment of this
+section.
+
+SEC. 90004.  FEHB protection.
+
+(a) FEHB improvements.—
+
+(1) DEFINITIONS.—In this subsection:
+
+(A) DIRECTOR.—The term “Director” means the Director of the Office of
+Personnel Management.
+
+(B) EMPLOYING OFFICE.—The term “employing office” has the meaning given the
+term in section 890.101(a) of title 5, Code of Federal Regulations, or any
+successor regulation.
+
+(C) HEALTH BENEFITS PLAN; MEMBER OF FAMILY.—The terms “health benefits plan”
+and “member of family” have the meanings given those terms in section 8901 of
+title 5, United States Code.
+
+(D) INSPECTOR GENERAL.—The term “Inspector General” means the Inspector
+General of the Office of Personnel Management.
+
+(E) OPEN SEASON.—The term “open season” means an open season described in
+section 890.301(f) of title 5, Code of Federal Regulations, or any successor
+regulation.
+
+(F) PROGRAM.—The term “Program” means the health insurance programs carried
+out under [chapter 89](http://uscode.house.gov/view.xhtml?req=granuleid:USC-
+prelim-title5-chapter89-front&num=0&edition=prelim) of title 5, United States
+Code, including the program carried out under section 8903c of that title.
+
+(G) QUALIFYING LIFE EVENT.—The term “qualifying life event” has the meaning
+given the term in section 892.101 of title 5, Code of Federal Regulations, or
+any successor regulation.
+
+(2) VERIFICATION REQUIREMENTS.—
+
+(A) IN GENERAL.—Not later than 1 year after the date of the enactment of this
+Act, the Director shall issue regulations and implement a process to verify—
+
+(i) the veracity of any qualifying life event through which an enrollee in the
+Program seeks to add a member of family with respect to the enrollee to a
+health benefits plan under the Program; and
+
+(ii) that, when an enrollee in the Program seeks to add a member of family
+with respect to the enrollee to the health benefits plan of the enrollee under
+the Program, including during any open season, the individual so added is a
+qualifying member of family with respect to the enrollee.
+
+(B) RECORD RETENTION.—The process implemented under subparagraph (A) shall
+require the records used for a verification described in such subparagraph
+under such process with respect to an individual enrolled in a health benefits
+plan under the Program to be provided to the Office of Personnel Management
+and retained by the Office of Personnel Management until the expiration of a
+six-year period beginning after the date of such verification in which such
+individual is not enrolled in a health benefits plan under the Program.
+
+(3) FRAUD RISK ASSESSMENT.—In any fraud risk assessment conducted with respect
+to the Program on or after the date of the enactment of this Act, the Director
+shall include an assessment of individuals who are enrolled in, or covered
+under, a health benefits plan under the Program even though those individuals
+are not eligible to be so enrolled or covered.
+
+(4) FAMILY MEMBER ELIGIBILITY VERIFICATION AUDIT.—
+
+(A) IN GENERAL.—During the 5-year period beginning 1 year after the date of
+the enactment of this Act, the Director shall conduct a comprehensive audit
+regarding members of family who are covered under an enrollment in a health
+benefits plan under the Program.
+
+(B) CONTENTS.—In conducting an audit required by subparagraph (A), the
+Director shall review marriage certificates, birth certificates, and other
+appropriate documents that are necessary to determine eligibility to enroll in
+a health benefits plan under the Program.
+
+(C) RECORD RETENTION.—All records pertaining to the eligibility of an
+individual to be enrolled in, or covered under, a health benefits plan under
+the Program obtained by the Director in the audit required by subparagraph (A)
+shall be retained by the Office of Personnel Management until the expiration
+of a six-year period beginning after the date of such audit in which such
+individual is not enrolled in, or covered under, a health benefits plan under
+the Program.
+
+(D) REFERRAL TO INSPECTOR GENERAL.—The Director shall refer any instances of
+individuals enrolled in, or covered under, a health benefits plan under the
+Program who are not eligible to be so enrolled or covered that are identified
+in the audit required by subparagraph (A) to the Inspector General.
+
+(5) DISENROLLMENT OR REMOVAL.—
+
+(A) IN GENERAL.—Not later than 6 months after the date of the enactment of
+this Act, the Director shall develop a process by which any individual
+enrolled in, or covered under, a health benefits plan under the Program who is
+not eligible to be so enrolled or covered shall be disenrolled or removed from
+enrollment in a health benefits plan under the Program.
+
+(B) NOTIFY INSPECTOR GENERAL.—The Director shall notify the Inspector General
+of each individual disenrolled or removed from enrollment in a health benefits
+plan under the Program under the process developed under subparagraph (A).
+
+(b) Earned benefits and healthcare administrative services associated
+oversight and audit funding.—
+
+(1) IN GENERAL.—Section 8909(a)(2) of title 5, United States Code, is amended
+by striking “Congress.” and inserting “Congress, except that the amounts
+authorized under subsection (b)(2) for the Office shall not be subject to the
+limitations that may be specified annually by Congress.”.
+
+(2) OVERSIGHT.—Section 8909(b) of title 5, United States Code, is amended—
+
+(A) by redesignating paragraph (2) as paragraph (5); and
+
+(B) by inserting after paragraph (1) the following:
+
+“(2) In addition to the funds provided under paragraph (1), amounts of all
+contributions shall be available for the Office to develop, maintain, and
+conduct ongoing eligibility verification and oversight over the enrollment and
+eligibility systems with respect to benefits under this chapter, including the
+Postal Service Health Benefits Program under section 8903c. Amounts for the
+Office under this paragraph shall not be available in excess of the following
+amounts in the following fiscal years:
+
+“(A) In fiscal year 2026, $36,792,000.
+
+“(B) In fiscal year 2027, $44,733,161.
+
+“(C) In fiscal year 2028, $50,930,778.
+
+“(D) In fiscal year 2029, $54,198,238.
+
+“(E) In fiscal year 2030, $54,855,425.
+
+“(F) In fiscal year 2031, $56,062,244.
+
+“(G) In fiscal year 2032, $57,295,613.
+
+“(H) In fiscal year 2033, $58,556,117.
+
+“(I) In fiscal year 2034, $59,844,351.
+
+“(J) In fiscal year 2035 and each fiscal year thereafter, the amount equal to
+the dollar limit for the immediately preceding fiscal year, increased by 2.2.
+percent.
+
+“(3) In fiscal year 2026, $80,000,000, to be derived from all contributions
+and to remain available until expended, shall be available for the Office to
+conduct the audit required under section 90004(a)(4) of the Act titled ‘An Act
+to provide for reconciliation pursuant to title II of H. Con. Res. 14’.
+
+“(4) Amounts of all contributions shall be available for the Office of
+Personnel Management Office of the Inspector General to conduct oversight
+associated with activities under this chapter (including the Postal Service
+Health Benefits Program under section 8903c), including activities associated
+with enrollment and eligibility in these programs and any associated audit
+activities as required under section 90004 of the Act titled ‘An Act to
+provide for reconciliation pursuant to title II of H. Con. Res. 14’. Amounts
+for the Office of the Inspector General under this paragraph shall not be
+available in excess of the following amounts in the following fiscal years:
+
+“(A) In fiscal year 2026, $5,090,278.
+
+“(B) In fiscal year 2027 and each fiscal year thereafter, the amount equal to
+the dollar limit for the immediately preceding fiscal year, increased by 2.2
+percent.”.
